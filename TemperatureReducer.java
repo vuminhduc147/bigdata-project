@@ -14,10 +14,6 @@ public class TemperatureReducer extends Reducer<Text, Text, Text, Text> {
         double sumWindspeed = 0.0;
         int count = 0;
 
-        String[] cityDate = key.toString().split("-");
-        String city = cityDate[0];
-        String month = cityDate[1];
-
         for (Text val : values) {
             String[] fields = val.toString().split("\\t");
             double temperature = Double.parseDouble(fields[0]);
@@ -37,9 +33,8 @@ public class TemperatureReducer extends Reducer<Text, Text, Text, Text> {
         double avgRainfall = sumRainfall / count;
         double avgWindspeed = sumWindspeed / count;
 
-        // Định dạng kết quả đầu ra đúng định dạng mong muốn
-        String result = String.format("%s\t%s\t%.2f°C\t%.2f%%\t%.2fmm\t%.2fkph",
-                                      city, month, avgTemperature, avgHumidity, avgRainfall, avgWindspeed);
-        context.write(new Text(city), new Text(result));
+        String result = String.format("%.2f°C\t%.2f%%\t%.2fmm\t%.2fkph",
+                                      avgTemperature, avgHumidity, avgRainfall, avgWindspeed);
+        context.write(key, new Text(result)); // Key: city-year, Value: averages
     }
 }

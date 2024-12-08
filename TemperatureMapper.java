@@ -15,28 +15,28 @@ public class TemperatureMapper extends Mapper<Object, Text, Text, Text> {
         String line = value.toString();
         String[] fields = line.split("\\t");
 
-        if (fields.length == 6) { // Đảm bảo dòng có đúng 6 cột: city, date, temperature, humidity, rainfall, windspeed
-            String city = fields[0]; // Lấy tên thành phố
-            String date = fields[1]; // Lấy ngày
-            String temperature = fields[2].replace("°C", "").trim(); // Lấy nhiệt độ và loại bỏ ký tự '°C'
-            String humidity = fields[3].replace("%", "").trim(); // Lấy độ ẩm và loại bỏ ký tự '%'
-            String rainfall = fields[4].replace(" mm", "").trim(); // Lấy lượng mưa và loại bỏ ký tự 'mm'
-            String windspeed = fields[5].replace(" kph", "").trim(); // Lấy tốc độ gió và loại bỏ ký tự 'kph'
+        if (fields.length == 6) { // city, date, temperature, humidity, rainfall, windspeed
+            String city = fields[0];
+            String date = fields[1];
+            String temperature = fields[2].replace("°C", "").trim();
+            String humidity = fields[3].replace("%", "").trim();
+            String rainfall = fields[4].replace(" mm", "").trim();
+            String windspeed = fields[5].replace(" kph", "").trim();
 
-            // Chuyển đổi date thành định dạng tháng-năm
+            // Chuyển đổi ngày sang định dạng năm
             SimpleDateFormat inputFormat = new SimpleDateFormat("dd/MM/yyyy");
-            SimpleDateFormat outputFormat = new SimpleDateFormat("MM/yyyy");
+            SimpleDateFormat outputFormat = new SimpleDateFormat("yyyy");
             try {
                 Date parsedDate = inputFormat.parse(date);
-                String month = outputFormat.format(parsedDate);
+                String year = outputFormat.format(parsedDate);
 
-                // Gộp city và month thành key
-                String cityMonthKey = city + "-" + month;
+                // Key: city-year
+                String cityYearKey = city + "-" + year;
 
-                // Gộp các giá trị lại thành chuỗi để truyền cho Reducer
+                // Value: temperature, humidity, rainfall, windspeed
                 String combinedValues = temperature + "\t" + humidity + "\t" + rainfall + "\t" + windspeed;
 
-                context.write(new Text(cityMonthKey), new Text(combinedValues));
+                context.write(new Text(cityYearKey), new Text(combinedValues));
             } catch (ParseException e) {
                 System.err.println("Error parsing date: " + date);
                 e.printStackTrace();
