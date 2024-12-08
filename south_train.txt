@@ -1,0 +1,2353 @@
+city	day/month/year	temperature	humidity	rainfall	wind_speed	uv_index
+Ho Chi Minh City	01/01/2024	28.30 °C	66.0%	0.0 mm	17.3 kph	7.0
+Binh Phuoc	01/01/2024	27.80 °C	71.0%	0.0 mm	16.9 kph	8.0
+Dong Nai	01/01/2024	21.40 °C	92.0%	1.2 mm	8.6 kph	5.0
+Ba Ria Vung Tau	01/01/2024	26.60 °C	78.0%	0.0 mm	27.7 kph	7.0
+Tien Giang	01/01/2024	22.50 °C	72.0%	0.1 mm	18.7 kph	6.0
+Tay Ninh	01/01/2024	28.90 °C	62.0%	0.0 mm	18.0 kph	8.0
+Binh Duong	01/01/2024	22.90 °C	88.0%	3.5 mm	15.5 kph	5.0
+Ho Chi Minh City	02/01/2024	28.40 °C	63.0%	0.0 mm	17.3 kph	8.0
+Binh Phuoc	02/01/2024	27.90 °C	69.0%	0.0 mm	17.6 kph	8.0
+Dong Nai	02/01/2024	20.90 °C	93.0%	0.8 mm	5.0 kph	5.0
+Ba Ria Vung Tau	02/01/2024	26.70 °C	76.0%	0.0 mm	30.6 kph	7.0
+Tien Giang	02/01/2024	22.70 °C	77.0%	1.7 mm	17.6 kph	6.0
+Tay Ninh	02/01/2024	29.00 °C	61.0%	0.0 mm	16.9 kph	9.0
+Binh Duong	02/01/2024	22.50 °C	86.0%	1.5 mm	10.8 kph	5.0
+Ho Chi Minh City	03/01/2024	28.50 °C	63.0%	0.0 mm	18.7 kph	9.0
+Binh Phuoc	03/01/2024	27.80 °C	70.0%	0.0 mm	18.4 kph	8.0
+Dong Nai	03/01/2024	21.50 °C	93.0%	12.3 mm	20.2 kph	5.0
+Ba Ria Vung Tau	03/01/2024	26.60 °C	78.0%	0.0 mm	34.6 kph	7.0
+Tien Giang	03/01/2024	19.10 °C	80.0%	3.2 mm	21.6 kph	5.0
+Tay Ninh	03/01/2024	29.00 °C	62.0%	0.0 mm	17.6 kph	7.0
+Binh Duong	03/01/2024	23.00 °C	86.0%	9.6 mm	19.8 kph	5.0
+Ho Chi Minh City	04/01/2024	27.80 °C	61.0%	0.0 mm	18.0 kph	8.0
+Binh Phuoc	04/01/2024	27.00 °C	67.0%	0.0 mm	18.0 kph	8.0
+Dong Nai	04/01/2024	18.50 °C	92.0%	5.3 mm	12.6 kph	4.0
+Ba Ria Vung Tau	04/01/2024	25.80 °C	76.0%	0.0 mm	36.7 kph	7.0
+Tien Giang	04/01/2024	19.00 °C	71.0%	0.1 mm	9.0 kph	5.0
+Tay Ninh	04/01/2024	28.00 °C	60.0%	0.0 mm	18.4 kph	8.0
+Binh Duong	04/01/2024	22.30 °C	80.0%	4.1 mm	16.2 kph	5.0
+Ho Chi Minh City	05/01/2024	27.80 °C	59.0%	0.0 mm	13.0 kph	7.0
+Binh Phuoc	05/01/2024	27.10 °C	66.0%	0.0 mm	13.7 kph	7.0
+Dong Nai	05/01/2024	19.70 °C	90.0%	0.4 mm	7.2 kph	5.0
+Ba Ria Vung Tau	05/01/2024	26.10 °C	72.0%	0.0 mm	29.5 kph	7.0
+Tien Giang	05/01/2024	21.10 °C	74.0%	0.6 mm	13.7 kph	5.0
+Tay Ninh	05/01/2024	27.80 °C	60.0%	0.0 mm	9.7 kph	8.0
+Binh Duong	05/01/2024	21.80 °C	79.0%	0.3 mm	13.7 kph	6.0
+Ho Chi Minh City	06/01/2024	28.60 °C	58.0%	0.1 mm	16.6 kph	9.0
+Binh Phuoc	06/01/2024	27.80 °C	65.0%	0.0 mm	18.0 kph	8.0
+Dong Nai	06/01/2024	20.60 °C	88.0%	0.7 mm	5.8 kph	5.0
+Ba Ria Vung Tau	06/01/2024	26.50 °C	74.0%	0.0 mm	33.1 kph	7.0
+Tien Giang	06/01/2024	21.60 °C	76.0%	1.3 mm	16.6 kph	5.0
+Tay Ninh	06/01/2024	28.30 °C	57.0%	0.0 mm	17.6 kph	8.0
+Binh Duong	06/01/2024	22.00 °C	83.0%	2.8 mm	11.9 kph	5.0
+Ho Chi Minh City	07/01/2024	28.30 °C	64.0%	0.0 mm	17.3 kph	7.0
+Binh Phuoc	07/01/2024	27.80 °C	68.0%	0.0 mm	19.4 kph	7.0
+Dong Nai	07/01/2024	21.60 °C	86.0%	1.5 mm	9.4 kph	5.0
+Ba Ria Vung Tau	07/01/2024	26.40 °C	78.0%	0.0 mm	37.1 kph	7.0
+Tien Giang	07/01/2024	22.10 °C	72.0%	0.6 mm	17.6 kph	6.0
+Tay Ninh	07/01/2024	28.70 °C	62.0%	0.0 mm	18.7 kph	8.0
+Binh Duong	07/01/2024	22.40 °C	87.0%	7.5 mm	15.1 kph	5.0
+Ho Chi Minh City	08/01/2024	28.00 °C	65.0%	0.0 mm	18.7 kph	7.0
+Binh Phuoc	08/01/2024	27.30 °C	69.0%	0.0 mm	19.1 kph	7.0
+Dong Nai	08/01/2024	21.90 °C	88.0%	0.5 mm	10.8 kph	5.0
+Ba Ria Vung Tau	08/01/2024	26.10 °C	78.0%	0.0 mm	34.2 kph	7.0
+Tien Giang	08/01/2024	22.10 °C	78.0%	0.8 mm	18.4 kph	5.0
+Tay Ninh	08/01/2024	28.50 °C	64.0%	0.0 mm	19.4 kph	8.0
+Binh Duong	08/01/2024	22.60 °C	85.0%	1.2 mm	13.0 kph	5.0
+Ho Chi Minh City	09/01/2024	28.40 °C	62.0%	0.0 mm	18.7 kph	8.0
+Binh Phuoc	09/01/2024	27.60 °C	68.0%	0.0 mm	19.8 kph	8.0
+Dong Nai	09/01/2024	21.90 °C	85.0%	0.1 mm	12.6 kph	7.0
+Ba Ria Vung Tau	09/01/2024	26.30 °C	78.0%	0.0 mm	32.4 kph	7.0
+Tien Giang	09/01/2024	22.30 °C	78.0%	0.8 mm	15.5 kph	5.0
+Tay Ninh	09/01/2024	28.70 °C	62.0%	0.0 mm	20.5 kph	8.0
+Binh Duong	09/01/2024	22.40 °C	85.0%	0.3 mm	12.2 kph	5.0
+Ho Chi Minh City	10/01/2024	28.20 °C	61.0%	0.0 mm	18.4 kph	7.0
+Binh Phuoc	10/01/2024	27.80 °C	66.0%	0.0 mm	19.4 kph	7.0
+Dong Nai	10/01/2024	22.30 °C	88.0%	1.1 mm	10.1 kph	5.0
+Ba Ria Vung Tau	10/01/2024	26.60 °C	76.0%	0.0 mm	36.4 kph	7.0
+Tien Giang	10/01/2024	19.90 °C	89.0%	17.4 mm	10.4 kph	5.0
+Tay Ninh	10/01/2024	28.10 °C	65.0%	0.0 mm	18.4 kph	7.0
+Binh Duong	10/01/2024	23.00 °C	83.0%	1.7 mm	11.9 kph	5.0
+Ho Chi Minh City	11/01/2024	28.10 °C	60.0%	0.0 mm	19.8 kph	9.0
+Binh Phuoc	11/01/2024	27.50 °C	64.0%	0.0 mm	20.5 kph	8.0
+Dong Nai	11/01/2024	22.00 °C	90.0%	3.8 mm	6.5 kph	5.0
+Ba Ria Vung Tau	11/01/2024	26.10 °C	76.0%	0.0 mm	40.7 kph	7.0
+Tien Giang	11/01/2024	18.00 °C	88.0%	5.2 mm	9.4 kph	4.0
+Tay Ninh	11/01/2024	28.50 °C	61.0%	0.0 mm	20.2 kph	8.0
+Binh Duong	11/01/2024	22.30 °C	87.0%	3.8 mm	14.8 kph	5.0
+Ho Chi Minh City	12/01/2024	27.00 °C	60.0%	0.0 mm	20.5 kph	8.0
+Binh Phuoc	12/01/2024	26.60 °C	66.0%	0.0 mm	20.2 kph	8.0
+Dong Nai	12/01/2024	22.10 °C	84.0%	0.8 mm	14.8 kph	6.0
+Ba Ria Vung Tau	12/01/2024	25.40 °C	75.0%	0.0 mm	41.4 kph	7.0
+Tien Giang	12/01/2024	17.50 °C	91.0%	8.8 mm	8.3 kph	4.0
+Tay Ninh	12/01/2024	27.60 °C	63.0%	0.0 mm	19.1 kph	8.0
+Binh Duong	12/01/2024	22.40 °C	82.0%	2.5 mm	11.2 kph	5.0
+Ho Chi Minh City	13/01/2024	26.80 °C	59.0%	0.0 mm	20.5 kph	8.0
+Binh Phuoc	13/01/2024	26.30 °C	65.0%	0.0 mm	19.8 kph	8.0
+Dong Nai	13/01/2024	21.70 °C	85.0%	3.1 mm	15.1 kph	5.0
+Ba Ria Vung Tau	13/01/2024	25.40 °C	74.0%	0.0 mm	35.6 kph	7.0
+Tien Giang	13/01/2024	18.50 °C	89.0%	2.5 mm	6.5 kph	4.0
+Tay Ninh	13/01/2024	27.40 °C	61.0%	0.0 mm	18.7 kph	8.0
+Binh Duong	13/01/2024	22.20 °C	84.0%	5.3 mm	18.0 kph	5.0
+Ho Chi Minh City	14/01/2024	26.90 °C	56.0%	0.0 mm	18.0 kph	8.0
+Binh Phuoc	14/01/2024	26.50 °C	62.0%	0.0 mm	17.3 kph	8.0
+Dong Nai	14/01/2024	20.90 °C	89.0%	2.5 mm	14.0 kph	5.0
+Ba Ria Vung Tau	14/01/2024	25.10 °C	72.0%	0.0 mm	29.5 kph	7.0
+Tien Giang	14/01/2024	20.90 °C	78.0%	0.5 mm	10.4 kph	5.0
+Tay Ninh	14/01/2024	27.00 °C	58.0%	0.0 mm	14.0 kph	8.0
+Binh Duong	14/01/2024	22.00 °C	79.0%	1.9 mm	10.1 kph	5.0
+Ho Chi Minh City	15/01/2024	27.20 °C	58.0%	0.0 mm	14.8 kph	8.0
+Binh Phuoc	15/01/2024	26.60 °C	65.0%	0.0 mm	15.5 kph	8.0
+Dong Nai	15/01/2024	20.90 °C	89.0%	2.1 mm	8.3 kph	5.0
+Ba Ria Vung Tau	15/01/2024	25.70 °C	73.0%	0.0 mm	30.2 kph	7.0
+Tien Giang	15/01/2024	21.40 °C	77.0%	0.3 mm	15.1 kph	5.0
+Tay Ninh	15/01/2024	27.20 °C	57.0%	0.0 mm	15.5 kph	8.0
+Binh Duong	15/01/2024	22.40 °C	82.0%	6.9 mm	15.1 kph	5.0
+Ho Chi Minh City	16/01/2024	28.10 °C	54.0%	0.0 mm	14.4 kph	7.0
+Binh Phuoc	16/01/2024	27.70 °C	58.0%	0.0 mm	14.4 kph	7.0
+Dong Nai	16/01/2024	21.80 °C	81.0%	1.9 mm	16.2 kph	6.0
+Ba Ria Vung Tau	16/01/2024	26.30 °C	73.0%	0.0 mm	31.0 kph	7.0
+Tien Giang	16/01/2024	20.80 °C	79.0%	1.0 mm	16.2 kph	5.0
+Tay Ninh	16/01/2024	28.20 °C	54.0%	0.0 mm	17.3 kph	7.0
+Binh Duong	16/01/2024	22.50 °C	81.0%	5.0 mm	16.2 kph	5.0
+Ho Chi Minh City	17/01/2024	28.30 °C	55.0%	0.0 mm	18.7 kph	8.0
+Binh Phuoc	17/01/2024	27.80 °C	60.0%	0.0 mm	18.7 kph	8.0
+Dong Nai	17/01/2024	21.40 °C	82.0%	1.1 mm	12.6 kph	5.0
+Ba Ria Vung Tau	17/01/2024	26.20 °C	72.0%	0.1 mm	38.2 kph	7.0
+Tien Giang	17/01/2024	21.40 °C	78.0%	1.1 mm	18.4 kph	6.0
+Tay Ninh	17/01/2024	28.00 °C	55.0%	0.0 mm	18.0 kph	8.0
+Binh Duong	17/01/2024	21.90 °C	83.0%	2.4 mm	13.7 kph	5.0
+Ho Chi Minh City	18/01/2024	29.00 °C	55.0%	0.0 mm	19.4 kph	9.0
+Binh Phuoc	18/01/2024	28.40 °C	60.0%	0.0 mm	20.9 kph	9.0
+Dong Nai	18/01/2024	21.40 °C	87.0%	0.1 mm	11.9 kph	5.0
+Ba Ria Vung Tau	18/01/2024	26.20 °C	76.0%	0.0 mm	36.7 kph	7.0
+Tien Giang	18/01/2024	21.90 °C	80.0%	0.9 mm	17.3 kph	6.0
+Tay Ninh	18/01/2024	28.80 °C	58.0%	0.0 mm	22.3 kph	8.0
+Binh Duong	18/01/2024	22.10 °C	85.0%	1.0 mm	13.7 kph	5.0
+Ho Chi Minh City	19/01/2024	28.10 °C	58.0%	0.0 mm	23.0 kph	8.0
+Binh Phuoc	19/01/2024	27.60 °C	64.0%	0.0 mm	22.3 kph	8.0
+Dong Nai	19/01/2024	21.80 °C	87.0%	0.0 mm	13.7 kph	6.0
+Ba Ria Vung Tau	19/01/2024	26.00 °C	77.0%	0.0 mm	35.6 kph	7.0
+Tien Giang	19/01/2024	22.40 °C	80.0%	1.4 mm	17.3 kph	6.0
+Tay Ninh	19/01/2024	27.80 °C	63.0%	0.0 mm	20.5 kph	8.0
+Binh Duong	19/01/2024	21.80 °C	85.0%	0.0 mm	14.8 kph	7.0
+Ho Chi Minh City	20/01/2024	27.30 °C	61.0%	0.0 mm	18.7 kph	8.0
+Binh Phuoc	20/01/2024	26.70 °C	66.0%	0.0 mm	19.4 kph	8.0
+Dong Nai	20/01/2024	21.70 °C	83.0%	0.0 mm	13.0 kph	5.0
+Ba Ria Vung Tau	20/01/2024	25.20 °C	77.0%	0.0 mm	34.2 kph	7.0
+Tien Giang	20/01/2024	22.10 °C	79.0%	1.2 mm	15.8 kph	5.0
+Tay Ninh	20/01/2024	27.10 °C	64.0%	0.0 mm	19.4 kph	8.0
+Binh Duong	20/01/2024	21.70 °C	84.0%	0.0 mm	13.0 kph	6.0
+Ho Chi Minh City	21/01/2024	27.60 °C	58.0%	0.0 mm	20.2 kph	9.0
+Binh Phuoc	21/01/2024	27.30 °C	63.0%	0.0 mm	20.2 kph	8.0
+Dong Nai	21/01/2024	21.90 °C	84.0%	0.9 mm	13.7 kph	6.0
+Ba Ria Vung Tau	21/01/2024	25.90 °C	75.0%	0.0 mm	34.6 kph	7.0
+Tien Giang	21/01/2024	20.10 °C	79.0%	1.4 mm	14.8 kph	5.0
+Tay Ninh	21/01/2024	27.30 °C	61.0%	0.0 mm	17.6 kph	8.0
+Binh Duong	21/01/2024	21.90 °C	83.0%	0.5 mm	11.5 kph	5.0
+Ho Chi Minh City	22/01/2024	28.10 °C	54.0%	0.0 mm	21.2 kph	9.0
+Binh Phuoc	22/01/2024	27.80 °C	59.0%	0.0 mm	21.2 kph	8.0
+Dong Nai	22/01/2024	19.60 °C	88.0%	19.1 mm	25.9 kph	5.0
+Ba Ria Vung Tau	22/01/2024	26.10 °C	73.0%	0.0 mm	37.8 kph	7.0
+Tien Giang	22/01/2024	12.40 °C	79.0%	6.9 mm	30.2 kph	4.0
+Tay Ninh	22/01/2024	27.90 °C	58.0%	0.0 mm	18.0 kph	8.0
+Binh Duong	22/01/2024	22.60 °C	85.0%	4.2 mm	13.0 kph	5.0
+Ho Chi Minh City	23/01/2024	28.50 °C	55.0%	0.0 mm	20.9 kph	9.0
+Binh Phuoc	23/01/2024	27.90 °C	60.0%	0.0 mm	22.3 kph	9.0
+Dong Nai	23/01/2024	12.60 °C	85.0%	7.3 mm	19.4 kph	3.0
+Ba Ria Vung Tau	23/01/2024	26.10 °C	75.0%	0.0 mm	39.6 kph	7.0
+Tien Giang	23/01/2024	9.40 °C	68.0%	0.1 mm	19.4 kph	3.0
+Tay Ninh	23/01/2024	28.60 °C	56.0%	0.0 mm	23.0 kph	8.0
+Binh Duong	23/01/2024	19.50 °C	93.0%	49.1 mm	20.9 kph	5.0
+Ho Chi Minh City	24/01/2024	28.50 °C	55.0%	0.0 mm	20.5 kph	9.0
+Binh Phuoc	24/01/2024	27.60 °C	61.0%	0.0 mm	22.3 kph	8.0
+Dong Nai	24/01/2024	12.90 °C	82.0%	6.7 mm	17.6 kph	3.0
+Ba Ria Vung Tau	24/01/2024	25.80 °C	75.0%	0.0 mm	46.4 kph	7.0
+Tien Giang	24/01/2024	10.30 °C	61.0%	0.0 mm	13.0 kph	3.0
+Tay Ninh	24/01/2024	28.70 °C	54.0%	0.0 mm	15.1 kph	8.0
+Binh Duong	24/01/2024	19.00 °C	93.0%	24.3 mm	12.6 kph	4.0
+Ho Chi Minh City	25/01/2024	28.20 °C	55.0%	0.0 mm	18.4 kph	9.0
+Binh Phuoc	25/01/2024	27.20 °C	61.0%	0.0 mm	19.4 kph	8.0
+Dong Nai	25/01/2024	13.80 °C	85.0%	4.9 mm	14.0 kph	4.0
+Ba Ria Vung Tau	25/01/2024	25.80 °C	71.0%	0.0 mm	44.6 kph	7.0
+Tien Giang	25/01/2024	11.30 °C	60.0%	0.0 mm	9.7 kph	3.0
+Tay Ninh	25/01/2024	27.70 °C	56.0%	0.0 mm	19.4 kph	8.0
+Binh Duong	25/01/2024	19.70 °C	90.0%	9.3 mm	11.9 kph	5.0
+Ho Chi Minh City	26/01/2024	28.00 °C	55.0%	0.0 mm	20.5 kph	9.0
+Binh Phuoc	26/01/2024	27.20 °C	60.0%	0.0 mm	21.2 kph	8.0
+Dong Nai	26/01/2024	14.70 °C	87.0%	2.8 mm	15.1 kph	4.0
+Ba Ria Vung Tau	26/01/2024	25.60 °C	73.0%	0.0 mm	41.8 kph	7.0
+Tien Giang	26/01/2024	11.80 °C	66.0%	0.0 mm	8.3 kph	3.0
+Tay Ninh	26/01/2024	28.00 °C	54.0%	0.0 mm	20.5 kph	8.0
+Binh Duong	26/01/2024	20.20 °C	90.0%	7.1 mm	13.0 kph	5.0
+Ho Chi Minh City	27/01/2024	27.30 °C	57.0%	0.0 mm	22.7 kph	9.0
+Binh Phuoc	27/01/2024	26.60 °C	62.0%	0.0 mm	22.7 kph	8.0
+Dong Nai	27/01/2024	15.70 °C	88.0%	2.9 mm	16.2 kph	4.0
+Ba Ria Vung Tau	27/01/2024	25.10 °C	74.0%	0.0 mm	42.1 kph	7.0
+Tien Giang	27/01/2024	12.80 °C	71.0%	0.4 mm	10.4 kph	3.0
+Tay Ninh	27/01/2024	27.30 °C	59.0%	0.0 mm	21.6 kph	8.0
+Binh Duong	27/01/2024	20.50 °C	91.0%	4.8 mm	10.8 kph	5.0
+Ho Chi Minh City	28/01/2024	27.50 °C	54.0%	0.0 mm	18.0 kph	8.0
+Binh Phuoc	28/01/2024	26.40 °C	60.0%	0.0 mm	19.1 kph	8.0
+Dong Nai	28/01/2024	14.40 °C	89.0%	4.3 mm	12.6 kph	3.0
+Ba Ria Vung Tau	28/01/2024	25.10 °C	73.0%	0.0 mm	40.3 kph	7.0
+Tien Giang	28/01/2024	12.30 °C	67.0%	0.0 mm	12.6 kph	3.0
+Tay Ninh	28/01/2024	27.00 °C	56.0%	0.0 mm	19.4 kph	8.0
+Binh Duong	28/01/2024	20.00 °C	83.0%	0.5 mm	9.0 kph	5.0
+Ho Chi Minh City	29/01/2024	27.80 °C	52.0%	0.0 mm	18.4 kph	9.0
+Binh Phuoc	29/01/2024	26.80 °C	59.0%	0.0 mm	20.5 kph	8.0
+Dong Nai	29/01/2024	15.10 °C	90.0%	5.4 mm	10.8 kph	4.0
+Ba Ria Vung Tau	29/01/2024	25.20 °C	72.0%	0.0 mm	40.7 kph	7.0
+Tien Giang	29/01/2024	13.70 °C	72.0%	1.0 mm	7.9 kph	4.0
+Tay Ninh	29/01/2024	27.20 °C	55.0%	0.0 mm	20.5 kph	8.0
+Binh Duong	29/01/2024	20.30 °C	84.0%	0.5 mm	10.8 kph	5.0
+Ho Chi Minh City	30/01/2024	27.90 °C	54.0%	0.0 mm	21.2 kph	9.0
+Binh Phuoc	30/01/2024	27.30 °C	60.0%	0.0 mm	21.6 kph	8.0
+Dong Nai	30/01/2024	18.50 °C	87.0%	0.1 mm	9.4 kph	5.0
+Ba Ria Vung Tau	30/01/2024	25.70 °C	75.0%	0.0 mm	34.9 kph	7.0
+Tien Giang	30/01/2024	17.60 °C	73.0%	0.1 mm	8.6 kph	5.0
+Tay Ninh	30/01/2024	27.50 °C	59.0%	0.0 mm	23.0 kph	8.0
+Binh Duong	30/01/2024	20.90 °C	85.0%	0.0 mm	10.1 kph	6.0
+Ho Chi Minh City	31/01/2024	27.70 °C	59.0%	0.0 mm	20.9 kph	8.0
+Binh Phuoc	31/01/2024	27.10 °C	64.0%	0.0 mm	20.9 kph	8.0
+Dong Nai	31/01/2024	21.10 °C	89.0%	0.0 mm	11.5 kph	5.0
+Ba Ria Vung Tau	31/01/2024	25.70 °C	78.0%	0.0 mm	32.8 kph	7.0
+Tien Giang	31/01/2024	18.90 °C	84.0%	0.2 mm	10.4 kph	5.0
+Tay Ninh	31/01/2024	27.30 °C	64.0%	0.0 mm	21.2 kph	8.0
+Binh Duong	31/01/2024	22.10 °C	88.0%	0.1 mm	16.2 kph	7.0
+Ho Chi Minh City	01/02/2024	28.00 °C	62.0%	0.0 mm	22.3 kph	9.0
+Binh Phuoc	01/02/2024	27.30 °C	69.0%	0.0 mm	22.3 kph	8.0
+Dong Nai	01/02/2024	22.50 °C	89.0%	0.0 mm	12.6 kph	6.0
+Ba Ria Vung Tau	01/02/2024	25.60 °C	82.0%	0.0 mm	30.2 kph	7.0
+Tien Giang	01/02/2024	22.30 °C	85.0%	0.6 mm	17.3 kph	6.0
+Tay Ninh	01/02/2024	27.90 °C	63.0%	0.0 mm	19.4 kph	8.0
+Binh Duong	01/02/2024	22.80 °C	89.0%	0.0 mm	18.4 kph	6.0
+Ho Chi Minh City	02/02/2024	28.00 °C	63.0%	0.0 mm	21.2 kph	9.0
+Binh Phuoc	02/02/2024	27.30 °C	70.0%	0.0 mm	20.2 kph	8.0
+Dong Nai	02/02/2024	22.80 °C	89.0%	0.0 mm	13.0 kph	6.0
+Ba Ria Vung Tau	02/02/2024	25.80 °C	82.0%	0.0 mm	27.4 kph	7.0
+Tien Giang	02/02/2024	22.90 °C	83.0%	0.8 mm	21.6 kph	6.0
+Tay Ninh	02/02/2024	28.20 °C	64.0%	0.0 mm	20.2 kph	9.0
+Binh Duong	02/02/2024	22.70 °C	88.0%	0.0 mm	17.6 kph	6.0
+Ho Chi Minh City	03/02/2024	28.10 °C	67.0%	0.0 mm	23.4 kph	9.0
+Binh Phuoc	03/02/2024	27.30 °C	71.0%	0.0 mm	20.9 kph	7.0
+Dong Nai	03/02/2024	23.00 °C	89.0%	0.0 mm	10.4 kph	6.0
+Ba Ria Vung Tau	03/02/2024	25.60 °C	83.0%	0.0 mm	30.2 kph	7.0
+Tien Giang	03/02/2024	22.90 °C	83.0%	1.5 mm	20.5 kph	5.0
+Tay Ninh	03/02/2024	28.20 °C	63.0%	0.0 mm	20.9 kph	9.0
+Binh Duong	03/02/2024	23.00 °C	86.0%	0.0 mm	18.4 kph	7.0
+Ho Chi Minh City	04/02/2024	28.40 °C	65.0%	0.0 mm	21.6 kph	9.0
+Binh Phuoc	04/02/2024	27.60 °C	71.0%	0.0 mm	18.7 kph	7.0
+Dong Nai	04/02/2024	23.40 °C	87.0%	0.0 mm	13.7 kph	6.0
+Ba Ria Vung Tau	04/02/2024	25.80 °C	83.0%	0.0 mm	27.4 kph	7.0
+Tien Giang	04/02/2024	23.40 °C	82.0%	0.4 mm	20.5 kph	6.0
+Tay Ninh	04/02/2024	28.50 °C	62.0%	0.0 mm	21.2 kph	9.0
+Binh Duong	04/02/2024	23.20 °C	87.0%	0.0 mm	16.9 kph	7.0
+Ho Chi Minh City	05/02/2024	28.60 °C	66.0%	0.0 mm	22.7 kph	9.0
+Binh Phuoc	05/02/2024	27.80 °C	72.0%	0.0 mm	20.9 kph	7.0
+Dong Nai	05/02/2024	23.10 °C	88.0%	0.0 mm	12.2 kph	6.0
+Ba Ria Vung Tau	05/02/2024	26.20 °C	83.0%	0.0 mm	22.0 kph	7.0
+Tien Giang	05/02/2024	23.20 °C	80.0%	0.5 mm	21.6 kph	6.0
+Tay Ninh	05/02/2024	28.70 °C	65.0%	0.4 mm	20.9 kph	8.0
+Binh Duong	05/02/2024	23.50 °C	89.0%	0.0 mm	15.1 kph	6.0
+Ho Chi Minh City	06/02/2024	28.90 °C	64.0%	0.0 mm	24.1 kph	9.0
+Binh Phuoc	06/02/2024	28.00 °C	71.0%	0.0 mm	22.3 kph	8.0
+Dong Nai	06/02/2024	23.10 °C	89.0%	0.0 mm	14.0 kph	6.0
+Ba Ria Vung Tau	06/02/2024	26.50 °C	83.0%	0.0 mm	25.2 kph	7.0
+Tien Giang	06/02/2024	22.50 °C	85.0%	0.6 mm	21.2 kph	6.0
+Tay Ninh	06/02/2024	29.10 °C	62.0%	0.0 mm	23.0 kph	9.0
+Binh Duong	06/02/2024	23.70 °C	88.0%	0.1 mm	19.1 kph	6.0
+Ho Chi Minh City	07/02/2024	28.50 °C	68.0%	0.0 mm	24.5 kph	9.0
+Binh Phuoc	07/02/2024	27.70 °C	73.0%	0.0 mm	21.6 kph	7.0
+Dong Nai	07/02/2024	23.20 °C	87.0%	0.0 mm	15.1 kph	6.0
+Ba Ria Vung Tau	07/02/2024	26.20 °C	84.0%	0.0 mm	23.0 kph	6.0
+Tien Giang	07/02/2024	21.40 °C	85.0%	1.1 mm	19.1 kph	5.0
+Tay Ninh	07/02/2024	29.00 °C	64.0%	0.0 mm	22.3 kph	8.0
+Binh Duong	07/02/2024	23.60 °C	89.0%	0.0 mm	14.8 kph	7.0
+Ho Chi Minh City	08/02/2024	28.10 °C	67.0%	0.0 mm	22.3 kph	8.0
+Binh Phuoc	08/02/2024	27.30 °C	70.0%	0.0 mm	19.1 kph	8.0
+Dong Nai	08/02/2024	19.40 °C	92.0%	3.5 mm	16.9 kph	5.0
+Ba Ria Vung Tau	08/02/2024	26.00 °C	82.0%	0.0 mm	20.9 kph	7.0
+Tien Giang	08/02/2024	14.10 °C	76.0%	1.1 mm	15.8 kph	4.0
+Tay Ninh	08/02/2024	29.00 °C	61.0%	0.0 mm	23.0 kph	9.0
+Binh Duong	08/02/2024	23.20 °C	90.0%	0.3 mm	12.2 kph	6.0
+Ho Chi Minh City	09/02/2024	29.00 °C	63.0%	0.0 mm	27.0 kph	9.0
+Binh Phuoc	09/02/2024	27.90 °C	71.0%	0.0 mm	26.6 kph	7.0
+Dong Nai	09/02/2024	17.00 °C	89.0%	5.0 mm	20.2 kph	4.0
+Ba Ria Vung Tau	09/02/2024	26.60 °C	82.0%	0.0 mm	43.9 kph	7.0
+Tien Giang	09/02/2024	14.00 °C	58.0%	0.1 mm	18.7 kph	4.0
+Tay Ninh	09/02/2024	28.80 °C	63.0%	0.0 mm	31.0 kph	9.0
+Binh Duong	09/02/2024	20.70 °C	89.0%	1.7 mm	21.2 kph	5.0
+Ho Chi Minh City	10/02/2024	28.70 °C	57.0%	0.0 mm	26.3 kph	9.0
+Binh Phuoc	10/02/2024	28.20 °C	61.0%	0.0 mm	27.0 kph	9.0
+Dong Nai	10/02/2024	15.70 °C	79.0%	2.6 mm	14.4 kph	4.0
+Ba Ria Vung Tau	10/02/2024	26.40 °C	74.0%	0.0 mm	52.2 kph	7.0
+Tien Giang	10/02/2024	17.40 °C	49.0%	0.0 mm	12.6 kph	6.0
+Tay Ninh	10/02/2024	29.20 °C	56.0%	0.0 mm	26.6 kph	9.0
+Binh Duong	10/02/2024	19.80 °C	86.0%	6.3 mm	20.2 kph	5.0
+Ho Chi Minh City	11/02/2024	28.40 °C	53.0%	0.0 mm	20.2 kph	9.0
+Binh Phuoc	11/02/2024	27.40 °C	59.0%	0.0 mm	21.2 kph	8.0
+Dong Nai	11/02/2024	17.20 °C	72.0%	0.0 mm	15.5 kph	5.0
+Ba Ria Vung Tau	11/02/2024	26.30 °C	72.0%	0.0 mm	44.6 kph	7.0
+Tien Giang	11/02/2024	19.20 °C	51.0%	0.0 mm	17.3 kph	6.0
+Tay Ninh	11/02/2024	28.90 °C	49.0%	0.0 mm	19.1 kph	9.0
+Binh Duong	11/02/2024	19.40 °C	88.0%	4.7 mm	13.3 kph	5.0
+Ho Chi Minh City	12/02/2024	27.90 °C	52.0%	0.0 mm	21.6 kph	9.0
+Binh Phuoc	12/02/2024	27.10 °C	57.0%	0.0 mm	23.0 kph	8.0
+Dong Nai	12/02/2024	17.30 °C	81.0%	0.0 mm	9.4 kph	5.0
+Ba Ria Vung Tau	12/02/2024	25.50 °C	70.0%	0.0 mm	40.0 kph	7.0
+Tien Giang	12/02/2024	18.90 °C	67.0%	0.0 mm	18.7 kph	5.0
+Tay Ninh	12/02/2024	27.50 °C	50.0%	0.0 mm	19.1 kph	8.0
+Binh Duong	12/02/2024	21.10 °C	80.0%	3.1 mm	13.7 kph	5.0
+Ho Chi Minh City	13/02/2024	28.90 °C	50.0%	0.0 mm	20.2 kph	9.0
+Binh Phuoc	13/02/2024	27.90 °C	57.0%	0.0 mm	22.0 kph	9.0
+Dong Nai	13/02/2024	18.70 °C	88.0%	0.3 mm	8.6 kph	5.0
+Ba Ria Vung Tau	13/02/2024	26.40 °C	72.0%	0.0 mm	42.1 kph	7.0
+Tien Giang	13/02/2024	19.10 °C	83.0%	0.4 mm	14.0 kph	5.0
+Tay Ninh	13/02/2024	28.00 °C	54.0%	0.0 mm	23.0 kph	8.0
+Binh Duong	13/02/2024	21.70 °C	83.0%	1.8 mm	14.0 kph	5.0
+Ho Chi Minh City	14/02/2024	29.50 °C	52.0%	0.0 mm	22.0 kph	9.0
+Binh Phuoc	14/02/2024	28.80 °C	57.0%	0.0 mm	23.8 kph	9.0
+Dong Nai	14/02/2024	20.60 °C	86.0%	0.0 mm	14.8 kph	5.0
+Ba Ria Vung Tau	14/02/2024	26.80 °C	74.0%	0.0 mm	42.5 kph	7.0
+Tien Giang	14/02/2024	21.60 °C	74.0%	0.4 mm	20.9 kph	6.0
+Tay Ninh	14/02/2024	28.80 °C	58.0%	0.0 mm	26.3 kph	9.0
+Binh Duong	14/02/2024	22.00 °C	87.0%	0.6 mm	15.8 kph	5.0
+Ho Chi Minh City	15/02/2024	30.20 °C	51.0%	0.0 mm	29.2 kph	9.0
+Binh Phuoc	15/02/2024	29.30 °C	57.0%	0.0 mm	28.8 kph	9.0
+Dong Nai	15/02/2024	21.40 °C	89.0%	0.8 mm	12.2 kph	5.0
+Ba Ria Vung Tau	15/02/2024	27.20 °C	74.0%	0.0 mm	40.7 kph	7.0
+Tien Giang	15/02/2024	21.10 °C	80.0%	0.8 mm	12.6 kph	5.0
+Tay Ninh	15/02/2024	29.70 °C	54.0%	0.0 mm	30.6 kph	9.0
+Binh Duong	15/02/2024	22.40 °C	89.0%	0.8 mm	12.6 kph	5.0
+Ho Chi Minh City	16/02/2024	29.50 °C	52.0%	0.0 mm	26.6 kph	9.0
+Binh Phuoc	16/02/2024	28.70 °C	57.0%	0.0 mm	27.0 kph	9.0
+Dong Nai	16/02/2024	21.30 °C	85.0%	1.2 mm	11.9 kph	5.0
+Ba Ria Vung Tau	16/02/2024	26.90 °C	73.0%	0.0 mm	45.0 kph	7.0
+Tien Giang	16/02/2024	21.70 °C	71.0%	0.4 mm	17.6 kph	6.0
+Tay Ninh	16/02/2024	29.00 °C	58.0%	0.0 mm	30.2 kph	9.0
+Binh Duong	16/02/2024	22.40 °C	90.0%	2.7 mm	11.2 kph	5.0
+Ho Chi Minh City	17/02/2024	28.70 °C	54.0%	0.0 mm	24.1 kph	9.0
+Binh Phuoc	17/02/2024	28.20 °C	57.0%	0.0 mm	24.1 kph	9.0
+Dong Nai	17/02/2024	21.70 °C	83.0%	0.0 mm	15.8 kph	7.0
+Ba Ria Vung Tau	17/02/2024	26.70 °C	73.0%	0.0 mm	44.6 kph	7.0
+Tien Giang	17/02/2024	22.20 °C	74.0%	0.1 mm	21.6 kph	6.0
+Tay Ninh	17/02/2024	28.30 °C	57.0%	0.0 mm	25.2 kph	9.0
+Binh Duong	17/02/2024	22.20 °C	84.0%	0.0 mm	15.8 kph	7.0
+Ho Chi Minh City	18/02/2024	28.80 °C	61.0%	0.0 mm	25.9 kph	9.0
+Binh Phuoc	18/02/2024	28.00 °C	68.0%	0.0 mm	23.4 kph	8.0
+Dong Nai	18/02/2024	23.10 °C	82.0%	0.0 mm	13.3 kph	6.0
+Ba Ria Vung Tau	18/02/2024	26.60 °C	80.0%	0.0 mm	31.3 kph	7.0
+Tien Giang	18/02/2024	24.50 °C	75.0%	0.3 mm	25.6 kph	6.0
+Tay Ninh	18/02/2024	28.60 °C	63.0%	0.0 mm	27.4 kph	9.0
+Binh Duong	18/02/2024	22.80 °C	86.0%	0.0 mm	20.9 kph	7.0
+Ho Chi Minh City	19/02/2024	29.00 °C	64.0%	0.0 mm	25.9 kph	9.0
+Binh Phuoc	19/02/2024	28.20 °C	70.0%	0.0 mm	23.0 kph	8.0
+Dong Nai	19/02/2024	25.30 °C	75.0%	0.0 mm	13.3 kph	8.0
+Ba Ria Vung Tau	19/02/2024	26.50 °C	82.0%	0.0 mm	28.8 kph	7.0
+Tien Giang	19/02/2024	25.40 °C	75.0%	0.1 mm	23.0 kph	7.0
+Tay Ninh	19/02/2024	29.30 °C	64.0%	0.0 mm	26.3 kph	9.0
+Binh Duong	19/02/2024	23.90 °C	85.0%	0.0 mm	19.8 kph	7.0
+Ho Chi Minh City	20/02/2024	28.90 °C	65.0%	0.0 mm	26.3 kph	9.0
+Binh Phuoc	20/02/2024	28.00 °C	71.0%	0.0 mm	22.0 kph	8.0
+Dong Nai	20/02/2024	26.10 °C	71.0%	0.0 mm	17.6 kph	8.0
+Ba Ria Vung Tau	20/02/2024	26.50 °C	83.0%	0.0 mm	27.0 kph	7.0
+Tien Giang	20/02/2024	25.70 °C	74.0%	0.1 mm	24.5 kph	7.0
+Tay Ninh	20/02/2024	29.30 °C	62.0%	0.0 mm	23.4 kph	9.0
+Binh Duong	20/02/2024	24.30 °C	87.0%	0.0 mm	19.8 kph	6.0
+Ho Chi Minh City	21/02/2024	28.60 °C	67.0%	0.0 mm	27.0 kph	9.0
+Binh Phuoc	21/02/2024	27.80 °C	71.0%	0.1 mm	22.7 kph	7.0
+Dong Nai	21/02/2024	26.40 °C	71.0%	0.0 mm	19.1 kph	8.0
+Ba Ria Vung Tau	21/02/2024	26.60 °C	81.0%	0.1 mm	25.2 kph	6.0
+Tien Giang	21/02/2024	26.40 °C	72.0%	0.0 mm	25.6 kph	7.0
+Tay Ninh	21/02/2024	29.00 °C	63.0%	0.0 mm	28.1 kph	8.0
+Binh Duong	21/02/2024	24.30 °C	85.0%	0.0 mm	20.9 kph	6.0
+Ho Chi Minh City	22/02/2024	28.80 °C	65.0%	0.0 mm	25.2 kph	9.0
+Binh Phuoc	22/02/2024	27.90 °C	69.0%	0.0 mm	21.2 kph	8.0
+Dong Nai	22/02/2024	24.90 °C	80.0%	0.0 mm	14.8 kph	7.0
+Ba Ria Vung Tau	22/02/2024	26.60 °C	81.0%	0.0 mm	24.8 kph	7.0
+Tien Giang	22/02/2024	25.10 °C	76.0%	0.2 mm	19.8 kph	6.0
+Tay Ninh	22/02/2024	29.00 °C	62.0%	0.0 mm	27.0 kph	8.0
+Binh Duong	22/02/2024	24.10 °C	88.0%	0.0 mm	18.7 kph	6.0
+Ho Chi Minh City	23/02/2024	29.00 °C	65.0%	0.0 mm	25.2 kph	9.0
+Binh Phuoc	23/02/2024	28.40 °C	68.0%	0.1 mm	22.7 kph	7.0
+Dong Nai	23/02/2024	24.10 °C	84.0%	0.6 mm	15.5 kph	6.0
+Ba Ria Vung Tau	23/02/2024	27.20 °C	80.0%	0.2 mm	32.0 kph	6.0
+Tien Giang	23/02/2024	23.10 °C	79.0%	1.1 mm	16.2 kph	5.0
+Tay Ninh	23/02/2024	29.10 °C	63.0%	0.0 mm	26.3 kph	8.0
+Binh Duong	23/02/2024	23.80 °C	88.0%	0.3 mm	19.4 kph	7.0
+Ho Chi Minh City	24/02/2024	29.70 °C	58.0%	0.0 mm	28.4 kph	9.0
+Binh Phuoc	24/02/2024	28.90 °C	64.0%	0.0 mm	26.6 kph	9.0
+Dong Nai	24/02/2024	23.50 °C	82.0%	1.0 mm	16.9 kph	6.0
+Ba Ria Vung Tau	24/02/2024	27.20 °C	79.0%	0.0 mm	38.9 kph	7.0
+Tien Giang	24/02/2024	21.30 °C	80.0%	1.2 mm	17.6 kph	5.0
+Tay Ninh	24/02/2024	29.40 °C	62.0%	0.0 mm	31.0 kph	8.0
+Binh Duong	24/02/2024	23.10 °C	82.0%	0.1 mm	14.4 kph	7.0
+Ho Chi Minh City	25/02/2024	29.30 °C	52.0%	0.0 mm	20.5 kph	9.0
+Binh Phuoc	25/02/2024	28.80 °C	57.0%	0.0 mm	22.7 kph	9.0
+Dong Nai	25/02/2024	18.80 °C	89.0%	2.0 mm	13.3 kph	4.0
+Ba Ria Vung Tau	25/02/2024	27.20 °C	71.0%	0.0 mm	38.2 kph	7.0
+Tien Giang	25/02/2024	15.50 °C	76.0%	0.2 mm	8.3 kph	4.0
+Tay Ninh	25/02/2024	28.70 °C	56.0%	0.0 mm	20.5 kph	9.0
+Binh Duong	25/02/2024	22.50 °C	80.0%	0.1 mm	10.4 kph	6.0
+Ho Chi Minh City	26/02/2024	29.50 °C	52.0%	0.0 mm	23.4 kph	9.0
+Binh Phuoc	26/02/2024	28.90 °C	57.0%	0.0 mm	24.5 kph	9.0
+Dong Nai	26/02/2024	19.50 °C	88.0%	0.5 mm	11.9 kph	5.0
+Ba Ria Vung Tau	26/02/2024	27.10 °C	72.0%	0.0 mm	38.9 kph	7.0
+Tien Giang	26/02/2024	17.20 °C	76.0%	0.2 mm	13.3 kph	5.0
+Tay Ninh	26/02/2024	28.90 °C	55.0%	0.0 mm	23.8 kph	9.0
+Binh Duong	26/02/2024	22.60 °C	82.0%	1.0 mm	15.1 kph	6.0
+Ho Chi Minh City	27/02/2024	29.80 °C	54.0%	0.3 mm	26.6 kph	8.0
+Binh Phuoc	27/02/2024	29.40 °C	58.0%	0.0 mm	30.2 kph	8.0
+Dong Nai	27/02/2024	19.70 °C	93.0%	4.3 mm	15.5 kph	5.0
+Ba Ria Vung Tau	27/02/2024	27.30 °C	76.0%	0.1 mm	43.9 kph	6.0
+Tien Giang	27/02/2024	16.00 °C	83.0%	2.0 mm	10.1 kph	4.0
+Tay Ninh	27/02/2024	29.80 °C	56.0%	0.0 mm	32.4 kph	9.0
+Binh Duong	27/02/2024	23.00 °C	90.0%	4.0 mm	5.4 kph	5.0
+Ho Chi Minh City	28/02/2024	29.80 °C	53.0%	0.0 mm	25.6 kph	9.0
+Binh Phuoc	28/02/2024	29.10 °C	58.0%	0.0 mm	29.2 kph	9.0
+Dong Nai	28/02/2024	19.70 °C	89.0%	0.3 mm	12.2 kph	5.0
+Ba Ria Vung Tau	28/02/2024	27.20 °C	75.0%	0.0 mm	44.6 kph	7.0
+Tien Giang	28/02/2024	16.50 °C	80.0%	0.2 mm	11.5 kph	4.0
+Tay Ninh	28/02/2024	29.10 °C	59.0%	0.0 mm	26.6 kph	7.0
+Binh Duong	28/02/2024	23.30 °C	85.0%	0.4 mm	15.5 kph	6.0
+Ho Chi Minh City	29/02/2024	29.60 °C	51.0%	0.0 mm	28.1 kph	9.0
+Binh Phuoc	29/02/2024	29.00 °C	56.0%	0.0 mm	27.0 kph	9.0
+Dong Nai	29/02/2024	21.50 °C	86.0%	0.2 mm	14.8 kph	5.0
+Ba Ria Vung Tau	29/02/2024	27.30 °C	73.0%	0.0 mm	42.1 kph	7.0
+Tien Giang	29/02/2024	19.40 °C	81.0%	1.9 mm	19.4 kph	5.0
+Tay Ninh	29/02/2024	29.40 °C	55.0%	0.0 mm	29.9 kph	9.0
+Binh Duong	29/02/2024	23.20 °C	86.0%	0.0 mm	19.4 kph	7.0
+Ho Chi Minh City	01/03/2024	30.00 °C	50.0%	0.0 mm	27.0 kph	9.0
+Binh Phuoc	01/03/2024	29.20 °C	56.0%	0.0 mm	27.4 kph	9.0
+Dong Nai	01/03/2024	19.40 °C	92.0%	6.1 mm	17.6 kph	5.0
+Ba Ria Vung Tau	01/03/2024	27.40 °C	74.0%	0.0 mm	43.2 kph	7.0
+Tien Giang	01/03/2024	14.00 °C	72.0%	0.6 mm	18.0 kph	4.0
+Tay Ninh	01/03/2024	29.60 °C	55.0%	0.0 mm	29.9 kph	9.0
+Binh Duong	01/03/2024	23.70 °C	84.0%	1.8 mm	17.3 kph	6.0
+Ho Chi Minh City	02/03/2024	29.90 °C	54.0%	0.0 mm	27.4 kph	9.0
+Binh Phuoc	02/03/2024	29.30 °C	58.0%	0.0 mm	28.1 kph	9.0
+Dong Nai	02/03/2024	17.00 °C	88.0%	1.3 mm	13.3 kph	4.0
+Ba Ria Vung Tau	02/03/2024	27.20 °C	73.0%	0.0 mm	47.9 kph	7.0
+Tien Giang	02/03/2024	14.20 °C	63.0%	0.0 mm	9.7 kph	4.0
+Tay Ninh	02/03/2024	30.30 °C	53.0%	0.0 mm	30.2 kph	9.0
+Binh Duong	02/03/2024	21.40 °C	86.0%	0.5 mm	12.6 kph	5.0
+Ho Chi Minh City	03/03/2024	29.80 °C	56.0%	0.0 mm	25.9 kph	9.0
+Binh Phuoc	03/03/2024	29.00 °C	61.0%	0.0 mm	26.3 kph	9.0
+Dong Nai	03/03/2024	19.00 °C	84.0%	0.1 mm	14.4 kph	5.0
+Ba Ria Vung Tau	03/03/2024	27.40 °C	75.0%	0.0 mm	43.9 kph	7.0
+Tien Giang	03/03/2024	18.60 °C	76.0%	0.0 mm	17.6 kph	5.0
+Tay Ninh	03/03/2024	29.70 °C	59.0%	0.0 mm	29.2 kph	9.0
+Binh Duong	03/03/2024	22.70 °C	82.0%	0.1 mm	15.8 kph	6.0
+Ho Chi Minh City	04/03/2024	29.50 °C	59.0%	0.0 mm	26.3 kph	9.0
+Binh Phuoc	04/03/2024	28.90 °C	63.0%	0.0 mm	24.1 kph	8.0
+Dong Nai	04/03/2024	24.20 °C	77.0%	0.0 mm	16.2 kph	8.0
+Ba Ria Vung Tau	04/03/2024	27.00 °C	77.0%	0.0 mm	38.5 kph	7.0
+Tien Giang	04/03/2024	23.70 °C	75.0%	0.2 mm	21.2 kph	7.0
+Tay Ninh	04/03/2024	29.90 °C	58.0%	0.0 mm	24.1 kph	9.0
+Binh Duong	04/03/2024	24.00 °C	84.0%	0.0 mm	23.8 kph	7.0
+Ho Chi Minh City	05/03/2024	29.50 °C	63.0%	0.0 mm	22.3 kph	9.0
+Binh Phuoc	05/03/2024	28.80 °C	66.0%	0.0 mm	20.2 kph	9.0
+Dong Nai	05/03/2024	29.10 °C	49.0%	0.0 mm	13.0 kph	9.0
+Ba Ria Vung Tau	05/03/2024	26.60 °C	78.0%	0.0 mm	24.8 kph	7.0
+Tien Giang	05/03/2024	26.70 °C	66.0%	0.0 mm	18.7 kph	8.0
+Tay Ninh	05/03/2024	30.60 °C	56.0%	0.0 mm	25.2 kph	9.0
+Binh Duong	05/03/2024	25.50 °C	76.0%	0.0 mm	19.4 kph	8.0
+Ho Chi Minh City	06/03/2024	30.10 °C	62.0%	0.0 mm	23.8 kph	9.0
+Binh Phuoc	06/03/2024	29.30 °C	66.0%	0.0 mm	23.0 kph	9.0
+Dong Nai	06/03/2024	25.30 °C	64.0%	0.3 mm	19.8 kph	7.0
+Ba Ria Vung Tau	06/03/2024	27.00 °C	77.0%	0.0 mm	24.5 kph	7.0
+Tien Giang	06/03/2024	26.10 °C	66.0%	0.0 mm	22.0 kph	7.0
+Tay Ninh	06/03/2024	31.30 °C	55.0%	0.0 mm	27.4 kph	9.0
+Binh Duong	06/03/2024	26.00 °C	71.0%	0.0 mm	17.3 kph	8.0
+Ho Chi Minh City	07/03/2024	30.00 °C	59.0%	0.0 mm	23.8 kph	9.0
+Binh Phuoc	07/03/2024	29.30 °C	63.0%	0.0 mm	23.0 kph	9.0
+Dong Nai	07/03/2024	21.60 °C	89.0%	1.2 mm	14.0 kph	5.0
+Ba Ria Vung Tau	07/03/2024	27.50 °C	73.0%	0.0 mm	26.6 kph	7.0
+Tien Giang	07/03/2024	21.60 °C	61.0%	0.0 mm	15.1 kph	5.0
+Tay Ninh	07/03/2024	30.90 °C	56.0%	0.0 mm	22.3 kph	9.0
+Binh Duong	07/03/2024	24.10 °C	84.0%	0.1 mm	21.6 kph	6.0
+Ho Chi Minh City	08/03/2024	29.80 °C	54.0%	0.0 mm	27.7 kph	9.0
+Binh Phuoc	08/03/2024	29.00 °C	59.0%	0.0 mm	27.4 kph	9.0
+Dong Nai	08/03/2024	19.70 °C	90.0%	2.7 mm	16.2 kph	5.0
+Ba Ria Vung Tau	08/03/2024	27.30 °C	73.0%	0.0 mm	46.4 kph	7.0
+Tien Giang	08/03/2024	19.00 °C	66.0%	0.2 mm	14.8 kph	5.0
+Tay Ninh	08/03/2024	29.70 °C	56.0%	0.0 mm	31.0 kph	8.0
+Binh Duong	08/03/2024	23.80 °C	82.0%	1.1 mm	13.0 kph	6.0
+Ho Chi Minh City	09/03/2024	30.10 °C	53.0%	0.0 mm	29.9 kph	9.0
+Binh Phuoc	09/03/2024	29.40 °C	57.0%	0.0 mm	29.9 kph	9.0
+Dong Nai	09/03/2024	20.00 °C	89.0%	0.7 mm	11.9 kph	5.0
+Ba Ria Vung Tau	09/03/2024	27.60 °C	72.0%	0.0 mm	45.7 kph	7.0
+Tien Giang	09/03/2024	18.70 °C	77.0%	0.6 mm	12.2 kph	4.0
+Tay Ninh	09/03/2024	29.80 °C	56.0%	0.0 mm	32.0 kph	9.0
+Binh Duong	09/03/2024	23.90 °C	83.0%	1.8 mm	14.0 kph	6.0
+Ho Chi Minh City	10/03/2024	29.80 °C	52.0%	0.0 mm	27.0 kph	9.0
+Binh Phuoc	10/03/2024	29.00 °C	58.0%	0.0 mm	28.8 kph	9.0
+Dong Nai	10/03/2024	20.30 °C	92.0%	1.1 mm	11.9 kph	5.0
+Ba Ria Vung Tau	10/03/2024	27.50 °C	73.0%	0.0 mm	42.1 kph	7.0
+Tien Giang	10/03/2024	18.00 °C	88.0%	3.1 mm	8.3 kph	4.0
+Tay Ninh	10/03/2024	29.40 °C	56.0%	0.0 mm	26.3 kph	8.0
+Binh Duong	10/03/2024	23.70 °C	87.0%	3.2 mm	15.5 kph	6.0
+Ho Chi Minh City	11/03/2024	30.40 °C	51.0%	0.0 mm	29.5 kph	9.0
+Binh Phuoc	11/03/2024	29.40 °C	59.0%	0.0 mm	29.2 kph	9.0
+Dong Nai	11/03/2024	19.90 °C	93.0%	3.3 mm	16.2 kph	5.0
+Ba Ria Vung Tau	11/03/2024	27.30 °C	76.0%	0.0 mm	39.6 kph	7.0
+Tien Giang	11/03/2024	18.40 °C	81.0%	1.6 mm	14.8 kph	4.0
+Tay Ninh	11/03/2024	30.20 °C	54.0%	0.0 mm	22.7 kph	9.0
+Binh Duong	11/03/2024	23.40 °C	87.0%	1.0 mm	13.3 kph	6.0
+Ho Chi Minh City	12/03/2024	29.80 °C	57.0%	0.0 mm	27.0 kph	9.0
+Binh Phuoc	12/03/2024	29.20 °C	62.0%	0.0 mm	28.1 kph	9.0
+Dong Nai	12/03/2024	20.70 °C	86.0%	0.1 mm	16.2 kph	5.0
+Ba Ria Vung Tau	12/03/2024	27.30 °C	76.0%	0.0 mm	40.3 kph	6.0
+Tien Giang	12/03/2024	20.20 °C	78.0%	1.0 mm	16.2 kph	5.0
+Tay Ninh	12/03/2024	29.80 °C	58.0%	0.0 mm	25.9 kph	8.0
+Binh Duong	12/03/2024	23.40 °C	83.0%	0.3 mm	16.6 kph	6.0
+Ho Chi Minh City	13/03/2024	29.30 °C	58.0%	0.0 mm	27.0 kph	9.0
+Binh Phuoc	13/03/2024	28.80 °C	62.0%	0.0 mm	26.6 kph	9.0
+Dong Nai	13/03/2024	21.90 °C	86.0%	0.0 mm	13.7 kph	6.0
+Ba Ria Vung Tau	13/03/2024	27.40 °C	73.0%	0.0 mm	39.2 kph	7.0
+Tien Giang	13/03/2024	21.80 °C	83.0%	2.0 mm	21.2 kph	5.0
+Tay Ninh	13/03/2024	29.90 °C	57.0%	0.0 mm	27.7 kph	9.0
+Binh Duong	13/03/2024	23.70 °C	86.0%	0.3 mm	18.7 kph	6.0
+Ho Chi Minh City	14/03/2024	29.60 °C	58.0%	0.0 mm	27.4 kph	9.0
+Binh Phuoc	14/03/2024	29.10 °C	62.0%	0.0 mm	25.6 kph	8.0
+Dong Nai	14/03/2024	23.90 °C	88.0%	1.4 mm	16.6 kph	6.0
+Ba Ria Vung Tau	14/03/2024	27.50 °C	72.0%	0.0 mm	34.6 kph	6.0
+Tien Giang	14/03/2024	20.80 °C	91.0%	7.4 mm	12.2 kph	5.0
+Tay Ninh	14/03/2024	30.40 °C	56.0%	0.0 mm	26.3 kph	9.0
+Binh Duong	14/03/2024	24.00 °C	86.0%	0.4 mm	21.2 kph	6.0
+Ho Chi Minh City	15/03/2024	29.70 °C	55.0%	0.0 mm	28.1 kph	9.0
+Binh Phuoc	15/03/2024	28.90 °C	60.0%	0.0 mm	24.5 kph	8.0
+Dong Nai	15/03/2024	24.20 °C	85.0%	0.0 mm	18.0 kph	6.0
+Ba Ria Vung Tau	15/03/2024	27.30 °C	74.0%	0.0 mm	32.4 kph	6.0
+Tien Giang	15/03/2024	22.10 °C	89.0%	1.5 mm	16.2 kph	5.0
+Tay Ninh	15/03/2024	30.30 °C	54.0%	0.0 mm	29.2 kph	8.0
+Binh Duong	15/03/2024	23.80 °C	86.0%	0.2 mm	22.3 kph	6.0
+Ho Chi Minh City	16/03/2024	29.30 °C	60.0%	0.0 mm	26.3 kph	9.0
+Binh Phuoc	16/03/2024	28.80 °C	65.0%	0.0 mm	26.6 kph	9.0
+Dong Nai	16/03/2024	23.80 °C	87.0%	0.5 mm	15.1 kph	6.0
+Ba Ria Vung Tau	16/03/2024	27.40 °C	76.0%	0.1 mm	31.3 kph	6.0
+Tien Giang	16/03/2024	23.90 °C	81.0%	0.7 mm	18.4 kph	6.0
+Tay Ninh	16/03/2024	29.60 °C	60.0%	0.0 mm	28.8 kph	8.0
+Binh Duong	16/03/2024	23.90 °C	81.0%	0.0 mm	20.5 kph	7.0
+Ho Chi Minh City	17/03/2024	29.80 °C	57.0%	0.0 mm	24.8 kph	9.0
+Binh Phuoc	17/03/2024	29.30 °C	61.0%	0.0 mm	27.0 kph	9.0
+Dong Nai	17/03/2024	24.70 °C	86.0%	3.8 mm	15.8 kph	6.0
+Ba Ria Vung Tau	17/03/2024	27.70 °C	74.0%	0.0 mm	31.3 kph	7.0
+Tien Giang	17/03/2024	24.10 °C	84.0%	0.2 mm	18.0 kph	6.0
+Tay Ninh	17/03/2024	30.00 °C	57.0%	0.0 mm	23.8 kph	9.0
+Binh Duong	17/03/2024	24.00 °C	83.0%	0.0 mm	18.7 kph	7.0
+Ho Chi Minh City	18/03/2024	29.50 °C	58.0%	0.0 mm	28.4 kph	9.0
+Binh Phuoc	18/03/2024	28.90 °C	61.0%	0.0 mm	25.9 kph	8.0
+Dong Nai	18/03/2024	24.60 °C	86.0%	3.5 mm	12.6 kph	6.0
+Ba Ria Vung Tau	18/03/2024	27.50 °C	73.0%	0.0 mm	35.6 kph	7.0
+Tien Giang	18/03/2024	25.00 °C	80.0%	0.2 mm	17.6 kph	6.0
+Tay Ninh	18/03/2024	30.20 °C	56.0%	0.0 mm	31.0 kph	9.0
+Binh Duong	18/03/2024	24.30 °C	84.0%	0.0 mm	21.2 kph	7.0
+Ho Chi Minh City	19/03/2024	29.90 °C	52.0%	0.0 mm	29.9 kph	9.0
+Binh Phuoc	19/03/2024	29.30 °C	57.0%	0.0 mm	28.1 kph	9.0
+Dong Nai	19/03/2024	22.00 °C	92.0%	10.4 mm	21.6 kph	5.0
+Ba Ria Vung Tau	19/03/2024	27.60 °C	72.0%	0.0 mm	43.2 kph	7.0
+Tien Giang	19/03/2024	20.30 °C	75.0%	6.1 mm	28.1 kph	5.0
+Tay Ninh	19/03/2024	30.20 °C	52.0%	0.0 mm	33.1 kph	9.0
+Binh Duong	19/03/2024	23.80 °C	83.0%	2.0 mm	11.5 kph	6.0
+Ho Chi Minh City	20/03/2024	29.80 °C	48.0%	0.0 mm	27.0 kph	9.0
+Binh Phuoc	20/03/2024	29.20 °C	53.0%	0.0 mm	25.9 kph	9.0
+Dong Nai	20/03/2024	18.40 °C	89.0%	2.7 mm	16.6 kph	4.0
+Ba Ria Vung Tau	20/03/2024	27.50 °C	70.0%	0.0 mm	44.6 kph	7.0
+Tien Giang	20/03/2024	18.50 °C	64.0%	0.1 mm	13.3 kph	4.0
+Tay Ninh	20/03/2024	30.30 °C	48.0%	0.0 mm	33.5 kph	9.0
+Binh Duong	20/03/2024	23.20 °C	88.0%	19.8 mm	20.2 kph	5.0
+Ho Chi Minh City	21/03/2024	29.80 °C	53.0%	0.0 mm	26.3 kph	9.0
+Binh Phuoc	21/03/2024	29.30 °C	57.0%	0.0 mm	27.0 kph	9.0
+Dong Nai	21/03/2024	20.40 °C	82.0%	0.1 mm	13.7 kph	5.0
+Ba Ria Vung Tau	21/03/2024	27.20 °C	73.0%	0.0 mm	40.0 kph	7.0
+Tien Giang	21/03/2024	21.70 °C	69.0%	0.0 mm	23.4 kph	6.0
+Tay Ninh	21/03/2024	30.10 °C	55.0%	0.0 mm	29.2 kph	9.0
+Binh Duong	21/03/2024	22.10 °C	85.0%	1.0 mm	11.5 kph	6.0
+Ho Chi Minh City	22/03/2024	29.80 °C	56.0%	0.0 mm	28.1 kph	9.0
+Binh Phuoc	22/03/2024	29.20 °C	61.0%	0.0 mm	27.0 kph	8.0
+Dong Nai	22/03/2024	23.30 °C	82.0%	0.0 mm	13.7 kph	7.0
+Ba Ria Vung Tau	22/03/2024	27.40 °C	75.0%	0.0 mm	39.2 kph	7.0
+Tien Giang	22/03/2024	23.20 °C	81.0%	3.2 mm	24.1 kph	6.0
+Tay Ninh	22/03/2024	30.50 °C	55.0%	0.0 mm	29.9 kph	9.0
+Binh Duong	22/03/2024	23.70 °C	85.0%	0.3 mm	22.0 kph	6.0
+Ho Chi Minh City	23/03/2024	29.30 °C	63.0%	0.0 mm	24.5 kph	8.0
+Binh Phuoc	23/03/2024	29.00 °C	65.0%	0.2 mm	24.1 kph	7.0
+Dong Nai	23/03/2024	25.60 °C	78.0%	0.0 mm	15.1 kph	7.0
+Ba Ria Vung Tau	23/03/2024	27.40 °C	77.0%	0.4 mm	28.4 kph	6.0
+Tien Giang	23/03/2024	25.40 °C	80.0%	0.8 mm	25.6 kph	7.0
+Tay Ninh	23/03/2024	30.30 °C	58.0%	0.0 mm	25.6 kph	8.0
+Binh Duong	23/03/2024	25.00 °C	83.0%	0.2 mm	25.6 kph	6.0
+Ho Chi Minh City	24/03/2024	29.90 °C	60.0%	0.0 mm	24.5 kph	9.0
+Binh Phuoc	24/03/2024	29.50 °C	62.0%	0.0 mm	22.3 kph	9.0
+Dong Nai	24/03/2024	26.00 °C	77.0%	0.8 mm	13.3 kph	7.0
+Ba Ria Vung Tau	24/03/2024	27.70 °C	76.0%	0.1 mm	28.4 kph	6.0
+Tien Giang	24/03/2024	25.40 °C	81.0%	0.4 mm	24.1 kph	6.0
+Tay Ninh	24/03/2024	30.70 °C	56.0%	0.0 mm	27.7 kph	9.0
+Binh Duong	24/03/2024	25.40 °C	83.0%	0.3 mm	24.5 kph	6.0
+Ho Chi Minh City	25/03/2024	30.20 °C	62.0%	0.0 mm	27.0 kph	9.0
+Binh Phuoc	25/03/2024	29.80 °C	65.0%	0.2 mm	24.1 kph	8.0
+Dong Nai	25/03/2024	26.30 °C	79.0%	0.2 mm	14.4 kph	7.0
+Ba Ria Vung Tau	25/03/2024	27.80 °C	79.0%	0.2 mm	32.0 kph	6.0
+Tien Giang	25/03/2024	25.50 °C	81.0%	0.3 mm	16.9 kph	6.0
+Tay Ninh	25/03/2024	30.60 °C	58.0%	0.0 mm	31.0 kph	8.0
+Binh Duong	25/03/2024	25.30 °C	86.0%	0.1 mm	22.7 kph	6.0
+Ho Chi Minh City	26/03/2024	31.20 °C	54.0%	0.0 mm	29.5 kph	9.0
+Binh Phuoc	26/03/2024	30.30 °C	60.0%	0.0 mm	28.8 kph	9.0
+Dong Nai	26/03/2024	24.70 °C	86.0%	0.4 mm	14.8 kph	6.0
+Ba Ria Vung Tau	26/03/2024	28.30 °C	76.0%	0.0 mm	38.5 kph	8.0
+Tien Giang	26/03/2024	25.90 °C	77.0%	0.2 mm	19.1 kph	7.0
+Tay Ninh	26/03/2024	31.50 °C	54.0%	0.0 mm	30.6 kph	9.0
+Binh Duong	26/03/2024	24.80 °C	85.0%	0.4 mm	18.4 kph	7.0
+Ho Chi Minh City	27/03/2024	31.40 °C	53.0%	0.0 mm	28.8 kph	9.0
+Binh Phuoc	27/03/2024	30.70 °C	58.0%	0.0 mm	26.6 kph	9.0
+Dong Nai	27/03/2024	25.00 °C	83.0%	0.1 mm	18.0 kph	6.0
+Ba Ria Vung Tau	27/03/2024	28.60 °C	75.0%	0.0 mm	42.1 kph	8.0
+Tien Giang	27/03/2024	26.10 °C	75.0%	0.2 mm	22.0 kph	7.0
+Tay Ninh	27/03/2024	31.90 °C	53.0%	0.0 mm	28.8 kph	8.0
+Binh Duong	27/03/2024	25.00 °C	84.0%	0.1 mm	18.0 kph	6.0
+Ho Chi Minh City	28/03/2024	30.90 °C	57.0%	0.1 mm	23.8 kph	8.0
+Binh Phuoc	28/03/2024	30.50 °C	62.0%	0.0 mm	22.3 kph	9.0
+Dong Nai	28/03/2024	24.40 °C	89.0%	0.9 mm	13.0 kph	6.0
+Ba Ria Vung Tau	28/03/2024	28.60 °C	75.0%	0.0 mm	33.8 kph	7.0
+Tien Giang	28/03/2024	24.20 °C	86.0%	5.4 mm	16.6 kph	6.0
+Tay Ninh	28/03/2024	31.40 °C	58.0%	1.6 mm	18.4 kph	8.0
+Binh Duong	28/03/2024	24.50 °C	85.0%	11.6 mm	21.2 kph	6.0
+Ho Chi Minh City	29/03/2024	30.10 °C	64.0%	0.4 mm	26.6 kph	7.0
+Binh Phuoc	29/03/2024	30.00 °C	66.0%	0.2 mm	25.6 kph	8.0
+Dong Nai	29/03/2024	24.50 °C	88.0%	1.9 mm	12.2 kph	6.0
+Ba Ria Vung Tau	29/03/2024	28.30 °C	79.0%	0.3 mm	25.9 kph	6.0
+Tien Giang	29/03/2024	26.20 °C	76.0%	1.1 mm	21.2 kph	7.0
+Tay Ninh	29/03/2024	31.10 °C	59.0%	2.4 mm	23.4 kph	8.0
+Binh Duong	29/03/2024	25.00 °C	84.0%	1.6 mm	18.4 kph	6.0
+Ho Chi Minh City	30/03/2024	30.90 °C	61.0%	0.0 mm	25.2 kph	9.0
+Binh Phuoc	30/03/2024	30.60 °C	64.0%	0.0 mm	23.8 kph	9.0
+Dong Nai	30/03/2024	27.60 °C	74.0%	0.1 mm	12.2 kph	8.0
+Ba Ria Vung Tau	30/03/2024	28.40 °C	79.0%	0.0 mm	25.6 kph	8.0
+Tien Giang	30/03/2024	26.90 °C	77.0%	4.4 mm	22.0 kph	7.0
+Tay Ninh	30/03/2024	31.50 °C	58.0%	0.2 mm	23.8 kph	8.0
+Binh Duong	30/03/2024	25.20 °C	81.0%	4.1 mm	25.2 kph	6.0
+Ho Chi Minh City	31/03/2024	31.10 °C	61.0%	0.5 mm	24.8 kph	9.0
+Binh Phuoc	31/03/2024	30.70 °C	64.0%	0.0 mm	22.3 kph	8.0
+Dong Nai	31/03/2024	29.70 °C	62.0%	0.0 mm	15.1 kph	9.0
+Ba Ria Vung Tau	31/03/2024	28.60 °C	78.0%	0.0 mm	24.1 kph	8.0
+Tien Giang	31/03/2024	27.80 °C	74.0%	0.1 mm	22.0 kph	8.0
+Tay Ninh	31/03/2024	32.10 °C	57.0%	1.0 mm	21.2 kph	8.0
+Binh Duong	31/03/2024	26.10 °C	82.0%	5.9 mm	23.8 kph	7.0
+Ho Chi Minh City	01/04/2024	31.10 °C	57.0%	0.0 mm	25.6 kph	9.0
+Binh Phuoc	01/04/2024	30.70 °C	59.0%	0.0 mm	23.0 kph	9.0
+Dong Nai	01/04/2024	30.30 °C	56.0%	0.0 mm	13.7 kph	9.0
+Ba Ria Vung Tau	01/04/2024	28.10 °C	74.0%	0.0 mm	24.1 kph	7.0
+Tien Giang	01/04/2024	29.00 °C	67.0%	0.0 mm	26.3 kph	9.0
+Tay Ninh	01/04/2024	32.20 °C	55.0%	1.0 mm	25.2 kph	8.0
+Binh Duong	01/04/2024	27.40 °C	77.0%	0.4 mm	20.2 kph	7.0
+Ho Chi Minh City	02/04/2024	30.50 °C	56.0%	0.0 mm	23.4 kph	9.0
+Binh Phuoc	02/04/2024	30.10 °C	59.0%	0.0 mm	23.0 kph	9.0
+Dong Nai	02/04/2024	30.30 °C	55.0%	0.0 mm	15.1 kph	9.0
+Ba Ria Vung Tau	02/04/2024	27.90 °C	74.0%	0.0 mm	20.5 kph	7.0
+Tien Giang	02/04/2024	29.20 °C	65.0%	0.0 mm	26.3 kph	9.0
+Tay Ninh	02/04/2024	32.20 °C	54.0%	0.0 mm	21.6 kph	8.0
+Binh Duong	02/04/2024	26.80 °C	79.0%	5.1 mm	26.3 kph	7.0
+Ho Chi Minh City	03/04/2024	30.60 °C	60.0%	0.0 mm	22.7 kph	8.0
+Binh Phuoc	03/04/2024	30.10 °C	62.0%	0.0 mm	20.5 kph	8.0
+Dong Nai	03/04/2024	30.80 °C	54.0%	0.0 mm	15.8 kph	9.0
+Ba Ria Vung Tau	03/04/2024	28.50 °C	75.0%	0.2 mm	23.4 kph	6.0
+Tien Giang	03/04/2024	29.40 °C	68.0%	0.0 mm	24.5 kph	8.0
+Tay Ninh	03/04/2024	31.80 °C	51.0%	0.0 mm	26.6 kph	9.0
+Binh Duong	03/04/2024	27.70 °C	76.0%	1.3 mm	21.6 kph	7.0
+Ho Chi Minh City	04/04/2024	31.60 °C	57.0%	0.1 mm	27.0 kph	9.0
+Binh Phuoc	04/04/2024	31.30 °C	58.0%	0.1 mm	24.1 kph	9.0
+Dong Nai	04/04/2024	30.10 °C	60.0%	0.0 mm	15.8 kph	9.0
+Ba Ria Vung Tau	04/04/2024	28.80 °C	73.0%	0.2 mm	28.1 kph	6.0
+Tien Giang	04/04/2024	28.60 °C	74.0%	0.1 mm	26.3 kph	8.0
+Tay Ninh	04/04/2024	32.60 °C	51.0%	0.0 mm	28.1 kph	10.0
+Binh Duong	04/04/2024	27.20 °C	77.0%	0.1 mm	24.8 kph	7.0
+Ho Chi Minh City	05/04/2024	30.90 °C	54.0%	0.0 mm	27.7 kph	9.0
+Binh Phuoc	05/04/2024	30.50 °C	55.0%	0.0 mm	25.2 kph	9.0
+Dong Nai	05/04/2024	27.70 °C	73.0%	0.0 mm	16.6 kph	8.0
+Ba Ria Vung Tau	05/04/2024	28.60 °C	67.0%	0.0 mm	32.4 kph	7.0
+Tien Giang	05/04/2024	26.70 °C	77.0%	0.7 mm	21.2 kph	7.0
+Tay Ninh	05/04/2024	32.20 °C	49.0%	0.0 mm	30.6 kph	9.0
+Binh Duong	05/04/2024	26.50 °C	77.0%	0.0 mm	26.6 kph	8.0
+Ho Chi Minh City	06/04/2024	31.00 °C	56.0%	0.0 mm	27.4 kph	9.0
+Binh Phuoc	06/04/2024	30.50 °C	58.0%	0.0 mm	24.1 kph	9.0
+Dong Nai	06/04/2024	26.50 °C	82.0%	0.0 mm	16.6 kph	7.0
+Ba Ria Vung Tau	06/04/2024	28.80 °C	72.0%	0.1 mm	29.2 kph	7.0
+Tien Giang	06/04/2024	26.60 °C	76.0%	0.8 mm	20.5 kph	7.0
+Tay Ninh	06/04/2024	32.20 °C	48.0%	0.0 mm	29.5 kph	9.0
+Binh Duong	06/04/2024	26.00 °C	76.0%	0.0 mm	25.2 kph	8.0
+Ho Chi Minh City	07/04/2024	31.10 °C	59.0%	0.0 mm	26.6 kph	9.0
+Binh Phuoc	07/04/2024	30.60 °C	61.0%	0.1 mm	22.7 kph	9.0
+Dong Nai	07/04/2024	26.80 °C	79.0%	0.0 mm	16.6 kph	8.0
+Ba Ria Vung Tau	07/04/2024	28.80 °C	74.0%	0.1 mm	31.0 kph	7.0
+Tien Giang	07/04/2024	26.40 °C	81.0%	0.9 mm	19.8 kph	7.0
+Tay Ninh	07/04/2024	32.00 °C	53.0%	0.0 mm	27.7 kph	8.0
+Binh Duong	07/04/2024	26.10 °C	79.0%	0.6 mm	25.2 kph	7.0
+Ho Chi Minh City	08/04/2024	31.10 °C	58.0%	0.0 mm	27.0 kph	9.0
+Binh Phuoc	08/04/2024	30.70 °C	61.0%	0.0 mm	25.6 kph	9.0
+Dong Nai	08/04/2024	25.90 °C	89.0%	3.3 mm	15.8 kph	6.0
+Ba Ria Vung Tau	08/04/2024	28.60 °C	74.0%	0.0 mm	29.9 kph	8.0
+Tien Giang	08/04/2024	22.80 °C	86.0%	2.5 mm	16.6 kph	5.0
+Tay Ninh	08/04/2024	32.10 °C	52.0%	0.0 mm	28.8 kph	9.0
+Binh Duong	08/04/2024	26.10 °C	83.0%	0.0 mm	22.0 kph	7.0
+Ho Chi Minh City	09/04/2024	31.60 °C	54.0%	0.0 mm	31.7 kph	10.0
+Binh Phuoc	09/04/2024	30.90 °C	58.0%	0.0 mm	29.2 kph	9.0
+Dong Nai	09/04/2024	23.60 °C	95.0%	3.4 mm	9.7 kph	5.0
+Ba Ria Vung Tau	09/04/2024	29.10 °C	72.0%	0.0 mm	39.2 kph	8.0
+Tien Giang	09/04/2024	21.50 °C	86.0%	2.1 mm	9.4 kph	5.0
+Tay Ninh	09/04/2024	32.30 °C	52.0%	0.0 mm	36.7 kph	10.0
+Binh Duong	09/04/2024	25.20 °C	82.0%	0.0 mm	15.8 kph	6.0
+Ho Chi Minh City	10/04/2024	31.60 °C	49.0%	0.0 mm	27.7 kph	10.0
+Binh Phuoc	10/04/2024	31.20 °C	54.0%	0.0 mm	29.9 kph	9.0
+Dong Nai	10/04/2024	25.00 °C	85.0%	0.4 mm	18.4 kph	6.0
+Ba Ria Vung Tau	10/04/2024	29.30 °C	72.0%	0.0 mm	43.6 kph	8.0
+Tien Giang	10/04/2024	24.50 °C	81.0%	0.5 mm	18.0 kph	6.0
+Tay Ninh	10/04/2024	32.20 °C	49.0%	0.0 mm	34.9 kph	10.0
+Binh Duong	10/04/2024	25.10 °C	80.0%	0.0 mm	18.0 kph	7.0
+Ho Chi Minh City	11/04/2024	32.10 °C	50.0%	0.0 mm	29.5 kph	10.0
+Binh Phuoc	11/04/2024	31.50 °C	55.0%	0.0 mm	28.1 kph	9.0
+Dong Nai	11/04/2024	26.00 °C	82.0%	0.1 mm	18.0 kph	7.0
+Ba Ria Vung Tau	11/04/2024	29.50 °C	73.0%	0.0 mm	40.0 kph	8.0
+Tien Giang	11/04/2024	26.30 °C	80.0%	0.3 mm	23.8 kph	7.0
+Tay Ninh	11/04/2024	32.50 °C	49.0%	0.0 mm	31.3 kph	10.0
+Binh Duong	11/04/2024	25.70 °C	80.0%	0.0 mm	19.1 kph	7.0
+Ho Chi Minh City	12/04/2024	31.40 °C	57.0%	0.0 mm	28.8 kph	9.0
+Binh Phuoc	12/04/2024	30.90 °C	61.0%	0.0 mm	27.0 kph	8.0
+Dong Nai	12/04/2024	26.30 °C	81.0%	0.0 mm	20.5 kph	7.0
+Ba Ria Vung Tau	12/04/2024	29.20 °C	75.0%	0.2 mm	38.5 kph	7.0
+Tien Giang	12/04/2024	27.40 °C	76.0%	0.9 mm	23.8 kph	7.0
+Tay Ninh	12/04/2024	32.00 °C	55.0%	0.1 mm	32.4 kph	8.0
+Binh Duong	12/04/2024	26.00 °C	81.0%	0.0 mm	18.7 kph	8.0
+Ho Chi Minh City	13/04/2024	30.80 °C	60.0%	0.1 mm	25.9 kph	8.0
+Binh Phuoc	13/04/2024	30.30 °C	62.0%	0.1 mm	23.8 kph	7.0
+Dong Nai	13/04/2024	26.60 °C	79.0%	0.0 mm	17.3 kph	7.0
+Ba Ria Vung Tau	13/04/2024	28.70 °C	74.0%	0.2 mm	36.0 kph	6.0
+Tien Giang	13/04/2024	27.80 °C	74.0%	0.1 mm	26.3 kph	8.0
+Tay Ninh	13/04/2024	32.00 °C	55.0%	0.0 mm	29.5 kph	8.0
+Binh Duong	13/04/2024	25.90 °C	82.0%	0.0 mm	20.5 kph	8.0
+Ho Chi Minh City	14/04/2024	31.20 °C	56.0%	0.0 mm	29.5 kph	9.0
+Binh Phuoc	14/04/2024	30.70 °C	59.0%	0.0 mm	25.2 kph	9.0
+Dong Nai	14/04/2024	27.10 °C	76.0%	0.0 mm	17.3 kph	8.0
+Ba Ria Vung Tau	14/04/2024	29.00 °C	71.0%	0.0 mm	28.8 kph	8.0
+Tien Giang	14/04/2024	27.80 °C	72.0%	3.8 mm	24.8 kph	8.0
+Tay Ninh	14/04/2024	32.20 °C	52.0%	0.0 mm	33.5 kph	10.0
+Binh Duong	14/04/2024	26.30 °C	80.0%	0.0 mm	24.8 kph	8.0
+Ho Chi Minh City	15/04/2024	31.60 °C	58.0%	0.1 mm	27.4 kph	9.0
+Binh Phuoc	15/04/2024	31.20 °C	60.0%	0.2 mm	24.1 kph	8.0
+Dong Nai	15/04/2024	27.20 °C	79.0%	5.4 mm	16.9 kph	8.0
+Ba Ria Vung Tau	15/04/2024	29.10 °C	75.0%	0.4 mm	33.1 kph	7.0
+Tien Giang	15/04/2024	26.40 °C	75.0%	1.2 mm	25.6 kph	7.0
+Tay Ninh	15/04/2024	32.60 °C	52.0%	0.0 mm	29.2 kph	10.0
+Binh Duong	15/04/2024	26.60 °C	78.0%	0.0 mm	25.9 kph	8.0
+Ho Chi Minh City	16/04/2024	31.50 °C	59.0%	0.2 mm	29.2 kph	9.0
+Binh Phuoc	16/04/2024	31.10 °C	61.0%	0.5 mm	24.8 kph	9.0
+Dong Nai	16/04/2024	27.20 °C	78.0%	0.1 mm	16.9 kph	7.0
+Ba Ria Vung Tau	16/04/2024	29.10 °C	74.0%	0.1 mm	29.2 kph	7.0
+Tien Giang	16/04/2024	27.40 °C	69.0%	0.2 mm	27.7 kph	7.0
+Tay Ninh	16/04/2024	32.90 °C	52.0%	0.0 mm	31.0 kph	10.0
+Binh Duong	16/04/2024	26.40 °C	78.0%	0.0 mm	24.1 kph	8.0
+Ho Chi Minh City	17/04/2024	31.50 °C	57.0%	0.1 mm	26.3 kph	9.0
+Binh Phuoc	17/04/2024	31.30 °C	58.0%	0.2 mm	22.7 kph	9.0
+Dong Nai	17/04/2024	27.30 °C	79.0%	0.4 mm	18.0 kph	8.0
+Ba Ria Vung Tau	17/04/2024	29.00 °C	73.0%	0.4 mm	29.2 kph	7.0
+Tien Giang	17/04/2024	27.70 °C	72.0%	6.8 mm	28.8 kph	8.0
+Tay Ninh	17/04/2024	32.70 °C	52.0%	0.1 mm	24.8 kph	8.0
+Binh Duong	17/04/2024	27.20 °C	74.0%	0.0 mm	24.5 kph	8.0
+Ho Chi Minh City	18/04/2024	31.10 °C	61.0%	0.4 mm	23.0 kph	8.0
+Binh Phuoc	18/04/2024	30.90 °C	62.0%	0.2 mm	20.9 kph	8.0
+Dong Nai	18/04/2024	27.50 °C	80.0%	0.1 mm	14.8 kph	7.0
+Ba Ria Vung Tau	18/04/2024	29.10 °C	75.0%	1.2 mm	22.3 kph	7.0
+Tien Giang	18/04/2024	28.10 °C	74.0%	0.1 mm	24.1 kph	8.0
+Tay Ninh	18/04/2024	32.40 °C	53.0%	0.3 mm	27.4 kph	8.0
+Binh Duong	18/04/2024	26.90 °C	77.0%	7.2 mm	25.2 kph	7.0
+Ho Chi Minh City	19/04/2024	31.30 °C	59.0%	0.0 mm	25.2 kph	9.0
+Binh Phuoc	19/04/2024	30.90 °C	62.0%	0.0 mm	23.8 kph	8.0
+Dong Nai	19/04/2024	30.20 °C	63.0%	0.0 mm	16.2 kph	8.0
+Ba Ria Vung Tau	19/04/2024	28.90 °C	75.0%	0.1 mm	23.4 kph	7.0
+Tien Giang	19/04/2024	28.60 °C	75.0%	8.9 mm	24.8 kph	8.0
+Tay Ninh	19/04/2024	32.70 °C	51.0%	0.0 mm	31.0 kph	10.0
+Binh Duong	19/04/2024	26.50 °C	79.0%	39.1 mm	27.4 kph	7.0
+Ho Chi Minh City	20/04/2024	31.40 °C	57.0%	0.1 mm	23.8 kph	8.0
+Binh Phuoc	20/04/2024	30.80 °C	59.0%	0.0 mm	22.7 kph	9.0
+Dong Nai	20/04/2024	32.20 °C	50.0%	0.0 mm	18.4 kph	8.0
+Ba Ria Vung Tau	20/04/2024	29.40 °C	70.0%	0.1 mm	23.0 kph	7.0
+Tien Giang	20/04/2024	30.20 °C	68.0%	0.4 mm	23.4 kph	8.0
+Tay Ninh	20/04/2024	32.50 °C	49.0%	0.0 mm	26.6 kph	9.0
+Binh Duong	20/04/2024	27.30 °C	78.0%	2.8 mm	26.3 kph	7.0
+Ho Chi Minh City	21/04/2024	31.60 °C	53.0%	0.0 mm	23.8 kph	9.0
+Binh Phuoc	21/04/2024	31.00 °C	57.0%	0.0 mm	23.4 kph	9.0
+Dong Nai	21/04/2024	31.00 °C	56.0%	0.0 mm	11.5 kph	9.0
+Ba Ria Vung Tau	21/04/2024	29.20 °C	68.0%	0.1 mm	22.7 kph	7.0
+Tien Giang	21/04/2024	28.70 °C	75.0%	0.2 mm	22.3 kph	7.0
+Tay Ninh	21/04/2024	32.60 °C	49.0%	0.0 mm	26.3 kph	9.0
+Binh Duong	21/04/2024	28.00 °C	75.0%	0.1 mm	24.1 kph	7.0
+Ho Chi Minh City	22/04/2024	31.00 °C	57.0%	0.0 mm	22.3 kph	9.0
+Binh Phuoc	22/04/2024	30.60 °C	60.0%	0.0 mm	23.0 kph	9.0
+Dong Nai	22/04/2024	28.40 °C	72.0%	0.0 mm	18.4 kph	8.0
+Ba Ria Vung Tau	22/04/2024	28.90 °C	70.0%	0.0 mm	21.6 kph	7.0
+Tien Giang	22/04/2024	28.20 °C	73.0%	1.5 mm	18.0 kph	7.0
+Tay Ninh	22/04/2024	32.50 °C	51.0%	0.0 mm	25.6 kph	9.0
+Binh Duong	22/04/2024	28.40 °C	70.0%	0.0 mm	19.1 kph	8.0
+Ho Chi Minh City	23/04/2024	31.60 °C	55.0%	0.0 mm	23.0 kph	9.0
+Binh Phuoc	23/04/2024	31.10 °C	57.0%	0.0 mm	22.0 kph	9.0
+Dong Nai	23/04/2024	27.50 °C	81.0%	0.0 mm	19.1 kph	8.0
+Ba Ria Vung Tau	23/04/2024	29.10 °C	72.0%	0.0 mm	21.6 kph	8.0
+Tien Giang	23/04/2024	26.80 °C	84.0%	2.2 mm	14.0 kph	6.0
+Tay Ninh	23/04/2024	33.10 °C	49.0%	0.0 mm	26.6 kph	10.0
+Binh Duong	23/04/2024	28.70 °C	69.0%	0.0 mm	18.4 kph	8.0
+Ho Chi Minh City	24/04/2024	31.70 °C	60.0%	0.1 mm	26.3 kph	8.0
+Binh Phuoc	24/04/2024	31.40 °C	61.0%	0.0 mm	23.8 kph	8.0
+Dong Nai	24/04/2024	27.70 °C	83.0%	0.4 mm	19.4 kph	7.0
+Ba Ria Vung Tau	24/04/2024	29.60 °C	75.0%	0.2 mm	23.8 kph	7.0
+Tien Giang	24/04/2024	26.00 °C	80.0%	4.9 mm	18.7 kph	7.0
+Tay Ninh	24/04/2024	32.80 °C	52.0%	0.6 mm	32.0 kph	9.0
+Binh Duong	24/04/2024	27.70 °C	78.0%	0.0 mm	19.1 kph	8.0
+Ho Chi Minh City	25/04/2024	32.20 °C	60.0%	0.6 mm	24.8 kph	8.0
+Binh Phuoc	25/04/2024	31.90 °C	62.0%	3.4 mm	23.8 kph	8.0
+Dong Nai	25/04/2024	27.80 °C	83.0%	0.1 mm	15.5 kph	7.0
+Ba Ria Vung Tau	25/04/2024	30.10 °C	75.0%	0.9 mm	22.0 kph	7.0
+Tien Giang	25/04/2024	27.60 °C	77.0%	0.4 mm	30.2 kph	8.0
+Tay Ninh	25/04/2024	33.00 °C	54.0%	0.3 mm	24.5 kph	8.0
+Binh Duong	25/04/2024	28.30 °C	74.0%	0.2 mm	26.6 kph	7.0
+Ho Chi Minh City	26/04/2024	32.60 °C	60.0%	0.1 mm	25.9 kph	8.0
+Binh Phuoc	26/04/2024	32.30 °C	62.0%	0.1 mm	23.4 kph	8.0
+Dong Nai	26/04/2024	32.30 °C	54.0%	0.0 mm	20.9 kph	10.0
+Ba Ria Vung Tau	26/04/2024	30.10 °C	75.0%	0.2 mm	24.1 kph	7.0
+Tien Giang	26/04/2024	29.60 °C	75.0%	0.1 mm	21.2 kph	8.0
+Tay Ninh	26/04/2024	33.30 °C	56.0%	0.0 mm	28.1 kph	9.0
+Binh Duong	26/04/2024	29.30 °C	67.0%	1.3 mm	21.6 kph	8.0
+Ho Chi Minh City	27/04/2024	32.60 °C	57.0%	0.0 mm	24.5 kph	9.0
+Binh Phuoc	27/04/2024	32.20 °C	58.0%	0.0 mm	21.2 kph	9.0
+Dong Nai	27/04/2024	35.40 °C	36.0%	0.0 mm	20.2 kph	10.0
+Ba Ria Vung Tau	27/04/2024	29.90 °C	73.0%	0.0 mm	20.5 kph	7.0
+Tien Giang	27/04/2024	32.80 °C	55.0%	0.0 mm	23.4 kph	10.0
+Tay Ninh	27/04/2024	33.50 °C	51.0%	0.0 mm	22.7 kph	10.0
+Binh Duong	27/04/2024	30.10 °C	63.0%	0.0 mm	19.1 kph	9.0
+Ho Chi Minh City	28/04/2024	32.40 °C	55.0%	0.0 mm	20.2 kph	9.0
+Binh Phuoc	28/04/2024	32.00 °C	58.0%	0.0 mm	22.7 kph	9.0
+Dong Nai	28/04/2024	34.10 °C	40.0%	0.0 mm	14.8 kph	10.0
+Ba Ria Vung Tau	28/04/2024	30.00 °C	70.0%	0.1 mm	19.4 kph	7.0
+Tien Giang	28/04/2024	31.80 °C	59.0%	0.0 mm	23.8 kph	10.0
+Tay Ninh	28/04/2024	33.90 °C	48.0%	0.3 mm	27.0 kph	10.0
+Binh Duong	28/04/2024	29.20 °C	67.0%	0.0 mm	22.7 kph	8.0
+Ho Chi Minh City	29/04/2024	32.90 °C	55.0%	0.0 mm	25.9 kph	10.0
+Binh Phuoc	29/04/2024	32.40 °C	56.0%	0.0 mm	23.8 kph	9.0
+Dong Nai	29/04/2024	33.80 °C	45.0%	0.0 mm	18.4 kph	10.0
+Ba Ria Vung Tau	29/04/2024	30.20 °C	69.0%	0.0 mm	26.6 kph	8.0
+Tien Giang	29/04/2024	31.60 °C	66.0%	0.0 mm	27.7 kph	9.0
+Tay Ninh	29/04/2024	34.10 °C	46.0%	0.0 mm	28.4 kph	10.0
+Binh Duong	29/04/2024	29.10 °C	66.0%	0.0 mm	18.7 kph	8.0
+Ho Chi Minh City	30/04/2024	32.40 °C	59.0%	0.3 mm	21.6 kph	8.0
+Binh Phuoc	30/04/2024	31.80 °C	61.0%	0.3 mm	18.0 kph	8.0
+Dong Nai	30/04/2024	35.30 °C	38.0%	0.0 mm	20.5 kph	10.0
+Ba Ria Vung Tau	30/04/2024	30.80 °C	73.0%	0.7 mm	24.1 kph	7.0
+Tien Giang	30/04/2024	32.50 °C	58.0%	0.1 mm	25.9 kph	9.0
+Tay Ninh	30/04/2024	33.50 °C	54.0%	0.0 mm	27.0 kph	9.0
+Binh Duong	30/04/2024	29.30 °C	66.0%	0.0 mm	25.2 kph	9.0
+Ho Chi Minh City	01/05/2024	32.40 °C	60.0%	0.7 mm	21.2 kph	8.0
+Binh Phuoc	01/05/2024	32.20 °C	61.0%	0.3 mm	20.5 kph	8.0
+Dong Nai	01/05/2024	29.50 °C	67.0%	0.3 mm	25.6 kph	7.0
+Ba Ria Vung Tau	01/05/2024	30.60 °C	71.0%	0.7 mm	24.1 kph	7.0
+Tien Giang	01/05/2024	26.70 °C	71.0%	6.7 mm	21.6 kph	6.0
+Tay Ninh	01/05/2024	34.00 °C	50.0%	0.1 mm	25.2 kph	9.0
+Binh Duong	01/05/2024	29.80 °C	65.0%	0.5 mm	20.9 kph	8.0
+Ho Chi Minh City	02/05/2024	32.70 °C	57.0%	0.3 mm	24.5 kph	8.0
+Binh Phuoc	02/05/2024	32.30 °C	59.0%	0.1 mm	23.0 kph	9.0
+Dong Nai	02/05/2024	28.70 °C	83.0%	3.1 mm	20.5 kph	7.0
+Ba Ria Vung Tau	02/05/2024	30.50 °C	72.0%	0.3 mm	24.1 kph	7.0
+Tien Giang	02/05/2024	24.40 °C	85.0%	11.6 mm	9.7 kph	6.0
+Tay Ninh	02/05/2024	33.20 °C	52.0%	2.8 mm	24.1 kph	8.0
+Binh Duong	02/05/2024	26.80 °C	81.0%	14.1 mm	21.2 kph	7.0
+Ho Chi Minh City	03/05/2024	32.90 °C	55.0%	0.5 mm	27.7 kph	8.0
+Binh Phuoc	03/05/2024	32.40 °C	59.0%	1.9 mm	25.6 kph	8.0
+Dong Nai	03/05/2024	26.80 °C	88.0%	11.3 mm	18.4 kph	7.0
+Ba Ria Vung Tau	03/05/2024	30.50 °C	71.0%	1.1 mm	25.6 kph	7.0
+Tien Giang	03/05/2024	26.70 °C	86.0%	23.1 mm	22.3 kph	7.0
+Tay Ninh	03/05/2024	32.70 °C	56.0%	10.9 mm	24.5 kph	8.0
+Binh Duong	03/05/2024	26.60 °C	81.0%	1.8 mm	25.6 kph	7.0
+Ho Chi Minh City	04/05/2024	31.80 °C	61.0%	6.9 mm	21.2 kph	8.0
+Binh Phuoc	04/05/2024	31.80 °C	61.0%	7.7 mm	21.6 kph	8.0
+Dong Nai	04/05/2024	28.50 °C	78.0%	11.8 mm	23.8 kph	7.0
+Ba Ria Vung Tau	04/05/2024	30.10 °C	72.0%	5.6 mm	23.0 kph	7.0
+Tien Giang	04/05/2024	26.60 °C	83.0%	5.2 mm	22.3 kph	7.0
+Tay Ninh	04/05/2024	31.70 °C	60.0%	7.1 mm	23.4 kph	8.0
+Binh Duong	04/05/2024	26.60 °C	82.0%	1.2 mm	20.2 kph	7.0
+Ho Chi Minh City	05/05/2024	30.50 °C	67.0%	37.5 mm	17.3 kph	8.0
+Binh Phuoc	05/05/2024	30.40 °C	68.0%	12.4 mm	16.9 kph	8.0
+Dong Nai	05/05/2024	28.50 °C	78.0%	0.8 mm	18.4 kph	7.0
+Ba Ria Vung Tau	05/05/2024	29.80 °C	72.0%	11.6 mm	21.6 kph	7.0
+Tien Giang	05/05/2024	27.40 °C	83.0%	9.5 mm	23.8 kph	7.0
+Tay Ninh	05/05/2024	30.20 °C	66.0%	62.6 mm	28.8 kph	8.0
+Binh Duong	05/05/2024	27.00 °C	81.0%	0.2 mm	18.4 kph	7.0
+Ho Chi Minh City	06/05/2024	31.10 °C	59.0%	0.0 mm	23.0 kph	9.0
+Binh Phuoc	06/05/2024	31.10 °C	58.0%	0.0 mm	20.5 kph	9.0
+Dong Nai	06/05/2024	27.60 °C	84.0%	0.8 mm	15.1 kph	7.0
+Ba Ria Vung Tau	06/05/2024	29.60 °C	68.0%	0.1 mm	22.3 kph	7.0
+Tien Giang	06/05/2024	27.70 °C	82.0%	9.1 mm	20.5 kph	7.0
+Tay Ninh	06/05/2024	30.80 °C	60.0%	0.0 mm	18.7 kph	8.0
+Binh Duong	06/05/2024	26.90 °C	80.0%	0.1 mm	21.6 kph	7.0
+Ho Chi Minh City	07/05/2024	31.70 °C	59.0%	6.0 mm	21.6 kph	8.0
+Binh Phuoc	07/05/2024	31.10 °C	62.0%	10.6 mm	21.6 kph	8.0
+Dong Nai	07/05/2024	27.70 °C	80.0%	0.1 mm	20.9 kph	7.0
+Ba Ria Vung Tau	07/05/2024	30.00 °C	72.0%	2.3 mm	25.9 kph	7.0
+Tien Giang	07/05/2024	27.40 °C	82.0%	1.9 mm	15.1 kph	7.0
+Tay Ninh	07/05/2024	31.70 °C	56.0%	2.0 mm	18.7 kph	8.0
+Binh Duong	07/05/2024	26.70 °C	83.0%	0.1 mm	22.0 kph	7.0
+Ho Chi Minh City	08/05/2024	32.50 °C	57.0%	1.9 mm	26.3 kph	8.0
+Binh Phuoc	08/05/2024	32.00 °C	60.0%	6.2 mm	25.9 kph	8.0
+Dong Nai	08/05/2024	27.20 °C	81.0%	0.0 mm	18.7 kph	8.0
+Ba Ria Vung Tau	08/05/2024	30.70 °C	71.0%	1.6 mm	33.5 kph	7.0
+Tien Giang	08/05/2024	27.90 °C	75.0%	1.9 mm	19.8 kph	7.0
+Tay Ninh	08/05/2024	32.00 °C	59.0%	16.9 mm	24.5 kph	8.0
+Binh Duong	08/05/2024	26.70 °C	82.0%	0.3 mm	18.4 kph	6.0
+Ho Chi Minh City	09/05/2024	31.40 °C	61.0%	3.9 mm	22.7 kph	8.0
+Binh Phuoc	09/05/2024	31.50 °C	62.0%	6.3 mm	23.0 kph	8.0
+Dong Nai	09/05/2024	26.70 °C	81.0%	1.5 mm	15.5 kph	7.0
+Ba Ria Vung Tau	09/05/2024	30.40 °C	72.0%	3.0 mm	33.8 kph	7.0
+Tien Giang	09/05/2024	26.20 °C	83.0%	8.3 mm	16.9 kph	6.0
+Tay Ninh	09/05/2024	30.70 °C	65.0%	10.8 mm	31.7 kph	7.0
+Binh Duong	09/05/2024	26.70 °C	80.0%	0.1 mm	19.4 kph	8.0
+Ho Chi Minh City	10/05/2024	31.60 °C	61.0%	0.1 mm	24.5 kph	9.0
+Binh Phuoc	10/05/2024	31.20 °C	64.0%	0.5 mm	26.3 kph	8.0
+Dong Nai	10/05/2024	26.00 °C	87.0%	14.6 mm	12.2 kph	7.0
+Ba Ria Vung Tau	10/05/2024	30.30 °C	72.0%	0.9 mm	29.5 kph	7.0
+Tien Giang	10/05/2024	25.90 °C	84.0%	0.8 mm	21.6 kph	6.0
+Tay Ninh	10/05/2024	30.70 °C	65.0%	7.3 mm	24.8 kph	8.0
+Binh Duong	10/05/2024	26.80 °C	78.0%	0.1 mm	19.1 kph	8.0
+Ho Chi Minh City	11/05/2024	31.70 °C	61.0%	1.8 mm	20.9 kph	8.0
+Binh Phuoc	11/05/2024	31.60 °C	63.0%	4.5 mm	20.5 kph	8.0
+Dong Nai	11/05/2024	26.60 °C	82.0%	3.2 mm	24.1 kph	7.0
+Ba Ria Vung Tau	11/05/2024	30.50 °C	74.0%	12.2 mm	33.5 kph	7.0
+Tien Giang	11/05/2024	28.30 °C	79.0%	0.8 mm	19.1 kph	7.0
+Tay Ninh	11/05/2024	31.70 °C	62.0%	5.4 mm	20.9 kph	8.0
+Binh Duong	11/05/2024	27.40 °C	82.0%	1.4 mm	21.6 kph	7.0
+Ho Chi Minh City	12/05/2024	31.40 °C	64.0%	1.9 mm	16.6 kph	8.0
+Binh Phuoc	12/05/2024	30.70 °C	68.0%	6.8 mm	15.8 kph	8.0
+Dong Nai	12/05/2024	27.50 °C	83.0%	13.7 mm	17.3 kph	7.0
+Ba Ria Vung Tau	12/05/2024	30.10 °C	75.0%	9.8 mm	23.8 kph	7.0
+Tien Giang	12/05/2024	27.60 °C	84.0%	34.2 mm	12.2 kph	7.0
+Tay Ninh	12/05/2024	31.30 °C	64.0%	4.3 mm	18.7 kph	8.0
+Binh Duong	12/05/2024	27.90 °C	81.0%	2.9 mm	20.2 kph	7.0
+Ho Chi Minh City	13/05/2024	30.70 °C	66.0%	11.6 mm	16.6 kph	8.0
+Binh Phuoc	13/05/2024	30.50 °C	68.0%	13.5 mm	13.3 kph	7.0
+Dong Nai	13/05/2024	26.20 °C	89.0%	11.2 mm	10.4 kph	6.0
+Ba Ria Vung Tau	13/05/2024	29.70 °C	75.0%	13.3 mm	19.8 kph	7.0
+Tien Giang	13/05/2024	26.00 °C	81.0%	20.4 mm	14.8 kph	6.0
+Tay Ninh	13/05/2024	31.20 °C	63.0%	4.3 mm	15.5 kph	8.0
+Binh Duong	13/05/2024	27.70 °C	80.0%	3.0 mm	16.9 kph	7.0
+Ho Chi Minh City	14/05/2024	30.50 °C	67.0%	8.8 mm	12.6 kph	8.0
+Binh Phuoc	14/05/2024	30.10 °C	70.0%	10.3 mm	12.6 kph	7.0
+Dong Nai	14/05/2024	27.10 °C	81.0%	2.9 mm	12.6 kph	6.0
+Ba Ria Vung Tau	14/05/2024	29.70 °C	76.0%	19.1 mm	21.2 kph	7.0
+Tien Giang	14/05/2024	27.30 °C	76.0%	2.9 mm	15.8 kph	7.0
+Tay Ninh	14/05/2024	31.00 °C	63.0%	3.6 mm	13.3 kph	7.0
+Binh Duong	14/05/2024	27.10 °C	82.0%	2.0 mm	18.0 kph	7.0
+Ho Chi Minh City	15/05/2024	31.10 °C	65.0%	7.5 mm	19.8 kph	8.0
+Binh Phuoc	15/05/2024	31.00 °C	66.0%	10.3 mm	18.4 kph	8.0
+Dong Nai	15/05/2024	27.40 °C	80.0%	0.6 mm	13.0 kph	7.0
+Ba Ria Vung Tau	15/05/2024	30.30 °C	75.0%	13.8 mm	29.5 kph	7.0
+Tien Giang	15/05/2024	27.40 °C	80.0%	12.6 mm	16.2 kph	7.0
+Tay Ninh	15/05/2024	31.10 °C	65.0%	5.4 mm	26.6 kph	8.0
+Binh Duong	15/05/2024	27.50 °C	80.0%	9.2 mm	18.4 kph	7.0
+Ho Chi Minh City	16/05/2024	30.10 °C	71.0%	4.7 mm	18.4 kph	8.0
+Binh Phuoc	16/05/2024	29.40 °C	76.0%	10.4 mm	17.6 kph	7.0
+Dong Nai	16/05/2024	27.40 °C	80.0%	4.4 mm	13.0 kph	7.0
+Ba Ria Vung Tau	16/05/2024	29.80 °C	76.0%	13.9 mm	26.6 kph	7.0
+Tien Giang	16/05/2024	25.40 °C	85.0%	6.7 mm	10.8 kph	6.0
+Tay Ninh	16/05/2024	30.10 °C	71.0%	21.2 mm	18.4 kph	7.0
+Binh Duong	16/05/2024	27.40 °C	81.0%	3.7 mm	15.8 kph	7.0
+Ho Chi Minh City	17/05/2024	30.50 °C	69.0%	3.1 mm	16.2 kph	7.0
+Binh Phuoc	17/05/2024	30.00 °C	72.0%	9.9 mm	17.3 kph	7.0
+Dong Nai	17/05/2024	26.90 °C	83.0%	4.7 mm	13.7 kph	7.0
+Ba Ria Vung Tau	17/05/2024	29.80 °C	75.0%	2.1 mm	21.6 kph	7.0
+Tien Giang	17/05/2024	26.40 °C	77.0%	3.6 mm	17.3 kph	7.0
+Tay Ninh	17/05/2024	31.20 °C	65.0%	2.7 mm	16.6 kph	8.0
+Binh Duong	17/05/2024	27.40 °C	81.0%	1.8 mm	16.9 kph	7.0
+Ho Chi Minh City	18/05/2024	31.20 °C	62.0%	1.5 mm	19.4 kph	8.0
+Binh Phuoc	18/05/2024	31.00 °C	63.0%	0.4 mm	19.1 kph	9.0
+Dong Nai	18/05/2024	28.60 °C	80.0%	0.4 mm	12.2 kph	7.0
+Ba Ria Vung Tau	18/05/2024	29.80 °C	71.0%	0.6 mm	20.5 kph	7.0
+Tien Giang	18/05/2024	27.80 °C	84.0%	8.2 mm	12.6 kph	7.0
+Tay Ninh	18/05/2024	31.60 °C	62.0%	3.2 mm	20.9 kph	9.0
+Binh Duong	18/05/2024	27.40 °C	84.0%	21.1 mm	20.5 kph	7.0
+Ho Chi Minh City	19/05/2024	30.80 °C	67.0%	9.2 mm	15.5 kph	8.0
+Binh Phuoc	19/05/2024	30.50 °C	70.0%	6.7 mm	15.1 kph	8.0
+Dong Nai	19/05/2024	29.40 °C	78.0%	11.9 mm	24.5 kph	8.0
+Ba Ria Vung Tau	19/05/2024	29.80 °C	75.0%	11.2 mm	25.2 kph	7.0
+Tien Giang	19/05/2024	27.20 °C	85.0%	13.6 mm	21.6 kph	7.0
+Tay Ninh	19/05/2024	31.10 °C	64.0%	7.5 mm	19.4 kph	8.0
+Binh Duong	19/05/2024	27.80 °C	80.0%	29.8 mm	22.0 kph	7.0
+Ho Chi Minh City	20/05/2024	30.90 °C	66.0%	1.4 mm	14.0 kph	7.0
+Binh Phuoc	20/05/2024	30.90 °C	66.0%	2.9 mm	11.9 kph	8.0
+Dong Nai	20/05/2024	26.50 °C	89.0%	40.0 mm	19.4 kph	6.0
+Ba Ria Vung Tau	20/05/2024	29.70 °C	76.0%	13.3 mm	22.3 kph	7.0
+Tien Giang	20/05/2024	27.50 °C	79.0%	12.6 mm	17.6 kph	7.0
+Tay Ninh	20/05/2024	31.90 °C	62.0%	0.8 mm	19.1 kph	8.0
+Binh Duong	20/05/2024	27.10 °C	85.0%	5.3 mm	23.0 kph	6.0
+Ho Chi Minh City	21/05/2024	29.60 °C	74.0%	21.0 mm	12.2 kph	7.0
+Binh Phuoc	21/05/2024	29.60 °C	74.0%	17.8 mm	13.3 kph	7.0
+Dong Nai	21/05/2024	26.40 °C	84.0%	6.8 mm	9.7 kph	6.0
+Ba Ria Vung Tau	21/05/2024	29.60 °C	75.0%	15.5 mm	20.2 kph	7.0
+Tien Giang	21/05/2024	27.80 °C	69.0%	0.3 mm	16.2 kph	7.0
+Tay Ninh	21/05/2024	30.70 °C	67.0%	10.5 mm	15.8 kph	7.0
+Binh Duong	21/05/2024	26.00 °C	88.0%	9.6 mm	9.7 kph	6.0
+Ho Chi Minh City	22/05/2024	29.60 °C	74.0%	18.6 mm	11.5 kph	7.0
+Binh Phuoc	22/05/2024	29.30 °C	76.0%	17.6 mm	9.4 kph	7.0
+Dong Nai	22/05/2024	26.40 °C	82.0%	2.4 mm	9.0 kph	6.0
+Ba Ria Vung Tau	22/05/2024	29.70 °C	73.0%	4.1 mm	13.3 kph	7.0
+Tien Giang	22/05/2024	28.30 °C	73.0%	3.1 mm	10.8 kph	7.0
+Tay Ninh	22/05/2024	29.80 °C	71.0%	8.9 mm	11.5 kph	7.0
+Binh Duong	22/05/2024	26.60 °C	84.0%	4.5 mm	13.0 kph	6.0
+Ho Chi Minh City	23/05/2024	30.40 °C	68.0%	2.0 mm	14.8 kph	7.0
+Binh Phuoc	23/05/2024	30.00 °C	70.0%	5.2 mm	13.0 kph	7.0
+Dong Nai	23/05/2024	25.80 °C	84.0%	0.5 mm	9.4 kph	6.0
+Ba Ria Vung Tau	23/05/2024	29.80 °C	73.0%	2.9 mm	15.5 kph	7.0
+Tien Giang	23/05/2024	28.20 °C	77.0%	9.5 mm	15.1 kph	7.0
+Tay Ninh	23/05/2024	29.90 °C	71.0%	7.3 mm	15.8 kph	7.0
+Binh Duong	23/05/2024	26.40 °C	86.0%	2.7 mm	10.4 kph	6.0
+Ho Chi Minh City	24/05/2024	30.90 °C	64.0%	1.2 mm	19.8 kph	9.0
+Binh Phuoc	24/05/2024	30.40 °C	67.0%	2.4 mm	18.4 kph	9.0
+Dong Nai	24/05/2024	25.70 °C	88.0%	2.1 mm	6.8 kph	6.0
+Ba Ria Vung Tau	24/05/2024	29.70 °C	73.0%	0.6 mm	19.1 kph	8.0
+Tien Giang	24/05/2024	28.40 °C	73.0%	0.7 mm	17.6 kph	7.0
+Tay Ninh	24/05/2024	31.00 °C	65.0%	1.4 mm	22.7 kph	8.0
+Binh Duong	24/05/2024	26.20 °C	89.0%	21.1 mm	12.2 kph	6.0
+Ho Chi Minh City	25/05/2024	31.00 °C	66.0%	3.4 mm	17.6 kph	8.0
+Binh Phuoc	25/05/2024	30.90 °C	67.0%	1.7 mm	18.4 kph	8.0
+Dong Nai	25/05/2024	27.70 °C	80.0%	0.6 mm	11.5 kph	7.0
+Ba Ria Vung Tau	25/05/2024	29.70 °C	76.0%	3.7 mm	17.6 kph	7.0
+Tien Giang	25/05/2024	28.80 °C	75.0%	3.6 mm	21.2 kph	7.0
+Tay Ninh	25/05/2024	31.80 °C	61.0%	0.8 mm	18.4 kph	8.0
+Binh Duong	25/05/2024	27.40 °C	85.0%	2.7 mm	15.5 kph	7.0
+Ho Chi Minh City	26/05/2024	31.40 °C	64.0%	4.7 mm	15.5 kph	8.0
+Binh Phuoc	26/05/2024	30.80 °C	67.0%	3.8 mm	16.6 kph	8.0
+Dong Nai	26/05/2024	27.50 °C	82.0%	1.2 mm	9.0 kph	7.0
+Ba Ria Vung Tau	26/05/2024	30.00 °C	73.0%	7.0 mm	24.8 kph	7.0
+Tien Giang	26/05/2024	26.90 °C	84.0%	0.0 mm	14.4 kph	6.0
+Tay Ninh	26/05/2024	31.60 °C	63.0%	4.5 mm	14.4 kph	8.0
+Binh Duong	26/05/2024	27.80 °C	81.0%	3.1 mm	14.4 kph	7.0
+Ho Chi Minh City	27/05/2024	32.00 °C	61.0%	1.2 mm	13.7 kph	8.0
+Binh Phuoc	27/05/2024	31.40 °C	65.0%	1.4 mm	13.7 kph	8.0
+Dong Nai	27/05/2024	31.00 °C	67.0%	0.0 mm	13.3 kph	8.0
+Ba Ria Vung Tau	27/05/2024	30.20 °C	75.0%	12.2 mm	28.4 kph	7.0
+Tien Giang	27/05/2024	27.00 °C	86.0%	0.0 mm	9.4 kph	6.0
+Tay Ninh	27/05/2024	32.20 °C	60.0%	1.0 mm	17.6 kph	8.0
+Binh Duong	27/05/2024	28.90 °C	76.0%	0.0 mm	15.8 kph	7.0
+Ho Chi Minh City	28/05/2024	32.40 °C	58.0%	1.0 mm	20.2 kph	8.0
+Binh Phuoc	28/05/2024	32.20 °C	59.0%	0.1 mm	22.0 kph	8.0
+Dong Nai	28/05/2024	30.10 °C	65.0%	0.0 mm	14.0 kph	7.0
+Ba Ria Vung Tau	28/05/2024	30.80 °C	73.0%	3.9 mm	24.1 kph	7.0
+Tien Giang	28/05/2024	29.00 °C	76.0%	0.0 mm	7.2 kph	7.0
+Tay Ninh	28/05/2024	31.90 °C	58.0%	3.1 mm	18.4 kph	8.0
+Binh Duong	28/05/2024	29.80 °C	72.0%	0.9 mm	17.3 kph	7.0
+Ho Chi Minh City	29/05/2024	30.40 °C	69.0%	5.4 mm	16.6 kph	7.0
+Binh Phuoc	29/05/2024	30.70 °C	67.0%	0.9 mm	19.1 kph	7.0
+Dong Nai	29/05/2024	32.10 °C	61.0%	0.0 mm	16.2 kph	8.0
+Ba Ria Vung Tau	29/05/2024	30.20 °C	75.0%	17.1 mm	27.4 kph	7.0
+Tien Giang	29/05/2024	29.20 °C	80.0%	0.1 mm	15.8 kph	7.0
+Tay Ninh	29/05/2024	31.50 °C	62.0%	1.4 mm	22.0 kph	7.0
+Binh Duong	29/05/2024	29.10 °C	73.0%	1.3 mm	13.0 kph	7.0
+Ho Chi Minh City	30/05/2024	31.30 °C	63.0%	1.6 mm	22.0 kph	8.0
+Binh Phuoc	30/05/2024	30.80 °C	66.0%	0.5 mm	21.2 kph	7.0
+Dong Nai	30/05/2024	31.20 °C	70.0%	9.8 mm	15.1 kph	8.0
+Ba Ria Vung Tau	30/05/2024	30.30 °C	74.0%	13.2 mm	24.1 kph	7.0
+Tien Giang	30/05/2024	27.90 °C	86.0%	28.4 mm	22.7 kph	7.0
+Tay Ninh	30/05/2024	31.40 °C	60.0%	0.5 mm	28.4 kph	8.0
+Binh Duong	30/05/2024	29.60 °C	74.0%	2.2 mm	15.8 kph	7.0
+Ho Chi Minh City	31/05/2024	29.60 °C	72.0%	22.6 mm	15.1 kph	7.0
+Binh Phuoc	31/05/2024	30.20 °C	69.0%	10.5 mm	19.8 kph	7.0
+Dong Nai	31/05/2024	25.40 °C	94.0%	77.9 mm	14.8 kph	6.0
+Ba Ria Vung Tau	31/05/2024	28.90 °C	78.0%	45.4 mm	29.2 kph	7.0
+Tien Giang	31/05/2024	26.10 °C	81.0%	6.7 mm	15.5 kph	6.0
+Tay Ninh	31/05/2024	30.80 °C	65.0%	2.2 mm	19.4 kph	8.0
+Binh Duong	31/05/2024	28.00 °C	79.0%	10.5 mm	16.6 kph	7.0
+Ho Chi Minh City	01/06/2024	28.30 °C	78.0%	8.5 mm	13.7 kph	7.0
+Binh Phuoc	01/06/2024	27.90 °C	82.0%	10.5 mm	11.9 kph	7.0
+Dong Nai	01/06/2024	26.10 °C	88.0%	6.4 mm	10.4 kph	6.0
+Ba Ria Vung Tau	01/06/2024	29.10 °C	76.0%	17.7 mm	17.6 kph	7.0
+Tien Giang	01/06/2024	29.30 °C	67.0%	0.0 mm	15.1 kph	7.0
+Tay Ninh	01/06/2024	28.80 °C	76.0%	7.6 mm	17.6 kph	7.0
+Binh Duong	01/06/2024	26.80 °C	85.0%	0.1 mm	10.1 kph	6.0
+Ho Chi Minh City	02/06/2024	29.40 °C	72.0%	1.3 mm	10.4 kph	7.0
+Binh Phuoc	02/06/2024	29.10 °C	74.0%	1.7 mm	10.4 kph	7.0
+Dong Nai	02/06/2024	26.80 °C	84.0%	1.8 mm	15.5 kph	6.0
+Ba Ria Vung Tau	02/06/2024	28.60 °C	79.0%	3.1 mm	18.0 kph	6.0
+Tien Giang	02/06/2024	29.40 °C	75.0%	2.6 mm	16.2 kph	7.0
+Tay Ninh	02/06/2024	30.30 °C	66.0%	4.0 mm	13.3 kph	8.0
+Binh Duong	02/06/2024	27.40 °C	83.0%	1.1 mm	10.4 kph	7.0
+Ho Chi Minh City	03/06/2024	31.70 °C	60.0%	0.6 mm	16.2 kph	9.0
+Binh Phuoc	03/06/2024	31.50 °C	61.0%	0.0 mm	15.8 kph	8.0
+Dong Nai	03/06/2024	29.70 °C	69.0%	0.0 mm	19.1 kph	8.0
+Ba Ria Vung Tau	03/06/2024	30.10 °C	73.0%	3.3 mm	23.4 kph	7.0
+Tien Giang	03/06/2024	30.70 °C	72.0%	3.2 mm	16.2 kph	8.0
+Tay Ninh	03/06/2024	32.20 °C	56.0%	0.0 mm	19.4 kph	9.0
+Binh Duong	03/06/2024	29.20 °C	73.0%	1.1 mm	17.3 kph	7.0
+Ho Chi Minh City	04/06/2024	31.60 °C	60.0%	2.0 mm	15.1 kph	8.0
+Binh Phuoc	04/06/2024	30.70 °C	65.0%	0.7 mm	17.6 kph	8.0
+Dong Nai	04/06/2024	30.90 °C	66.0%	0.2 mm	14.4 kph	8.0
+Ba Ria Vung Tau	04/06/2024	30.00 °C	74.0%	2.9 mm	33.1 kph	7.0
+Tien Giang	04/06/2024	27.30 °C	86.0%	20.5 mm	14.0 kph	6.0
+Tay Ninh	04/06/2024	31.20 °C	62.0%	6.8 mm	25.6 kph	8.0
+Binh Duong	04/06/2024	29.00 °C	74.0%	5.3 mm	19.8 kph	7.0
+Ho Chi Minh City	05/06/2024	28.50 °C	74.0%	7.6 mm	15.5 kph	7.0
+Binh Phuoc	05/06/2024	27.60 °C	80.0%	7.7 mm	17.3 kph	6.0
+Dong Nai	05/06/2024	30.50 °C	66.0%	0.4 mm	10.4 kph	7.0
+Ba Ria Vung Tau	05/06/2024	28.70 °C	77.0%	7.0 mm	23.4 kph	6.0
+Tien Giang	05/06/2024	26.30 °C	87.0%	23.9 mm	19.1 kph	6.0
+Tay Ninh	05/06/2024	29.00 °C	74.0%	0.5 mm	17.6 kph	7.0
+Binh Duong	05/06/2024	29.20 °C	73.0%	1.7 mm	18.7 kph	7.0
+Ho Chi Minh City	06/06/2024	29.20 °C	70.0%	9.4 mm	14.4 kph	7.0
+Binh Phuoc	06/06/2024	28.30 °C	74.0%	10.3 mm	11.9 kph	7.0
+Dong Nai	06/06/2024	28.00 °C	85.0%	9.4 mm	15.1 kph	7.0
+Ba Ria Vung Tau	06/06/2024	29.20 °C	73.0%	11.2 mm	24.8 kph	7.0
+Tien Giang	06/06/2024	23.90 °C	91.0%	10.3 mm	11.2 kph	5.0
+Tay Ninh	06/06/2024	30.70 °C	64.0%	2.9 mm	15.1 kph	8.0
+Binh Duong	06/06/2024	28.40 °C	77.0%	1.9 mm	12.6 kph	7.0
+Ho Chi Minh City	07/06/2024	31.20 °C	62.0%	5.1 mm	14.8 kph	8.0
+Binh Phuoc	07/06/2024	31.00 °C	64.0%	4.2 mm	18.7 kph	8.0
+Dong Nai	07/06/2024	28.90 °C	77.0%	0.0 mm	8.6 kph	8.0
+Ba Ria Vung Tau	07/06/2024	30.00 °C	73.0%	3.9 mm	22.0 kph	7.0
+Tien Giang	07/06/2024	27.20 °C	85.0%	8.5 mm	10.1 kph	7.0
+Tay Ninh	07/06/2024	32.00 °C	57.0%	0.9 mm	25.6 kph	8.0
+Binh Duong	07/06/2024	28.80 °C	74.0%	1.4 mm	16.6 kph	7.0
+Ho Chi Minh City	08/06/2024	30.50 °C	67.0%	5.7 mm	13.7 kph	7.0
+Binh Phuoc	08/06/2024	30.70 °C	66.0%	13.0 mm	16.2 kph	8.0
+Dong Nai	08/06/2024	29.90 °C	70.0%	0.0 mm	9.4 kph	7.0
+Ba Ria Vung Tau	08/06/2024	29.70 °C	74.0%	12.3 mm	24.1 kph	7.0
+Tien Giang	08/06/2024	27.40 °C	89.0%	28.3 mm	8.6 kph	6.0
+Tay Ninh	08/06/2024	32.00 °C	57.0%	1.3 mm	21.6 kph	8.0
+Binh Duong	08/06/2024	28.30 °C	77.0%	10.5 mm	18.4 kph	7.0
+Ho Chi Minh City	09/06/2024	27.70 °C	79.0%	18.6 mm	15.8 kph	7.0
+Binh Phuoc	09/06/2024	28.00 °C	77.0%	21.3 mm	16.9 kph	7.0
+Dong Nai	09/06/2024	29.60 °C	70.0%	1.0 mm	11.5 kph	7.0
+Ba Ria Vung Tau	09/06/2024	28.20 °C	78.0%	18.2 mm	24.8 kph	6.0
+Tien Giang	09/06/2024	27.90 °C	84.0%	20.7 mm	15.5 kph	7.0
+Tay Ninh	09/06/2024	30.40 °C	62.0%	0.3 mm	27.7 kph	7.0
+Binh Duong	09/06/2024	28.20 °C	79.0%	5.8 mm	17.3 kph	7.0
+Ho Chi Minh City	10/06/2024	26.50 °C	83.0%	11.6 mm	25.2 kph	7.0
+Binh Phuoc	10/06/2024	26.40 °C	83.0%	7.9 mm	28.4 kph	7.0
+Dong Nai	10/06/2024	29.20 °C	76.0%	2.4 mm	10.4 kph	7.0
+Ba Ria Vung Tau	10/06/2024	27.70 °C	79.0%	16.3 mm	34.2 kph	7.0
+Tien Giang	10/06/2024	27.30 °C	88.0%	37.5 mm	13.3 kph	7.0
+Tay Ninh	10/06/2024	26.80 °C	81.0%	10.1 mm	34.2 kph	7.0
+Binh Duong	10/06/2024	28.10 °C	79.0%	18.8 mm	17.3 kph	7.0
+Ho Chi Minh City	11/06/2024	29.20 °C	70.0%	6.2 mm	16.6 kph	7.0
+Binh Phuoc	11/06/2024	29.10 °C	69.0%	2.1 mm	19.1 kph	7.0
+Dong Nai	11/06/2024	29.40 °C	72.0%	0.0 mm	16.6 kph	8.0
+Ba Ria Vung Tau	11/06/2024	28.70 °C	76.0%	7.7 mm	26.3 kph	7.0
+Tien Giang	11/06/2024	28.50 °C	84.0%	5.3 mm	14.0 kph	7.0
+Tay Ninh	11/06/2024	28.70 °C	72.0%	8.0 mm	23.0 kph	7.0
+Binh Duong	11/06/2024	28.70 °C	76.0%	4.3 mm	17.6 kph	7.0
+Ho Chi Minh City	12/06/2024	30.60 °C	63.0%	0.0 mm	16.9 kph	8.0
+Binh Phuoc	12/06/2024	30.40 °C	63.0%	0.0 mm	19.8 kph	8.0
+Dong Nai	12/06/2024	30.40 °C	66.0%	0.0 mm	20.5 kph	8.0
+Ba Ria Vung Tau	12/06/2024	29.90 °C	72.0%	0.1 mm	22.0 kph	7.0
+Tien Giang	12/06/2024	31.10 °C	73.0%	0.3 mm	18.4 kph	8.0
+Tay Ninh	12/06/2024	30.90 °C	60.0%	0.1 mm	18.0 kph	8.0
+Binh Duong	12/06/2024	29.50 °C	72.0%	0.0 mm	16.9 kph	7.0
+Ho Chi Minh City	13/06/2024	31.00 °C	62.0%	0.1 mm	15.8 kph	8.0
+Binh Phuoc	13/06/2024	30.40 °C	65.0%	0.5 mm	15.8 kph	8.0
+Dong Nai	13/06/2024	31.80 °C	58.0%	0.0 mm	19.4 kph	9.0
+Ba Ria Vung Tau	13/06/2024	30.10 °C	72.0%	0.5 mm	20.5 kph	7.0
+Tien Giang	13/06/2024	31.50 °C	70.0%	0.0 mm	10.8 kph	8.0
+Tay Ninh	13/06/2024	31.40 °C	58.0%	0.0 mm	16.9 kph	8.0
+Binh Duong	13/06/2024	29.80 °C	69.0%	0.0 mm	14.8 kph	8.0
+Ho Chi Minh City	14/06/2024	31.20 °C	63.0%	0.3 mm	19.4 kph	8.0
+Binh Phuoc	14/06/2024	30.60 °C	66.0%	0.4 mm	19.1 kph	8.0
+Dong Nai	14/06/2024	32.00 °C	57.0%	0.0 mm	19.1 kph	9.0
+Ba Ria Vung Tau	14/06/2024	29.80 °C	75.0%	1.4 mm	29.9 kph	7.0
+Tien Giang	14/06/2024	31.70 °C	65.0%	4.2 mm	16.6 kph	8.0
+Tay Ninh	14/06/2024	31.60 °C	59.0%	0.6 mm	25.9 kph	8.0
+Binh Duong	14/06/2024	29.60 °C	69.0%	3.3 mm	19.1 kph	8.0
+Ho Chi Minh City	15/06/2024	30.90 °C	66.0%	12.5 mm	15.8 kph	8.0
+Binh Phuoc	15/06/2024	31.00 °C	65.0%	7.5 mm	16.6 kph	8.0
+Dong Nai	15/06/2024	31.50 °C	65.0%	0.0 mm	10.8 kph	8.0
+Ba Ria Vung Tau	15/06/2024	30.40 °C	72.0%	11.0 mm	20.2 kph	7.0
+Tien Giang	15/06/2024	28.30 °C	84.0%	2.5 mm	10.8 kph	7.0
+Tay Ninh	15/06/2024	31.50 °C	62.0%	4.1 mm	22.7 kph	8.0
+Binh Duong	15/06/2024	28.80 °C	75.0%	24.9 mm	19.1 kph	7.0
+Ho Chi Minh City	16/06/2024	30.70 °C	65.0%	5.0 mm	16.6 kph	8.0
+Binh Phuoc	16/06/2024	30.60 °C	65.0%	1.7 mm	16.6 kph	8.0
+Dong Nai	16/06/2024	30.30 °C	69.0%	0.1 mm	10.8 kph	8.0
+Ba Ria Vung Tau	16/06/2024	29.80 °C	74.0%	17.2 mm	26.6 kph	7.0
+Tien Giang	16/06/2024	27.10 °C	89.0%	7.6 mm	9.4 kph	6.0
+Tay Ninh	16/06/2024	30.40 °C	68.0%	15.1 mm	22.7 kph	8.0
+Binh Duong	16/06/2024	28.30 °C	73.0%	3.0 mm	20.5 kph	7.0
+Ho Chi Minh City	17/06/2024	30.20 °C	65.0%	3.3 mm	18.4 kph	8.0
+Binh Phuoc	17/06/2024	29.90 °C	67.0%	2.3 mm	18.7 kph	8.0
+Dong Nai	17/06/2024	32.70 °C	57.0%	0.0 mm	17.3 kph	8.0
+Ba Ria Vung Tau	17/06/2024	29.30 °C	74.0%	8.5 mm	24.1 kph	7.0
+Tien Giang	17/06/2024	30.60 °C	77.0%	4.4 mm	10.4 kph	8.0
+Tay Ninh	17/06/2024	30.40 °C	65.0%	1.7 mm	23.8 kph	8.0
+Binh Duong	17/06/2024	28.40 °C	76.0%	25.6 mm	24.5 kph	7.0
+Ho Chi Minh City	18/06/2024	29.90 °C	67.0%	1.9 mm	14.4 kph	8.0
+Binh Phuoc	18/06/2024	30.00 °C	66.0%	2.0 mm	15.5 kph	8.0
+Dong Nai	18/06/2024	32.50 °C	57.0%	0.1 mm	20.2 kph	8.0
+Ba Ria Vung Tau	18/06/2024	29.10 °C	75.0%	13.2 mm	26.3 kph	7.0
+Tien Giang	18/06/2024	30.60 °C	73.0%	7.0 mm	6.5 kph	8.0
+Tay Ninh	18/06/2024	30.70 °C	63.0%	1.6 mm	24.1 kph	8.0
+Binh Duong	18/06/2024	29.40 °C	73.0%	2.8 mm	19.1 kph	7.0
+Ho Chi Minh City	19/06/2024	30.50 °C	64.0%	0.7 mm	19.8 kph	7.0
+Binh Phuoc	19/06/2024	30.00 °C	66.0%	1.6 mm	21.6 kph	7.0
+Dong Nai	19/06/2024	32.50 °C	57.0%	0.0 mm	21.2 kph	9.0
+Ba Ria Vung Tau	19/06/2024	29.80 °C	72.0%	9.9 mm	25.6 kph	7.0
+Tien Giang	19/06/2024	30.40 °C	75.0%	1.8 mm	14.0 kph	8.0
+Tay Ninh	19/06/2024	30.90 °C	62.0%	0.7 mm	23.0 kph	7.0
+Binh Duong	19/06/2024	29.60 °C	70.0%	1.9 mm	16.9 kph	7.0
+Ho Chi Minh City	20/06/2024	28.30 °C	76.0%	17.5 mm	16.2 kph	7.0
+Binh Phuoc	20/06/2024	28.80 °C	72.0%	6.0 mm	18.7 kph	7.0
+Dong Nai	20/06/2024	33.00 °C	55.0%	0.0 mm	11.5 kph	9.0
+Ba Ria Vung Tau	20/06/2024	28.70 °C	76.0%	13.8 mm	27.0 kph	7.0
+Tien Giang	20/06/2024	32.30 °C	67.0%	0.1 mm	20.5 kph	8.0
+Tay Ninh	20/06/2024	30.10 °C	63.0%	3.1 mm	20.9 kph	8.0
+Binh Duong	20/06/2024	29.90 °C	68.0%	0.5 mm	16.2 kph	7.0
+Ho Chi Minh City	21/06/2024	25.40 °C	91.0%	44.0 mm	12.2 kph	6.0
+Binh Phuoc	21/06/2024	25.50 °C	91.0%	31.9 mm	14.0 kph	6.0
+Dong Nai	21/06/2024	32.30 °C	61.0%	0.0 mm	14.8 kph	8.0
+Ba Ria Vung Tau	21/06/2024	26.40 °C	87.0%	27.0 mm	28.8 kph	6.0
+Tien Giang	21/06/2024	31.50 °C	72.0%	13.5 mm	20.5 kph	8.0
+Tay Ninh	21/06/2024	27.10 °C	80.0%	8.0 mm	18.0 kph	6.0
+Binh Duong	21/06/2024	29.10 °C	76.0%	2.7 mm	18.7 kph	7.0
+Ho Chi Minh City	22/06/2024	26.70 °C	84.0%	23.7 mm	20.9 kph	7.0
+Binh Phuoc	22/06/2024	26.30 °C	86.0%	14.7 mm	22.7 kph	6.0
+Dong Nai	22/06/2024	31.10 °C	68.0%	1.1 mm	16.9 kph	8.0
+Ba Ria Vung Tau	22/06/2024	27.00 °C	86.0%	25.8 mm	37.1 kph	6.0
+Tien Giang	22/06/2024	31.00 °C	72.0%	1.0 mm	19.8 kph	7.0
+Tay Ninh	22/06/2024	27.60 °C	77.0%	11.5 mm	25.9 kph	7.0
+Binh Duong	22/06/2024	28.20 °C	79.0%	6.1 mm	13.7 kph	7.0
+Ho Chi Minh City	23/06/2024	24.70 °C	90.0%	8.2 mm	23.4 kph	6.0
+Binh Phuoc	23/06/2024	24.60 °C	91.0%	14.9 mm	22.3 kph	6.0
+Dong Nai	23/06/2024	28.80 °C	80.0%	11.6 mm	8.6 kph	7.0
+Ba Ria Vung Tau	23/06/2024	25.90 °C	88.0%	21.1 mm	39.2 kph	6.0
+Tien Giang	23/06/2024	30.50 °C	73.0%	3.2 mm	16.9 kph	7.0
+Tay Ninh	23/06/2024	25.10 °C	89.0%	11.5 mm	28.1 kph	6.0
+Binh Duong	23/06/2024	27.30 °C	84.0%	10.0 mm	12.2 kph	7.0
+Ho Chi Minh City	24/06/2024	25.50 °C	87.0%	14.0 mm	15.5 kph	6.0
+Binh Phuoc	24/06/2024	25.60 °C	88.0%	13.0 mm	15.1 kph	6.0
+Dong Nai	24/06/2024	27.60 °C	81.0%	2.7 mm	9.4 kph	7.0
+Ba Ria Vung Tau	24/06/2024	27.00 °C	82.0%	21.9 mm	24.5 kph	6.0
+Tien Giang	24/06/2024	28.80 °C	78.0%	11.1 mm	15.5 kph	7.0
+Tay Ninh	24/06/2024	25.50 °C	85.0%	4.3 mm	21.2 kph	6.0
+Binh Duong	24/06/2024	27.10 °C	79.0%	2.8 mm	11.2 kph	7.0
+Ho Chi Minh City	25/06/2024	24.60 °C	93.0%	14.2 mm	9.4 kph	6.0
+Binh Phuoc	25/06/2024	24.40 °C	94.0%	15.3 mm	9.0 kph	6.0
+Dong Nai	25/06/2024	28.50 °C	74.0%	2.8 mm	13.0 kph	7.0
+Ba Ria Vung Tau	25/06/2024	25.80 °C	86.0%	6.8 mm	16.9 kph	6.0
+Tien Giang	25/06/2024	28.80 °C	79.0%	22.8 mm	15.1 kph	7.0
+Tay Ninh	25/06/2024	25.60 °C	87.0%	13.6 mm	16.6 kph	6.0
+Binh Duong	25/06/2024	27.80 °C	76.0%	15.1 mm	17.6 kph	7.0
+Ho Chi Minh City	26/06/2024	26.80 °C	82.0%	16.7 mm	9.7 kph	7.0
+Binh Phuoc	26/06/2024	26.80 °C	82.0%	16.9 mm	11.9 kph	7.0
+Dong Nai	26/06/2024	28.20 °C	77.0%	9.0 mm	15.1 kph	7.0
+Ba Ria Vung Tau	26/06/2024	27.00 °C	80.0%	17.0 mm	14.4 kph	6.0
+Tien Giang	26/06/2024	27.90 °C	82.0%	24.7 mm	16.9 kph	7.0
+Tay Ninh	26/06/2024	27.40 °C	77.0%	8.7 mm	16.9 kph	7.0
+Binh Duong	26/06/2024	27.40 °C	81.0%	7.9 mm	15.5 kph	7.0
+Ho Chi Minh City	27/06/2024	27.30 °C	82.0%	17.5 mm	12.2 kph	6.0
+Binh Phuoc	27/06/2024	27.20 °C	83.0%	10.9 mm	9.4 kph	7.0
+Dong Nai	27/06/2024	28.10 °C	82.0%	6.0 mm	11.5 kph	7.0
+Ba Ria Vung Tau	27/06/2024	27.50 °C	81.0%	17.1 mm	20.5 kph	6.0
+Tien Giang	27/06/2024	28.50 °C	79.0%	7.0 mm	18.7 kph	7.0
+Tay Ninh	27/06/2024	27.70 °C	77.0%	1.5 mm	17.6 kph	7.0
+Binh Duong	27/06/2024	27.70 °C	83.0%	2.8 mm	18.4 kph	7.0
+Ho Chi Minh City	28/06/2024	28.20 °C	78.0%	10.8 mm	13.3 kph	7.0
+Binh Phuoc	28/06/2024	28.10 °C	79.0%	6.9 mm	13.3 kph	7.0
+Dong Nai	28/06/2024	29.80 °C	73.0%	0.1 mm	12.2 kph	8.0
+Ba Ria Vung Tau	28/06/2024	28.20 °C	79.0%	8.3 mm	15.5 kph	6.0
+Tien Giang	28/06/2024	29.50 °C	78.0%	8.4 mm	20.5 kph	7.0
+Tay Ninh	28/06/2024	28.50 °C	76.0%	16.0 mm	12.6 kph	7.0
+Binh Duong	28/06/2024	28.10 °C	81.0%	2.3 mm	20.2 kph	7.0
+Ho Chi Minh City	29/06/2024	29.00 °C	73.0%	1.8 mm	18.4 kph	7.0
+Binh Phuoc	29/06/2024	28.60 °C	76.0%	3.7 mm	16.9 kph	7.0
+Dong Nai	29/06/2024	31.80 °C	61.0%	0.1 mm	19.8 kph	9.0
+Ba Ria Vung Tau	29/06/2024	28.50 °C	78.0%	3.3 mm	19.1 kph	6.0
+Tien Giang	29/06/2024	31.50 °C	72.0%	0.6 mm	20.2 kph	8.0
+Tay Ninh	29/06/2024	28.60 °C	76.0%	6.0 mm	17.3 kph	7.0
+Binh Duong	29/06/2024	29.00 °C	75.0%	0.0 mm	19.8 kph	7.0
+Ho Chi Minh City	30/06/2024	28.40 °C	76.0%	7.4 mm	12.2 kph	7.0
+Binh Phuoc	30/06/2024	27.90 °C	80.0%	11.4 mm	12.2 kph	7.0
+Dong Nai	30/06/2024	32.20 °C	59.0%	0.0 mm	19.8 kph	8.0
+Ba Ria Vung Tau	30/06/2024	28.50 °C	78.0%	16.4 mm	20.5 kph	6.0
+Tien Giang	30/06/2024	32.40 °C	65.0%	0.0 mm	10.4 kph	8.0
+Tay Ninh	30/06/2024	29.00 °C	73.0%	3.1 mm	20.5 kph	7.0
+Binh Duong	30/06/2024	30.20 °C	68.0%	0.1 mm	17.6 kph	9.0
+Ho Chi Minh City	01/07/2024	29.40 °C	70.0%	0.1 mm	15.8 kph	7.0
+Binh Phuoc	01/07/2024	28.70 °C	74.0%	0.1 mm	15.8 kph	7.0
+Dong Nai	01/07/2024	32.00 °C	58.0%	0.0 mm	18.0 kph	9.0
+Ba Ria Vung Tau	01/07/2024	29.20 °C	75.0%	1.9 mm	20.2 kph	7.0
+Tien Giang	01/07/2024	31.10 °C	65.0%	0.0 mm	15.5 kph	7.0
+Tay Ninh	01/07/2024	30.40 °C	65.0%	0.1 mm	17.6 kph	7.0
+Binh Duong	01/07/2024	29.60 °C	69.0%	0.2 mm	17.6 kph	8.0
+Ho Chi Minh City	02/07/2024	29.40 °C	71.0%	27.2 mm	13.7 kph	8.0
+Binh Phuoc	02/07/2024	29.00 °C	74.0%	59.6 mm	11.5 kph	8.0
+Dong Nai	02/07/2024	31.10 °C	58.0%	0.0 mm	16.9 kph	9.0
+Ba Ria Vung Tau	02/07/2024	28.60 °C	78.0%	17.4 mm	23.8 kph	7.0
+Tien Giang	02/07/2024	29.90 °C	70.0%	4.4 mm	9.0 kph	7.0
+Tay Ninh	02/07/2024	30.40 °C	65.0%	13.6 mm	20.5 kph	8.0
+Binh Duong	02/07/2024	28.90 °C	71.0%	2.8 mm	21.2 kph	7.0
+Ho Chi Minh City	03/07/2024	25.60 °C	83.0%	2.3 mm	13.3 kph	6.0
+Binh Phuoc	03/07/2024	24.70 °C	90.0%	15.7 mm	12.2 kph	6.0
+Dong Nai	03/07/2024	29.90 °C	66.0%	0.3 mm	17.6 kph	7.0
+Ba Ria Vung Tau	03/07/2024	26.20 °C	85.0%	10.7 mm	24.1 kph	6.0
+Tien Giang	03/07/2024	28.70 °C	80.0%	11.8 mm	12.2 kph	7.0
+Tay Ninh	03/07/2024	25.30 °C	86.0%	56.4 mm	22.0 kph	6.0
+Binh Duong	03/07/2024	28.00 °C	79.0%	0.6 mm	23.0 kph	7.0
+Ho Chi Minh City	04/07/2024	28.30 °C	75.0%	7.1 mm	14.8 kph	7.0
+Binh Phuoc	04/07/2024	27.70 °C	78.0%	6.5 mm	13.7 kph	7.0
+Dong Nai	04/07/2024	28.90 °C	76.0%	4.6 mm	14.8 kph	7.0
+Ba Ria Vung Tau	04/07/2024	28.00 °C	76.0%	18.3 mm	19.8 kph	6.0
+Tien Giang	04/07/2024	29.30 °C	76.0%	9.6 mm	19.4 kph	7.0
+Tay Ninh	04/07/2024	28.40 °C	75.0%	21.5 mm	16.2 kph	7.0
+Binh Duong	04/07/2024	27.00 °C	83.0%	26.1 mm	19.4 kph	7.0
+Ho Chi Minh City	05/07/2024	29.20 °C	70.0%	0.6 mm	16.2 kph	7.0
+Binh Phuoc	05/07/2024	28.90 °C	71.0%	0.1 mm	16.6 kph	7.0
+Dong Nai	05/07/2024	29.30 °C	73.0%	0.7 mm	17.3 kph	7.0
+Ba Ria Vung Tau	05/07/2024	28.50 °C	76.0%	12.4 mm	21.2 kph	7.0
+Tien Giang	05/07/2024	29.80 °C	75.0%	2.8 mm	17.3 kph	7.0
+Tay Ninh	05/07/2024	29.40 °C	69.0%	3.2 mm	20.5 kph	7.0
+Binh Duong	05/07/2024	27.60 °C	76.0%	2.2 mm	18.0 kph	7.0
+Ho Chi Minh City	06/07/2024	29.70 °C	68.0%	2.5 mm	13.0 kph	7.0
+Binh Phuoc	06/07/2024	29.40 °C	70.0%	0.7 mm	12.6 kph	8.0
+Dong Nai	06/07/2024	29.70 °C	71.0%	0.5 mm	19.1 kph	8.0
+Ba Ria Vung Tau	06/07/2024	28.70 °C	76.0%	5.7 mm	22.7 kph	7.0
+Tien Giang	06/07/2024	29.90 °C	75.0%	3.4 mm	19.1 kph	7.0
+Tay Ninh	06/07/2024	29.70 °C	68.0%	0.8 mm	17.6 kph	8.0
+Binh Duong	06/07/2024	28.00 °C	79.0%	4.6 mm	18.4 kph	7.0
+Ho Chi Minh City	07/07/2024	28.50 °C	77.0%	16.2 mm	15.8 kph	7.0
+Binh Phuoc	07/07/2024	28.10 °C	80.0%	10.8 mm	14.4 kph	7.0
+Dong Nai	07/07/2024	30.00 °C	70.0%	0.7 mm	20.2 kph	8.0
+Ba Ria Vung Tau	07/07/2024	28.30 °C	77.0%	16.7 mm	18.7 kph	6.0
+Tien Giang	07/07/2024	30.00 °C	74.0%	0.8 mm	22.0 kph	7.0
+Tay Ninh	07/07/2024	29.90 °C	68.0%	3.4 mm	16.9 kph	7.0
+Binh Duong	07/07/2024	27.30 °C	83.0%	6.2 mm	22.3 kph	7.0
+Ho Chi Minh City	08/07/2024	28.40 °C	74.0%	1.8 mm	14.8 kph	7.0
+Binh Phuoc	08/07/2024	27.80 °C	78.0%	2.0 mm	15.1 kph	7.0
+Dong Nai	08/07/2024	29.90 °C	71.0%	0.1 mm	16.9 kph	8.0
+Ba Ria Vung Tau	08/07/2024	28.20 °C	77.0%	11.3 mm	24.5 kph	6.0
+Tien Giang	08/07/2024	30.30 °C	74.0%	3.1 mm	20.2 kph	7.0
+Tay Ninh	08/07/2024	29.00 °C	71.0%	0.2 mm	22.3 kph	7.0
+Binh Duong	08/07/2024	27.30 °C	82.0%	19.4 mm	20.5 kph	7.0
+Ho Chi Minh City	09/07/2024	28.60 °C	74.0%	4.9 mm	11.5 kph	7.0
+Binh Phuoc	09/07/2024	28.20 °C	77.0%	2.6 mm	10.8 kph	7.0
+Dong Nai	09/07/2024	30.80 °C	65.0%	0.5 mm	12.2 kph	8.0
+Ba Ria Vung Tau	09/07/2024	28.40 °C	78.0%	17.0 mm	18.7 kph	6.0
+Tien Giang	09/07/2024	30.80 °C	73.0%	5.8 mm	18.4 kph	8.0
+Tay Ninh	09/07/2024	28.60 °C	76.0%	4.2 mm	15.5 kph	7.0
+Binh Duong	09/07/2024	28.10 °C	76.0%	0.7 mm	14.0 kph	7.0
+Ho Chi Minh City	10/07/2024	25.60 °C	90.0%	25.5 mm	14.8 kph	6.0
+Binh Phuoc	10/07/2024	25.60 °C	90.0%	23.8 mm	17.6 kph	6.0
+Dong Nai	10/07/2024	30.90 °C	64.0%	0.4 mm	16.6 kph	8.0
+Ba Ria Vung Tau	10/07/2024	27.20 °C	83.0%	40.8 mm	31.3 kph	6.0
+Tien Giang	10/07/2024	30.90 °C	74.0%	10.5 mm	19.4 kph	8.0
+Tay Ninh	10/07/2024	27.60 °C	79.0%	14.2 mm	22.3 kph	7.0
+Binh Duong	10/07/2024	28.10 °C	75.0%	4.2 mm	18.4 kph	7.0
+Ho Chi Minh City	11/07/2024	26.90 °C	80.0%	13.2 mm	28.1 kph	7.0
+Binh Phuoc	11/07/2024	26.70 °C	81.0%	8.5 mm	28.8 kph	7.0
+Dong Nai	11/07/2024	31.40 °C	61.0%	0.9 mm	15.1 kph	8.0
+Ba Ria Vung Tau	11/07/2024	27.20 °C	83.0%	39.1 mm	35.6 kph	6.0
+Tien Giang	11/07/2024	31.00 °C	73.0%	5.6 mm	21.2 kph	8.0
+Tay Ninh	11/07/2024	27.10 °C	79.0%	6.2 mm	45.4 kph	7.0
+Binh Duong	11/07/2024	28.30 °C	74.0%	1.0 mm	19.1 kph	7.0
+Ho Chi Minh City	12/07/2024	24.80 °C	90.0%	7.9 mm	23.0 kph	6.0
+Binh Phuoc	12/07/2024	24.50 °C	91.0%	8.3 mm	20.9 kph	6.0
+Dong Nai	12/07/2024	30.90 °C	65.0%	1.2 mm	16.6 kph	8.0
+Ba Ria Vung Tau	12/07/2024	25.80 °C	87.0%	8.2 mm	34.2 kph	6.0
+Tien Giang	12/07/2024	31.20 °C	70.0%	3.8 mm	18.4 kph	8.0
+Tay Ninh	12/07/2024	25.00 °C	88.0%	8.3 mm	25.6 kph	6.0
+Binh Duong	12/07/2024	28.00 °C	78.0%	9.8 mm	23.4 kph	7.0
+Ho Chi Minh City	13/07/2024	26.30 °C	84.0%	9.3 mm	25.9 kph	6.0
+Binh Phuoc	13/07/2024	25.60 °C	87.0%	7.0 mm	26.6 kph	6.0
+Dong Nai	13/07/2024	30.50 °C	67.0%	1.8 mm	20.2 kph	8.0
+Ba Ria Vung Tau	13/07/2024	26.80 °C	83.0%	15.3 mm	37.8 kph	6.0
+Tien Giang	13/07/2024	30.90 °C	73.0%	2.4 mm	19.4 kph	8.0
+Tay Ninh	13/07/2024	27.10 °C	77.0%	0.8 mm	29.5 kph	6.0
+Binh Duong	13/07/2024	27.80 °C	77.0%	3.2 mm	17.6 kph	7.0
+Ho Chi Minh City	14/07/2024	24.90 °C	89.0%	10.3 mm	22.3 kph	6.0
+Binh Phuoc	14/07/2024	24.60 °C	91.0%	13.6 mm	21.2 kph	6.0
+Dong Nai	14/07/2024	27.60 °C	81.0%	3.5 mm	18.7 kph	7.0
+Ba Ria Vung Tau	14/07/2024	26.10 °C	86.0%	15.6 mm	36.7 kph	6.0
+Tien Giang	14/07/2024	30.10 °C	71.0%	4.6 mm	15.5 kph	7.0
+Tay Ninh	14/07/2024	25.50 °C	84.0%	3.2 mm	27.4 kph	6.0
+Binh Duong	14/07/2024	25.30 °C	90.0%	60.6 mm	16.6 kph	6.0
+Ho Chi Minh City	15/07/2024	25.80 °C	87.0%	7.3 mm	20.9 kph	6.0
+Binh Phuoc	15/07/2024	25.60 °C	87.0%	9.4 mm	22.0 kph	6.0
+Dong Nai	15/07/2024	27.20 °C	87.0%	33.1 mm	21.2 kph	6.0
+Ba Ria Vung Tau	15/07/2024	26.90 °C	83.0%	12.9 mm	32.8 kph	6.0
+Tien Giang	15/07/2024	29.50 °C	74.0%	24.5 mm	11.2 kph	7.0
+Tay Ninh	15/07/2024	26.40 °C	81.0%	1.9 mm	24.1 kph	6.0
+Binh Duong	15/07/2024	24.60 °C	92.0%	106.1 mm	15.8 kph	6.0
+Ho Chi Minh City	16/07/2024	26.00 °C	86.0%	7.0 mm	23.0 kph	6.0
+Binh Phuoc	16/07/2024	25.60 °C	89.0%	6.2 mm	19.1 kph	6.0
+Dong Nai	16/07/2024	27.30 °C	85.0%	30.2 mm	9.4 kph	7.0
+Ba Ria Vung Tau	16/07/2024	26.70 °C	84.0%	13.7 mm	29.5 kph	6.0
+Tien Giang	16/07/2024	28.90 °C	78.0%	28.1 mm	11.2 kph	7.0
+Tay Ninh	16/07/2024	26.50 °C	80.0%	0.7 mm	25.2 kph	6.0
+Binh Duong	16/07/2024	26.60 °C	83.0%	9.4 mm	15.8 kph	7.0
+Ho Chi Minh City	17/07/2024	25.20 °C	91.0%	11.2 mm	15.5 kph	6.0
+Binh Phuoc	17/07/2024	25.10 °C	92.0%	14.5 mm	18.0 kph	6.0
+Dong Nai	17/07/2024	26.90 °C	88.0%	13.9 mm	10.1 kph	6.0
+Ba Ria Vung Tau	17/07/2024	26.50 °C	85.0%	16.6 mm	29.9 kph	6.0
+Tien Giang	17/07/2024	28.70 °C	80.0%	29.2 mm	13.7 kph	7.0
+Tay Ninh	17/07/2024	25.60 °C	87.0%	7.0 mm	16.6 kph	6.0
+Binh Duong	17/07/2024	26.70 °C	85.0%	7.8 mm	14.0 kph	6.0
+Ho Chi Minh City	18/07/2024	25.40 °C	89.0%	5.3 mm	20.5 kph	6.0
+Binh Phuoc	18/07/2024	25.30 °C	90.0%	8.0 mm	20.5 kph	6.0
+Dong Nai	18/07/2024	27.40 °C	86.0%	20.2 mm	6.8 kph	7.0
+Ba Ria Vung Tau	18/07/2024	26.40 °C	85.0%	21.9 mm	27.7 kph	6.0
+Tien Giang	18/07/2024	27.70 °C	85.0%	33.1 mm	11.2 kph	7.0
+Tay Ninh	18/07/2024	25.50 °C	88.0%	3.4 mm	27.0 kph	6.0
+Binh Duong	18/07/2024	26.80 °C	84.0%	7.8 mm	13.7 kph	7.0
+Ho Chi Minh City	19/07/2024	26.10 °C	87.0%	14.0 mm	18.0 kph	6.0
+Binh Phuoc	19/07/2024	26.00 °C	88.0%	15.3 mm	18.7 kph	6.0
+Dong Nai	19/07/2024	27.80 °C	81.0%	4.3 mm	13.3 kph	7.0
+Ba Ria Vung Tau	19/07/2024	27.00 °C	84.0%	25.9 mm	27.7 kph	6.0
+Tien Giang	19/07/2024	28.60 °C	81.0%	11.9 mm	20.5 kph	7.0
+Tay Ninh	19/07/2024	26.50 °C	82.0%	7.8 mm	25.2 kph	6.0
+Binh Duong	19/07/2024	26.90 °C	82.0%	8.5 mm	12.6 kph	7.0
+Ho Chi Minh City	20/07/2024	24.40 °C	93.0%	4.8 mm	11.2 kph	6.0
+Binh Phuoc	20/07/2024	24.60 °C	92.0%	1.6 mm	13.0 kph	6.0
+Dong Nai	20/07/2024	28.30 °C	80.0%	7.1 mm	11.2 kph	7.0
+Ba Ria Vung Tau	20/07/2024	25.90 °C	86.0%	1.6 mm	24.8 kph	6.0
+Tien Giang	20/07/2024	28.40 °C	84.0%	20.1 mm	16.9 kph	7.0
+Tay Ninh	20/07/2024	25.30 °C	87.0%	8.7 mm	20.2 kph	6.0
+Binh Duong	20/07/2024	27.30 °C	82.0%	3.7 mm	11.5 kph	6.0
+Ho Chi Minh City	21/07/2024	25.20 °C	89.0%	0.5 mm	20.9 kph	6.0
+Binh Phuoc	21/07/2024	25.10 °C	90.0%	3.2 mm	17.3 kph	6.0
+Dong Nai	21/07/2024	27.80 °C	84.0%	16.4 mm	13.7 kph	7.0
+Ba Ria Vung Tau	21/07/2024	26.10 °C	86.0%	4.8 mm	26.3 kph	6.0
+Tien Giang	21/07/2024	29.20 °C	79.0%	14.0 mm	14.4 kph	7.0
+Tay Ninh	21/07/2024	25.40 °C	85.0%	0.0 mm	22.0 kph	6.0
+Binh Duong	21/07/2024	27.30 °C	81.0%	7.3 mm	11.9 kph	7.0
+Ho Chi Minh City	22/07/2024	27.40 °C	79.0%	2.9 mm	26.6 kph	7.0
+Binh Phuoc	22/07/2024	27.00 °C	82.0%	0.8 mm	26.6 kph	7.0
+Dong Nai	22/07/2024	28.40 °C	81.0%	2.8 mm	9.4 kph	7.0
+Ba Ria Vung Tau	22/07/2024	27.60 °C	81.0%	9.4 mm	30.2 kph	7.0
+Tien Giang	22/07/2024	29.50 °C	77.0%	0.1 mm	10.4 kph	7.0
+Tay Ninh	22/07/2024	27.40 °C	78.0%	0.2 mm	27.7 kph	7.0
+Binh Duong	22/07/2024	27.70 °C	78.0%	1.2 mm	11.9 kph	7.0
+Ho Chi Minh City	23/07/2024	27.40 °C	79.0%	0.5 mm	23.8 kph	7.0
+Binh Phuoc	23/07/2024	27.30 °C	80.0%	0.0 mm	24.1 kph	7.0
+Dong Nai	23/07/2024	27.70 °C	78.0%	2.9 mm	20.2 kph	6.0
+Ba Ria Vung Tau	23/07/2024	27.90 °C	80.0%	2.0 mm	31.0 kph	7.0
+Tien Giang	23/07/2024	27.40 °C	87.0%	21.7 mm	17.3 kph	6.0
+Tay Ninh	23/07/2024	27.20 °C	78.0%	0.0 mm	24.8 kph	6.0
+Binh Duong	23/07/2024	28.00 °C	75.0%	0.0 mm	15.5 kph	7.0
+Ho Chi Minh City	24/07/2024	28.50 °C	74.0%	0.9 mm	25.2 kph	7.0
+Binh Phuoc	24/07/2024	28.30 °C	76.0%	0.3 mm	25.2 kph	7.0
+Dong Nai	24/07/2024	28.60 °C	74.0%	0.3 mm	27.0 kph	7.0
+Ba Ria Vung Tau	24/07/2024	28.30 °C	79.0%	2.4 mm	25.9 kph	7.0
+Tien Giang	24/07/2024	25.70 °C	94.0%	25.0 mm	9.7 kph	6.0
+Tay Ninh	24/07/2024	28.00 °C	74.0%	0.1 mm	25.9 kph	7.0
+Binh Duong	24/07/2024	28.30 °C	73.0%	1.4 mm	17.6 kph	7.0
+Ho Chi Minh City	25/07/2024	26.80 °C	81.0%	3.1 mm	23.0 kph	6.0
+Binh Phuoc	25/07/2024	27.10 °C	79.0%	1.3 mm	24.5 kph	7.0
+Dong Nai	25/07/2024	25.90 °C	88.0%	21.4 mm	16.6 kph	6.0
+Ba Ria Vung Tau	25/07/2024	27.80 °C	79.0%	3.8 mm	30.6 kph	6.0
+Tien Giang	25/07/2024	28.90 °C	81.0%	9.8 mm	11.2 kph	7.0
+Tay Ninh	25/07/2024	26.80 °C	79.0%	0.1 mm	24.5 kph	6.0
+Binh Duong	25/07/2024	28.90 °C	67.0%	0.0 mm	19.8 kph	7.0
+Ho Chi Minh City	26/07/2024	26.60 °C	78.0%	0.4 mm	20.2 kph	6.0
+Binh Phuoc	26/07/2024	26.30 °C	80.0%	0.1 mm	20.5 kph	6.0
+Dong Nai	26/07/2024	28.90 °C	72.0%	1.0 mm	21.6 kph	7.0
+Ba Ria Vung Tau	26/07/2024	27.40 °C	79.0%	4.9 mm	28.4 kph	6.0
+Tien Giang	26/07/2024	31.50 °C	70.0%	0.0 mm	14.8 kph	9.0
+Tay Ninh	26/07/2024	26.30 °C	79.0%	0.0 mm	20.5 kph	6.0
+Binh Duong	26/07/2024	28.80 °C	68.0%	0.0 mm	19.1 kph	7.0
+Ho Chi Minh City	27/07/2024	26.10 °C	85.0%	2.8 mm	19.8 kph	6.0
+Binh Phuoc	27/07/2024	25.50 °C	89.0%	2.2 mm	15.8 kph	6.0
+Dong Nai	27/07/2024	29.40 °C	69.0%	0.0 mm	18.7 kph	8.0
+Ba Ria Vung Tau	27/07/2024	26.70 °C	84.0%	7.7 mm	28.1 kph	6.0
+Tien Giang	27/07/2024	32.60 °C	69.0%	0.5 mm	14.0 kph	9.0
+Tay Ninh	27/07/2024	25.80 °C	84.0%	0.7 mm	22.3 kph	6.0
+Binh Duong	27/07/2024	28.60 °C	70.0%	0.0 mm	19.8 kph	7.0
+Ho Chi Minh City	28/07/2024	27.30 °C	82.0%	19.7 mm	18.4 kph	7.0
+Binh Phuoc	28/07/2024	26.90 °C	84.0%	13.3 mm	20.2 kph	7.0
+Dong Nai	28/07/2024	30.00 °C	69.0%	2.4 mm	12.2 kph	7.0
+Ba Ria Vung Tau	28/07/2024	27.40 °C	83.0%	24.6 mm	21.6 kph	6.0
+Tien Giang	28/07/2024	29.90 °C	80.0%	12.5 mm	14.4 kph	7.0
+Tay Ninh	28/07/2024	28.20 °C	73.0%	1.5 mm	25.6 kph	7.0
+Binh Duong	28/07/2024	29.00 °C	70.0%	0.0 mm	17.3 kph	8.0
+Ho Chi Minh City	29/07/2024	26.80 °C	85.0%	17.3 mm	14.0 kph	6.0
+Binh Phuoc	29/07/2024	26.80 °C	85.0%	6.8 mm	15.5 kph	6.0
+Dong Nai	29/07/2024	26.20 °C	87.0%	5.7 mm	12.2 kph	6.0
+Ba Ria Vung Tau	29/07/2024	27.60 °C	81.0%	21.1 mm	17.6 kph	6.0
+Tien Giang	29/07/2024	25.80 °C	92.0%	12.3 mm	13.0 kph	6.0
+Tay Ninh	29/07/2024	28.10 °C	76.0%	7.5 mm	21.2 kph	7.0
+Binh Duong	29/07/2024	27.70 °C	76.0%	0.7 mm	15.8 kph	7.0
+Ho Chi Minh City	30/07/2024	27.30 °C	83.0%	12.8 mm	14.0 kph	7.0
+Binh Phuoc	30/07/2024	27.00 °C	85.0%	8.0 mm	14.0 kph	7.0
+Dong Nai	30/07/2024	26.70 °C	80.0%	0.5 mm	18.0 kph	6.0
+Ba Ria Vung Tau	30/07/2024	27.50 °C	82.0%	14.5 mm	15.8 kph	6.0
+Tien Giang	30/07/2024	26.70 °C	88.0%	10.1 mm	7.9 kph	7.0
+Tay Ninh	30/07/2024	27.30 °C	81.0%	3.8 mm	17.3 kph	7.0
+Binh Duong	30/07/2024	27.30 °C	77.0%	0.6 mm	13.0 kph	7.0
+Ho Chi Minh City	31/07/2024	27.50 °C	81.0%	7.5 mm	16.9 kph	7.0
+Binh Phuoc	31/07/2024	27.40 °C	82.0%	4.4 mm	17.3 kph	7.0
+Dong Nai	31/07/2024	27.10 °C	77.0%	0.4 mm	17.3 kph	6.0
+Ba Ria Vung Tau	31/07/2024	27.50 °C	82.0%	8.0 mm	18.7 kph	6.0
+Tien Giang	31/07/2024	25.90 °C	90.0%	0.9 mm	10.1 kph	6.0
+Tay Ninh	31/07/2024	28.20 °C	76.0%	5.7 mm	20.9 kph	7.0
+Binh Duong	31/07/2024	27.60 °C	79.0%	1.1 mm	15.1 kph	7.0
+Ho Chi Minh City	01/08/2024	27.70 °C	80.0%	4.2 mm	11.9 kph	7.0
+Binh Phuoc	01/08/2024	27.40 °C	82.0%	6.0 mm	12.2 kph	7.0
+Dong Nai	01/08/2024	27.30 °C	72.0%	0.0 mm	18.4 kph	6.0
+Ba Ria Vung Tau	01/08/2024	27.80 °C	82.0%	5.8 mm	19.4 kph	6.0
+Tien Giang	01/08/2024	26.10 °C	87.0%	0.5 mm	7.9 kph	6.0
+Tay Ninh	01/08/2024	28.50 °C	75.0%	3.9 mm	15.1 kph	7.0
+Binh Duong	01/08/2024	28.10 °C	74.0%	0.2 mm	13.3 kph	7.0
+Ho Chi Minh City	02/08/2024	27.90 °C	79.0%	4.5 mm	10.4 kph	7.0
+Binh Phuoc	02/08/2024	27.50 °C	81.0%	5.7 mm	10.4 kph	7.0
+Dong Nai	02/08/2024	28.50 °C	68.0%	0.0 mm	19.8 kph	8.0
+Ba Ria Vung Tau	02/08/2024	27.80 °C	81.0%	8.2 mm	19.8 kph	6.0
+Tien Giang	02/08/2024	27.40 °C	78.0%	0.1 mm	13.7 kph	7.0
+Tay Ninh	02/08/2024	28.80 °C	74.0%	4.1 mm	12.2 kph	7.0
+Binh Duong	02/08/2024	27.80 °C	78.0%	15.4 mm	20.5 kph	7.0
+Ho Chi Minh City	03/08/2024	28.10 °C	79.0%	13.1 mm	13.3 kph	7.0
+Binh Phuoc	03/08/2024	27.80 °C	81.0%	15.3 mm	14.0 kph	7.0
+Dong Nai	03/08/2024	27.10 °C	74.0%	0.1 mm	15.1 kph	6.0
+Ba Ria Vung Tau	03/08/2024	28.30 °C	79.0%	16.3 mm	21.6 kph	6.0
+Tien Giang	03/08/2024	26.20 °C	82.0%	0.1 mm	10.1 kph	6.0
+Tay Ninh	03/08/2024	29.30 °C	72.0%	5.3 mm	17.3 kph	7.0
+Binh Duong	03/08/2024	27.40 °C	79.0%	11.1 mm	16.2 kph	7.0
+Ho Chi Minh City	04/08/2024	27.40 °C	77.0%	3.9 mm	15.8 kph	7.0
+Binh Phuoc	04/08/2024	27.20 °C	79.0%	3.5 mm	14.0 kph	7.0
+Dong Nai	04/08/2024	28.60 °C	69.0%	0.0 mm	10.4 kph	8.0
+Ba Ria Vung Tau	04/08/2024	28.00 °C	78.0%	5.5 mm	21.6 kph	7.0
+Tien Giang	04/08/2024	28.90 °C	76.0%	2.6 mm	17.6 kph	7.0
+Tay Ninh	04/08/2024	26.60 °C	79.0%	36.1 mm	18.7 kph	7.0
+Binh Duong	04/08/2024	27.70 °C	79.0%	3.1 mm	14.4 kph	7.0
+Ho Chi Minh City	05/08/2024	25.90 °C	88.0%	13.0 mm	10.8 kph	6.0
+Binh Phuoc	05/08/2024	25.90 °C	89.0%	7.6 mm	11.2 kph	6.0
+Dong Nai	05/08/2024	29.10 °C	72.0%	0.0 mm	14.8 kph	7.0
+Ba Ria Vung Tau	05/08/2024	27.20 °C	82.0%	9.9 mm	21.2 kph	6.0
+Tien Giang	05/08/2024	29.40 °C	76.0%	1.5 mm	15.5 kph	7.0
+Tay Ninh	05/08/2024	26.60 °C	85.0%	13.8 mm	14.8 kph	6.0
+Binh Duong	05/08/2024	27.60 °C	74.0%	1.2 mm	15.5 kph	7.0
+Ho Chi Minh City	06/08/2024	27.80 °C	80.0%	8.5 mm	10.8 kph	7.0
+Binh Phuoc	06/08/2024	27.60 °C	82.0%	13.9 mm	11.5 kph	7.0
+Dong Nai	06/08/2024	29.30 °C	72.0%	0.3 mm	12.2 kph	7.0
+Ba Ria Vung Tau	06/08/2024	27.60 °C	81.0%	11.7 mm	18.0 kph	6.0
+Tien Giang	06/08/2024	29.30 °C	78.0%	7.9 mm	14.8 kph	7.0
+Tay Ninh	06/08/2024	28.40 °C	76.0%	9.7 mm	19.4 kph	7.0
+Binh Duong	06/08/2024	27.90 °C	75.0%	1.4 mm	18.0 kph	7.0
+Ho Chi Minh City	07/08/2024	28.50 °C	75.0%	3.1 mm	15.1 kph	7.0
+Binh Phuoc	07/08/2024	27.50 °C	83.0%	10.9 mm	14.0 kph	7.0
+Dong Nai	07/08/2024	30.30 °C	69.0%	0.0 mm	15.1 kph	8.0
+Ba Ria Vung Tau	07/08/2024	28.10 °C	80.0%	7.9 mm	23.4 kph	6.0
+Tien Giang	07/08/2024	30.00 °C	77.0%	5.4 mm	16.9 kph	8.0
+Tay Ninh	07/08/2024	29.10 °C	72.0%	0.6 mm	21.2 kph	7.0
+Binh Duong	07/08/2024	28.10 °C	75.0%	0.5 mm	16.9 kph	7.0
+Ho Chi Minh City	08/08/2024	28.20 °C	77.0%	1.4 mm	18.0 kph	7.0
+Binh Phuoc	08/08/2024	27.50 °C	82.0%	3.0 mm	15.1 kph	7.0
+Dong Nai	08/08/2024	31.40 °C	64.0%	0.6 mm	14.8 kph	8.0
+Ba Ria Vung Tau	08/08/2024	28.00 °C	81.0%	16.2 mm	20.9 kph	6.0
+Tien Giang	08/08/2024	30.60 °C	76.0%	8.1 mm	18.4 kph	8.0
+Tay Ninh	08/08/2024	28.90 °C	73.0%	0.7 mm	22.0 kph	7.0
+Binh Duong	08/08/2024	28.50 °C	77.0%	1.1 mm	18.0 kph	7.0
+Ho Chi Minh City	09/08/2024	28.70 °C	75.0%	0.7 mm	16.6 kph	7.0
+Binh Phuoc	09/08/2024	28.00 °C	80.0%	1.3 mm	15.8 kph	7.0
+Dong Nai	09/08/2024	32.60 °C	58.0%	0.0 mm	20.5 kph	9.0
+Ba Ria Vung Tau	09/08/2024	28.30 °C	80.0%	12.2 mm	23.4 kph	7.0
+Tien Giang	09/08/2024	32.10 °C	70.0%	0.7 mm	16.9 kph	8.0
+Tay Ninh	09/08/2024	29.50 °C	71.0%	0.1 mm	23.0 kph	7.0
+Binh Duong	09/08/2024	29.60 °C	73.0%	2.3 mm	20.2 kph	7.0
+Ho Chi Minh City	10/08/2024	29.10 °C	72.0%	0.5 mm	16.9 kph	7.0
+Binh Phuoc	10/08/2024	28.60 °C	76.0%	0.0 mm	16.9 kph	7.0
+Dong Nai	10/08/2024	32.80 °C	57.0%	0.0 mm	18.4 kph	9.0
+Ba Ria Vung Tau	10/08/2024	28.40 °C	81.0%	4.0 mm	24.1 kph	7.0
+Tien Giang	10/08/2024	32.00 °C	70.0%	1.3 mm	15.1 kph	8.0
+Tay Ninh	10/08/2024	29.90 °C	69.0%	0.1 mm	24.5 kph	8.0
+Binh Duong	10/08/2024	30.10 °C	69.0%	0.2 mm	19.8 kph	8.0
+Ho Chi Minh City	11/08/2024	29.20 °C	72.0%	0.6 mm	16.6 kph	7.0
+Binh Phuoc	11/08/2024	28.70 °C	75.0%	1.3 mm	16.6 kph	7.0
+Dong Nai	11/08/2024	32.20 °C	61.0%	0.3 mm	13.7 kph	8.0
+Ba Ria Vung Tau	11/08/2024	28.70 °C	80.0%	1.4 mm	20.5 kph	7.0
+Tien Giang	11/08/2024	30.80 °C	74.0%	23.9 mm	19.8 kph	8.0
+Tay Ninh	11/08/2024	30.10 °C	69.0%	0.1 mm	23.8 kph	8.0
+Binh Duong	11/08/2024	28.90 °C	75.0%	18.2 mm	19.8 kph	7.0
+Ho Chi Minh City	12/08/2024	28.90 °C	75.0%	6.3 mm	19.1 kph	7.0
+Binh Phuoc	12/08/2024	28.30 °C	78.0%	4.6 mm	18.4 kph	7.0
+Dong Nai	12/08/2024	28.90 °C	79.0%	9.9 mm	6.8 kph	7.0
+Ba Ria Vung Tau	12/08/2024	28.60 °C	80.0%	13.0 mm	25.6 kph	7.0
+Tien Giang	12/08/2024	27.00 °C	88.0%	12.7 mm	11.2 kph	7.0
+Tay Ninh	12/08/2024	29.60 °C	71.0%	6.0 mm	26.3 kph	7.0
+Binh Duong	12/08/2024	28.70 °C	77.0%	3.1 mm	16.2 kph	7.0
+Ho Chi Minh City	13/08/2024	28.80 °C	75.0%	6.7 mm	18.0 kph	7.0
+Binh Phuoc	13/08/2024	28.30 °C	79.0%	4.5 mm	16.6 kph	7.0
+Dong Nai	13/08/2024	29.10 °C	74.0%	0.2 mm	7.2 kph	7.0
+Ba Ria Vung Tau	13/08/2024	28.60 °C	79.0%	4.7 mm	20.5 kph	7.0
+Tien Giang	13/08/2024	28.40 °C	80.0%	12.8 mm	13.0 kph	7.0
+Tay Ninh	13/08/2024	29.40 °C	72.0%	3.9 mm	22.7 kph	7.0
+Binh Duong	13/08/2024	28.80 °C	75.0%	1.9 mm	18.7 kph	7.0
+Ho Chi Minh City	14/08/2024	29.10 °C	74.0%	0.6 mm	10.4 kph	7.0
+Binh Phuoc	14/08/2024	28.60 °C	77.0%	2.0 mm	10.1 kph	7.0
+Dong Nai	14/08/2024	29.30 °C	75.0%	2.7 mm	16.6 kph	7.0
+Ba Ria Vung Tau	14/08/2024	28.40 °C	80.0%	10.1 mm	23.8 kph	7.0
+Tien Giang	14/08/2024	27.80 °C	80.0%	3.5 mm	16.6 kph	7.0
+Tay Ninh	14/08/2024	30.00 °C	70.0%	0.8 mm	19.1 kph	7.0
+Binh Duong	14/08/2024	28.80 °C	74.0%	2.0 mm	18.0 kph	7.0
+Ho Chi Minh City	15/08/2024	29.60 °C	71.0%	0.7 mm	13.3 kph	7.0
+Binh Phuoc	15/08/2024	29.00 °C	75.0%	2.4 mm	13.0 kph	7.0
+Dong Nai	15/08/2024	29.40 °C	75.0%	1.9 mm	15.1 kph	7.0
+Ba Ria Vung Tau	15/08/2024	28.70 °C	79.0%	6.9 mm	20.2 kph	7.0
+Tien Giang	15/08/2024	28.10 °C	76.0%	0.6 mm	14.4 kph	7.0
+Tay Ninh	15/08/2024	30.20 °C	67.0%	0.3 mm	20.5 kph	7.0
+Binh Duong	15/08/2024	29.30 °C	75.0%	2.9 mm	17.6 kph	7.0
+Ho Chi Minh City	16/08/2024	28.80 °C	76.0%	2.8 mm	11.5 kph	7.0
+Binh Phuoc	16/08/2024	28.30 °C	79.0%	2.5 mm	10.8 kph	7.0
+Dong Nai	16/08/2024	28.60 °C	79.0%	2.9 mm	14.4 kph	7.0
+Ba Ria Vung Tau	16/08/2024	28.50 °C	79.0%	12.9 mm	19.4 kph	6.0
+Tien Giang	16/08/2024	30.40 °C	71.0%	1.9 mm	7.9 kph	8.0
+Tay Ninh	16/08/2024	29.80 °C	70.0%	0.6 mm	18.7 kph	7.0
+Binh Duong	16/08/2024	28.10 °C	79.0%	13.0 mm	19.1 kph	7.0
+Ho Chi Minh City	17/08/2024	28.80 °C	75.0%	1.2 mm	11.2 kph	7.0
+Binh Phuoc	17/08/2024	28.30 °C	78.0%	1.2 mm	10.4 kph	7.0
+Dong Nai	17/08/2024	27.90 °C	77.0%	0.3 mm	15.1 kph	7.0
+Ba Ria Vung Tau	17/08/2024	29.00 °C	76.0%	3.8 mm	18.7 kph	7.0
+Tien Giang	17/08/2024	29.30 °C	77.0%	5.4 mm	11.2 kph	7.0
+Tay Ninh	17/08/2024	29.90 °C	69.0%	0.9 mm	16.2 kph	7.0
+Binh Duong	17/08/2024	28.10 °C	80.0%	28.0 mm	20.9 kph	7.0
+Ho Chi Minh City	18/08/2024	29.40 °C	72.0%	1.0 mm	13.0 kph	7.0
+Binh Phuoc	18/08/2024	28.80 °C	75.0%	1.0 mm	13.0 kph	7.0
+Dong Nai	18/08/2024	30.50 °C	67.0%	0.0 mm	13.7 kph	8.0
+Ba Ria Vung Tau	18/08/2024	28.90 °C	76.0%	1.7 mm	18.4 kph	7.0
+Tien Giang	18/08/2024	30.80 °C	73.0%	3.6 mm	13.3 kph	8.0
+Tay Ninh	18/08/2024	30.10 °C	67.0%	0.1 mm	15.8 kph	8.0
+Binh Duong	18/08/2024	28.50 °C	77.0%	0.3 mm	19.8 kph	7.0
+Ho Chi Minh City	19/08/2024	29.30 °C	73.0%	0.8 mm	12.2 kph	7.0
+Binh Phuoc	19/08/2024	28.70 °C	77.0%	0.6 mm	11.9 kph	7.0
+Dong Nai	19/08/2024	30.80 °C	65.0%	0.0 mm	16.9 kph	9.0
+Ba Ria Vung Tau	19/08/2024	28.80 °C	78.0%	3.6 mm	20.5 kph	7.0
+Tien Giang	19/08/2024	30.10 °C	78.0%	8.8 mm	11.5 kph	7.0
+Tay Ninh	19/08/2024	30.30 °C	67.0%	0.3 mm	18.7 kph	7.0
+Binh Duong	19/08/2024	29.40 °C	74.0%	1.8 mm	19.1 kph	7.0
+Ho Chi Minh City	20/08/2024	29.30 °C	72.0%	0.9 mm	10.8 kph	7.0
+Binh Phuoc	20/08/2024	28.60 °C	76.0%	1.0 mm	9.7 kph	7.0
+Dong Nai	20/08/2024	30.20 °C	66.0%	0.0 mm	13.0 kph	8.0
+Ba Ria Vung Tau	20/08/2024	28.70 °C	78.0%	4.9 mm	16.9 kph	6.0
+Tien Giang	20/08/2024	28.90 °C	83.0%	1.9 mm	9.4 kph	7.0
+Tay Ninh	20/08/2024	30.40 °C	65.0%	0.4 mm	16.9 kph	7.0
+Binh Duong	20/08/2024	27.90 °C	79.0%	6.9 mm	17.3 kph	7.0
+Ho Chi Minh City	21/08/2024	28.80 °C	75.0%	1.7 mm	11.2 kph	7.0
+Binh Phuoc	21/08/2024	28.40 °C	77.0%	1.6 mm	10.1 kph	7.0
+Dong Nai	21/08/2024	31.40 °C	60.0%	0.1 mm	15.5 kph	8.0
+Ba Ria Vung Tau	21/08/2024	28.60 °C	77.0%	4.1 mm	18.4 kph	6.0
+Tien Giang	21/08/2024	28.00 °C	85.0%	10.5 mm	10.4 kph	6.0
+Tay Ninh	21/08/2024	29.90 °C	68.0%	0.3 mm	20.9 kph	7.0
+Binh Duong	21/08/2024	28.90 °C	73.0%	0.3 mm	15.8 kph	7.0
+Ho Chi Minh City	22/08/2024	29.00 °C	74.0%	1.4 mm	16.9 kph	7.0
+Binh Phuoc	22/08/2024	28.50 °C	78.0%	2.4 mm	14.4 kph	7.0
+Dong Nai	22/08/2024	31.10 °C	63.0%	0.6 mm	13.0 kph	8.0
+Ba Ria Vung Tau	22/08/2024	29.00 °C	76.0%	0.4 mm	20.5 kph	6.0
+Tien Giang	22/08/2024	26.30 °C	93.0%	22.3 mm	10.4 kph	6.0
+Tay Ninh	22/08/2024	29.60 °C	70.0%	0.2 mm	18.4 kph	7.0
+Binh Duong	22/08/2024	28.40 °C	73.0%	8.6 mm	22.0 kph	7.0
+Ho Chi Minh City	23/08/2024	29.50 °C	70.0%	3.4 mm	15.8 kph	8.0
+Binh Phuoc	23/08/2024	29.10 °C	72.0%	0.7 mm	16.2 kph	8.0
+Dong Nai	23/08/2024	29.80 °C	68.0%	0.9 mm	6.8 kph	7.0
+Ba Ria Vung Tau	23/08/2024	28.70 °C	76.0%	6.5 mm	26.3 kph	7.0
+Tien Giang	23/08/2024	26.00 °C	91.0%	4.7 mm	6.5 kph	6.0
+Tay Ninh	23/08/2024	30.20 °C	66.0%	1.6 mm	22.0 kph	8.0
+Binh Duong	23/08/2024	27.60 °C	78.0%	9.8 mm	18.4 kph	7.0
+Ho Chi Minh City	24/08/2024	29.20 °C	71.0%	4.4 mm	13.0 kph	8.0
+Binh Phuoc	24/08/2024	28.70 °C	75.0%	2.8 mm	13.3 kph	8.0
+Dong Nai	24/08/2024	29.70 °C	71.0%	0.2 mm	13.0 kph	7.0
+Ba Ria Vung Tau	24/08/2024	28.40 °C	77.0%	6.1 mm	25.6 kph	7.0
+Tien Giang	24/08/2024	28.60 °C	80.0%	16.1 mm	18.4 kph	7.0
+Tay Ninh	24/08/2024	30.20 °C	65.0%	0.7 mm	20.5 kph	8.0
+Binh Duong	24/08/2024	27.70 °C	76.0%	3.9 mm	17.6 kph	7.0
+Ho Chi Minh City	25/08/2024	28.60 °C	75.0%	2.1 mm	12.2 kph	7.0
+Binh Phuoc	25/08/2024	28.00 °C	79.0%	4.5 mm	11.5 kph	7.0
+Dong Nai	25/08/2024	28.00 °C	76.0%	2.1 mm	10.8 kph	8.0
+Ba Ria Vung Tau	25/08/2024	28.50 °C	76.0%	6.2 mm	18.7 kph	7.0
+Tien Giang	25/08/2024	27.00 °C	78.0%	2.7 mm	15.5 kph	7.0
+Tay Ninh	25/08/2024	29.50 °C	70.0%	3.3 mm	18.4 kph	7.0
+Binh Duong	25/08/2024	28.00 °C	78.0%	5.0 mm	18.4 kph	7.0
+Ho Chi Minh City	26/08/2024	27.30 °C	81.0%	15.3 mm	19.1 kph	7.0
+Binh Phuoc	26/08/2024	26.60 °C	85.0%	9.5 mm	18.0 kph	7.0
+Dong Nai	26/08/2024	28.80 °C	74.0%	0.1 mm	13.0 kph	8.0
+Ba Ria Vung Tau	26/08/2024	27.40 °C	81.0%	14.6 mm	31.7 kph	6.0
+Tien Giang	26/08/2024	28.80 °C	81.0%	6.4 mm	11.5 kph	7.0
+Tay Ninh	26/08/2024	28.00 °C	78.0%	16.4 mm	24.8 kph	7.0
+Binh Duong	26/08/2024	28.10 °C	75.0%	0.4 mm	18.7 kph	7.0
+Ho Chi Minh City	27/08/2024	26.50 °C	83.0%	9.1 mm	10.1 kph	7.0
+Binh Phuoc	27/08/2024	26.20 °C	85.0%	7.2 mm	11.2 kph	7.0
+Dong Nai	27/08/2024	29.70 °C	72.0%	0.6 mm	13.0 kph	7.0
+Ba Ria Vung Tau	27/08/2024	26.80 °C	83.0%	11.7 mm	23.4 kph	6.0
+Tien Giang	27/08/2024	29.50 °C	77.0%	5.2 mm	13.0 kph	7.0
+Tay Ninh	27/08/2024	26.30 °C	84.0%	8.7 mm	17.6 kph	6.0
+Binh Duong	27/08/2024	28.20 °C	75.0%	1.6 mm	19.8 kph	7.0
+Ho Chi Minh City	28/08/2024	27.00 °C	81.0%	10.3 mm	23.4 kph	7.0
+Binh Phuoc	28/08/2024	26.50 °C	84.0%	8.1 mm	22.0 kph	6.0
+Dong Nai	28/08/2024	30.30 °C	67.0%	0.0 mm	19.1 kph	8.0
+Ba Ria Vung Tau	28/08/2024	27.40 °C	80.0%	15.7 mm	34.2 kph	6.0
+Tien Giang	28/08/2024	30.40 °C	73.0%	1.1 mm	10.8 kph	8.0
+Tay Ninh	28/08/2024	28.20 °C	77.0%	18.5 mm	27.4 kph	7.0
+Binh Duong	28/08/2024	28.50 °C	73.0%	1.5 mm	19.8 kph	7.0
+Ho Chi Minh City	29/08/2024	25.30 °C	89.0%	15.9 mm	16.2 kph	6.0
+Binh Phuoc	29/08/2024	25.00 °C	91.0%	17.3 mm	18.7 kph	6.0
+Dong Nai	29/08/2024	30.40 °C	66.0%	0.0 mm	15.8 kph	8.0
+Ba Ria Vung Tau	29/08/2024	26.30 °C	85.0%	21.5 mm	28.4 kph	6.0
+Tien Giang	29/08/2024	30.80 °C	73.0%	2.6 mm	11.5 kph	8.0
+Tay Ninh	29/08/2024	26.40 °C	81.0%	3.8 mm	26.6 kph	6.0
+Binh Duong	29/08/2024	28.50 °C	73.0%	2.2 mm	19.4 kph	7.0
+Ho Chi Minh City	30/08/2024	25.90 °C	82.0%	1.5 mm	18.0 kph	6.0
+Binh Phuoc	30/08/2024	25.60 °C	83.0%	2.9 mm	21.6 kph	6.0
+Dong Nai	30/08/2024	30.90 °C	65.0%	0.1 mm	16.2 kph	8.0
+Ba Ria Vung Tau	30/08/2024	27.20 °C	77.0%	3.3 mm	36.4 kph	6.0
+Tien Giang	30/08/2024	30.90 °C	73.0%	4.7 mm	14.8 kph	8.0
+Tay Ninh	30/08/2024	26.30 °C	79.0%	0.3 mm	22.7 kph	6.0
+Binh Duong	30/08/2024	28.40 °C	75.0%	4.3 mm	17.6 kph	7.0
+Ho Chi Minh City	31/08/2024	27.00 °C	77.0%	6.1 mm	14.8 kph	7.0
+Binh Phuoc	31/08/2024	26.70 °C	77.0%	1.7 mm	19.4 kph	7.0
+Dong Nai	31/08/2024	29.60 °C	71.0%	4.9 mm	19.1 kph	8.0
+Ba Ria Vung Tau	31/08/2024	27.60 °C	76.0%	2.3 mm	27.0 kph	6.0
+Tien Giang	31/08/2024	29.40 °C	78.0%	1.5 mm	13.7 kph	7.0
+Tay Ninh	31/08/2024	28.10 °C	68.0%	1.6 mm	18.0 kph	7.0
+Binh Duong	31/08/2024	28.20 °C	72.0%	0.1 mm	19.1 kph	7.0
+Ho Chi Minh City	01/09/2024	25.40 °C	90.0%	23.4 mm	8.6 kph	6.0
+Binh Phuoc	01/09/2024	25.20 °C	91.0%	21.6 mm	11.5 kph	6.0
+Dong Nai	01/09/2024	28.80 °C	76.0%	6.5 mm	13.0 kph	7.0
+Ba Ria Vung Tau	01/09/2024	25.90 °C	88.0%	38.0 mm	18.0 kph	6.0
+Tien Giang	01/09/2024	29.60 °C	76.0%	2.8 mm	11.2 kph	7.0
+Tay Ninh	01/09/2024	26.10 °C	85.0%	18.3 mm	9.7 kph	6.0
+Binh Duong	01/09/2024	28.20 °C	76.0%	0.8 mm	19.1 kph	7.0
+Ho Chi Minh City	02/09/2024	25.00 °C	92.0%	9.4 mm	15.1 kph	6.0
+Binh Phuoc	02/09/2024	24.50 °C	95.0%	13.8 mm	15.1 kph	6.0
+Dong Nai	02/09/2024	28.60 °C	80.0%	4.0 mm	15.8 kph	7.0
+Ba Ria Vung Tau	02/09/2024	26.30 °C	86.0%	11.1 mm	23.0 kph	6.0
+Tien Giang	02/09/2024	29.70 °C	77.0%	1.5 mm	9.4 kph	7.0
+Tay Ninh	02/09/2024	26.90 °C	83.0%	13.2 mm	21.2 kph	7.0
+Binh Duong	02/09/2024	28.30 °C	77.0%	0.5 mm	19.1 kph	7.0
+Ho Chi Minh City	03/09/2024	25.10 °C	91.0%	12.8 mm	23.0 kph	6.0
+Binh Phuoc	03/09/2024	24.70 °C	93.0%	14.5 mm	21.6 kph	6.0
+Dong Nai	03/09/2024	28.60 °C	77.0%	1.7 mm	13.7 kph	7.0
+Ba Ria Vung Tau	03/09/2024	26.70 °C	84.0%	14.6 mm	30.6 kph	6.0
+Tien Giang	03/09/2024	29.80 °C	75.0%	2.6 mm	8.6 kph	8.0
+Tay Ninh	03/09/2024	26.10 °C	87.0%	17.4 mm	27.7 kph	6.0
+Binh Duong	03/09/2024	27.70 °C	80.0%	10.6 mm	21.6 kph	7.0
+Ho Chi Minh City	04/09/2024	27.10 °C	82.0%	7.2 mm	23.0 kph	7.0
+Binh Phuoc	04/09/2024	27.30 °C	82.0%	5.2 mm	23.0 kph	7.0
+Dong Nai	04/09/2024	29.50 °C	72.0%	0.7 mm	16.6 kph	7.0
+Ba Ria Vung Tau	04/09/2024	27.80 °C	81.0%	7.7 mm	28.4 kph	6.0
+Tien Giang	04/09/2024	30.60 °C	68.0%	0.0 mm	10.4 kph	9.0
+Tay Ninh	04/09/2024	27.20 °C	80.0%	0.1 mm	20.5 kph	6.0
+Binh Duong	04/09/2024	27.20 °C	82.0%	27.6 mm	22.0 kph	7.0
+Ho Chi Minh City	05/09/2024	26.70 °C	86.0%	13.4 mm	24.8 kph	7.0
+Binh Phuoc	05/09/2024	26.70 °C	87.0%	9.7 mm	25.9 kph	6.0
+Dong Nai	05/09/2024	29.70 °C	69.0%	2.3 mm	18.4 kph	8.0
+Ba Ria Vung Tau	05/09/2024	27.50 °C	84.0%	8.7 mm	31.7 kph	6.0
+Tien Giang	05/09/2024	31.00 °C	69.0%	1.6 mm	13.7 kph	8.0
+Tay Ninh	05/09/2024	27.60 °C	79.0%	1.7 mm	31.0 kph	7.0
+Binh Duong	05/09/2024	28.40 °C	76.0%	1.9 mm	19.1 kph	7.0
+Ho Chi Minh City	06/09/2024	26.90 °C	84.0%	7.7 mm	22.7 kph	6.0
+Binh Phuoc	06/09/2024	26.40 °C	87.0%	15.9 mm	20.9 kph	6.0
+Dong Nai	06/09/2024	30.30 °C	67.0%	5.3 mm	17.3 kph	8.0
+Ba Ria Vung Tau	06/09/2024	27.40 °C	83.0%	13.7 mm	35.6 kph	6.0
+Tien Giang	06/09/2024	31.20 °C	67.0%	2.2 mm	18.4 kph	8.0
+Tay Ninh	06/09/2024	28.70 °C	69.0%	1.3 mm	31.7 kph	7.0
+Binh Duong	06/09/2024	29.40 °C	69.0%	0.2 mm	14.0 kph	7.0
+Ho Chi Minh City	07/09/2024	27.50 °C	82.0%	10.6 mm	23.8 kph	7.0
+Binh Phuoc	07/09/2024	27.70 °C	81.0%	4.6 mm	25.9 kph	7.0
+Dong Nai	07/09/2024	27.40 °C	83.0%	7.8 mm	20.9 kph	6.0
+Ba Ria Vung Tau	07/09/2024	28.20 °C	80.0%	8.7 mm	33.5 kph	7.0
+Tien Giang	07/09/2024	25.40 °C	89.0%	65.9 mm	37.8 kph	6.0
+Tay Ninh	07/09/2024	28.50 °C	71.0%	0.0 mm	28.4 kph	7.0
+Binh Duong	07/09/2024	29.80 °C	66.0%	0.0 mm	23.8 kph	8.0
+Ho Chi Minh City	08/09/2024	27.70 °C	78.0%	1.1 mm	20.9 kph	7.0
+Binh Phuoc	08/09/2024	27.80 °C	77.0%	0.6 mm	22.0 kph	7.0
+Dong Nai	08/09/2024	29.10 °C	72.0%	0.1 mm	21.2 kph	7.0
+Ba Ria Vung Tau	08/09/2024	28.10 °C	79.0%	3.2 mm	27.4 kph	6.0
+Tien Giang	08/09/2024	25.70 °C	93.0%	30.0 mm	37.8 kph	6.0
+Tay Ninh	08/09/2024	29.30 °C	66.0%	0.1 mm	26.6 kph	7.0
+Binh Duong	08/09/2024	29.60 °C	68.0%	0.0 mm	17.6 kph	8.0
+Ho Chi Minh City	09/09/2024	28.30 °C	75.0%	0.4 mm	18.4 kph	7.0
+Binh Phuoc	09/09/2024	28.00 °C	77.0%	0.5 mm	19.8 kph	7.0
+Dong Nai	09/09/2024	28.50 °C	75.0%	1.3 mm	14.8 kph	7.0
+Ba Ria Vung Tau	09/09/2024	28.20 °C	78.0%	0.1 mm	25.2 kph	7.0
+Tien Giang	09/09/2024	25.70 °C	95.0%	16.9 mm	7.6 kph	6.0
+Tay Ninh	09/09/2024	29.50 °C	66.0%	2.1 mm	23.0 kph	7.0
+Binh Duong	09/09/2024	28.80 °C	73.0%	2.8 mm	17.6 kph	7.0
+Ho Chi Minh City	10/09/2024	28.10 °C	79.0%	1.9 mm	13.3 kph	7.0
+Binh Phuoc	10/09/2024	28.00 °C	80.0%	0.8 mm	15.1 kph	7.0
+Dong Nai	10/09/2024	26.50 °C	88.0%	18.1 mm	10.8 kph	6.0
+Ba Ria Vung Tau	10/09/2024	28.30 °C	81.0%	1.4 mm	24.5 kph	7.0
+Tien Giang	10/09/2024	24.90 °C	95.0%	10.4 mm	10.8 kph	6.0
+Tay Ninh	10/09/2024	29.00 °C	72.0%	4.7 mm	15.1 kph	7.0
+Binh Duong	10/09/2024	26.60 °C	86.0%	12.4 mm	10.4 kph	6.0
+Ho Chi Minh City	11/09/2024	25.40 °C	91.0%	27.9 mm	15.5 kph	6.0
+Binh Phuoc	11/09/2024	25.70 °C	90.0%	10.8 mm	16.9 kph	6.0
+Dong Nai	11/09/2024	27.50 °C	84.0%	10.4 mm	13.0 kph	7.0
+Ba Ria Vung Tau	11/09/2024	26.90 °C	84.0%	21.3 mm	27.4 kph	6.0
+Tien Giang	11/09/2024	24.30 °C	95.0%	38.0 mm	19.4 kph	6.0
+Tay Ninh	11/09/2024	26.40 °C	84.0%	7.3 mm	14.8 kph	6.0
+Binh Duong	11/09/2024	26.30 °C	86.0%	8.2 mm	10.8 kph	6.0
+Ho Chi Minh City	12/09/2024	26.70 °C	87.0%	15.0 mm	14.0 kph	7.0
+Binh Phuoc	12/09/2024	26.30 °C	90.0%	14.7 mm	13.3 kph	6.0
+Dong Nai	12/09/2024	25.80 °C	89.0%	5.6 mm	6.5 kph	6.0
+Ba Ria Vung Tau	12/09/2024	27.00 °C	86.0%	21.3 mm	24.5 kph	6.0
+Tien Giang	12/09/2024	24.60 °C	92.0%	37.5 mm	14.8 kph	6.0
+Tay Ninh	12/09/2024	27.30 °C	83.0%	8.6 mm	12.6 kph	6.0
+Binh Duong	12/09/2024	27.30 °C	82.0%	6.4 mm	13.0 kph	7.0
+Ho Chi Minh City	13/09/2024	25.70 °C	91.0%	18.8 mm	15.1 kph	6.0
+Binh Phuoc	13/09/2024	25.60 °C	92.0%	21.4 mm	17.3 kph	6.0
+Dong Nai	13/09/2024	26.80 °C	83.0%	5.8 mm	11.2 kph	7.0
+Ba Ria Vung Tau	13/09/2024	26.50 °C	87.0%	30.8 mm	25.2 kph	6.0
+Tien Giang	13/09/2024	27.40 °C	82.0%	7.5 mm	11.2 kph	7.0
+Tay Ninh	13/09/2024	27.50 °C	81.0%	15.2 mm	20.2 kph	6.0
+Binh Duong	13/09/2024	27.20 °C	83.0%	19.1 mm	13.0 kph	7.0
+Ho Chi Minh City	14/09/2024	26.00 °C	88.0%	6.7 mm	18.4 kph	6.0
+Binh Phuoc	14/09/2024	25.90 °C	89.0%	7.4 mm	19.8 kph	6.0
+Dong Nai	14/09/2024	27.30 °C	79.0%	2.9 mm	11.5 kph	7.0
+Ba Ria Vung Tau	14/09/2024	26.60 °C	87.0%	14.2 mm	29.9 kph	6.0
+Tien Giang	14/09/2024	28.70 °C	78.0%	1.8 mm	11.5 kph	7.0
+Tay Ninh	14/09/2024	26.80 °C	81.0%	2.9 mm	27.4 kph	6.0
+Binh Duong	14/09/2024	26.70 °C	84.0%	14.1 mm	9.4 kph	6.0
+Ho Chi Minh City	15/09/2024	26.80 °C	85.0%	12.1 mm	19.4 kph	7.0
+Binh Phuoc	15/09/2024	26.60 °C	87.0%	17.0 mm	18.7 kph	7.0
+Dong Nai	15/09/2024	28.20 °C	75.0%	0.1 mm	13.7 kph	8.0
+Ba Ria Vung Tau	15/09/2024	27.00 °C	86.0%	22.9 mm	28.8 kph	6.0
+Tien Giang	15/09/2024	28.60 °C	81.0%	9.8 mm	10.1 kph	7.0
+Tay Ninh	15/09/2024	28.40 °C	73.0%	2.2 mm	22.7 kph	7.0
+Binh Duong	15/09/2024	27.20 °C	81.0%	12.4 mm	13.7 kph	7.0
+Ho Chi Minh City	16/09/2024	27.10 °C	82.0%	9.3 mm	15.8 kph	7.0
+Binh Phuoc	16/09/2024	27.00 °C	83.0%	15.2 mm	20.9 kph	7.0
+Dong Nai	16/09/2024	27.80 °C	78.0%	1.7 mm	14.0 kph	7.0
+Ba Ria Vung Tau	16/09/2024	27.40 °C	83.0%	18.9 mm	27.0 kph	6.0
+Tien Giang	16/09/2024	28.50 °C	78.0%	14.2 mm	11.2 kph	7.0
+Tay Ninh	16/09/2024	28.80 °C	70.0%	3.0 mm	19.4 kph	7.0
+Binh Duong	16/09/2024	27.20 °C	82.0%	8.6 mm	18.0 kph	7.0
+Ho Chi Minh City	17/09/2024	25.90 °C	88.0%	38.2 mm	19.4 kph	6.0
+Binh Phuoc	17/09/2024	25.50 °C	90.0%	37.1 mm	19.4 kph	6.0
+Dong Nai	17/09/2024	27.40 °C	79.0%	7.6 mm	16.2 kph	7.0
+Ba Ria Vung Tau	17/09/2024	26.50 °C	86.0%	24.7 mm	27.7 kph	6.0
+Tien Giang	17/09/2024	27.80 °C	82.0%	26.5 mm	15.1 kph	7.0
+Tay Ninh	17/09/2024	26.10 °C	85.0%	15.2 mm	17.3 kph	6.0
+Binh Duong	17/09/2024	26.90 °C	81.0%	8.6 mm	19.4 kph	6.0
+Ho Chi Minh City	18/09/2024	25.50 °C	90.0%	13.7 mm	16.9 kph	6.0
+Binh Phuoc	18/09/2024	25.50 °C	90.0%	10.8 mm	21.2 kph	6.0
+Dong Nai	18/09/2024	26.00 °C	89.0%	24.0 mm	17.3 kph	6.0
+Ba Ria Vung Tau	18/09/2024	26.40 °C	86.0%	11.8 mm	27.4 kph	6.0
+Tien Giang	18/09/2024	25.60 °C	92.0%	24.9 mm	16.2 kph	6.0
+Tay Ninh	18/09/2024	26.10 °C	84.0%	5.6 mm	19.4 kph	6.0
+Binh Duong	18/09/2024	25.40 °C	87.0%	13.3 mm	12.6 kph	6.0
+Ho Chi Minh City	19/09/2024	26.00 °C	88.0%	8.7 mm	22.7 kph	6.0
+Binh Phuoc	19/09/2024	25.90 °C	89.0%	9.4 mm	24.8 kph	6.0
+Dong Nai	19/09/2024	24.70 °C	92.0%	82.3 mm	34.9 kph	6.0
+Ba Ria Vung Tau	19/09/2024	26.80 °C	85.0%	11.5 mm	35.6 kph	6.0
+Tien Giang	19/09/2024	27.10 °C	82.0%	8.9 mm	19.4 kph	7.0
+Tay Ninh	19/09/2024	26.10 °C	84.0%	1.7 mm	25.9 kph	6.0
+Binh Duong	19/09/2024	24.10 °C	92.0%	245.9 mm	26.6 kph	6.0
+Ho Chi Minh City	20/09/2024	26.60 °C	86.0%	8.7 mm	22.7 kph	6.0
+Binh Phuoc	20/09/2024	26.50 °C	86.0%	6.5 mm	23.8 kph	6.0
+Dong Nai	20/09/2024	25.40 °C	93.0%	128.8 mm	26.3 kph	6.0
+Ba Ria Vung Tau	20/09/2024	27.30 °C	83.0%	9.5 mm	30.2 kph	6.0
+Tien Giang	20/09/2024	26.00 °C	89.0%	17.1 mm	11.9 kph	6.0
+Tay Ninh	20/09/2024	27.50 °C	79.0%	12.2 mm	25.6 kph	7.0
+Binh Duong	20/09/2024	26.90 °C	79.0%	2.4 mm	11.9 kph	6.0
+Ho Chi Minh City	21/09/2024	26.70 °C	84.0%	6.5 mm	24.1 kph	6.0
+Binh Phuoc	21/09/2024	26.70 °C	85.0%	4.4 mm	23.8 kph	7.0
+Dong Nai	21/09/2024	26.70 °C	87.0%	16.3 mm	10.4 kph	6.0
+Ba Ria Vung Tau	21/09/2024	27.20 °C	83.0%	12.5 mm	25.2 kph	6.0
+Tien Giang	21/09/2024	27.80 °C	84.0%	19.4 mm	15.8 kph	7.0
+Tay Ninh	21/09/2024	27.40 °C	80.0%	3.6 mm	27.7 kph	7.0
+Binh Duong	21/09/2024	27.20 °C	84.0%	12.6 mm	13.0 kph	7.0
+Ho Chi Minh City	22/09/2024	25.10 °C	91.0%	3.2 mm	11.2 kph	6.0
+Binh Phuoc	22/09/2024	25.00 °C	91.0%	5.2 mm	12.2 kph	6.0
+Dong Nai	22/09/2024	24.30 °C	96.0%	213.9 mm	23.0 kph	5.0
+Ba Ria Vung Tau	22/09/2024	26.40 °C	83.0%	7.7 mm	27.0 kph	6.0
+Tien Giang	22/09/2024	25.10 °C	89.0%	24.7 mm	22.7 kph	6.0
+Tay Ninh	22/09/2024	26.40 °C	85.0%	1.9 mm	18.4 kph	6.0
+Binh Duong	22/09/2024	24.80 °C	94.0%	23.5 mm	14.8 kph	6.0
+Ho Chi Minh City	23/09/2024	26.20 °C	84.0%	5.6 mm	9.7 kph	6.0
+Binh Phuoc	23/09/2024	26.20 °C	85.0%	6.0 mm	10.8 kph	6.0
+Dong Nai	23/09/2024	22.00 °C	94.0%	76.4 mm	21.6 kph	5.0
+Ba Ria Vung Tau	23/09/2024	26.90 °C	81.0%	4.1 mm	13.7 kph	6.0
+Tien Giang	23/09/2024	25.20 °C	73.0%	0.0 mm	13.7 kph	6.0
+Tay Ninh	23/09/2024	27.30 °C	77.0%	3.0 mm	18.0 kph	7.0
+Binh Duong	23/09/2024	24.20 °C	93.0%	22.6 mm	14.4 kph	5.0
+Ho Chi Minh City	24/09/2024	27.20 °C	79.0%	0.0 mm	7.2 kph	8.0
+Binh Phuoc	24/09/2024	26.60 °C	82.0%	0.0 mm	8.3 kph	7.0
+Dong Nai	24/09/2024	22.20 °C	87.0%	0.9 mm	11.2 kph	5.0
+Ba Ria Vung Tau	24/09/2024	27.60 °C	79.0%	0.0 mm	12.2 kph	7.0
+Tien Giang	24/09/2024	23.40 °C	82.0%	1.1 mm	13.3 kph	6.0
+Tay Ninh	24/09/2024	27.90 °C	74.0%	2.4 mm	8.6 kph	7.0
+Binh Duong	24/09/2024	25.80 °C	86.0%	2.1 mm	14.8 kph	6.0
+Ho Chi Minh City	25/09/2024	27.30 °C	82.0%	12.9 mm	10.1 kph	7.0
+Binh Phuoc	25/09/2024	27.10 °C	84.0%	15.2 mm	9.4 kph	7.0
+Dong Nai	25/09/2024	23.90 °C	85.0%	0.2 mm	4.7 kph	6.0
+Ba Ria Vung Tau	25/09/2024	27.50 °C	78.0%	4.3 mm	14.0 kph	6.0
+Tien Giang	25/09/2024	24.50 °C	85.0%	0.1 mm	7.6 kph	6.0
+Tay Ninh	25/09/2024	28.20 °C	76.0%	34.6 mm	8.3 kph	7.0
+Binh Duong	25/09/2024	25.90 °C	84.0%	6.1 mm	10.1 kph	6.0
+Ho Chi Minh City	26/09/2024	27.50 °C	79.0%	0.9 mm	15.1 kph	7.0
+Binh Phuoc	26/09/2024	27.30 °C	79.0%	0.1 mm	15.5 kph	7.0
+Dong Nai	26/09/2024	25.50 °C	83.0%	2.0 mm	12.2 kph	6.0
+Ba Ria Vung Tau	26/09/2024	27.50 °C	78.0%	1.7 mm	16.2 kph	6.0
+Tien Giang	26/09/2024	26.80 °C	75.0%	0.1 mm	12.6 kph	7.0
+Tay Ninh	26/09/2024	28.40 °C	75.0%	5.6 mm	18.0 kph	7.0
+Binh Duong	26/09/2024	26.60 °C	84.0%	0.2 mm	12.2 kph	6.0
+Ho Chi Minh City	27/09/2024	27.10 °C	80.0%	3.3 mm	15.1 kph	7.0
+Binh Phuoc	27/09/2024	26.90 °C	81.0%	1.9 mm	16.2 kph	7.0
+Dong Nai	27/09/2024	27.20 °C	86.0%	1.0 mm	10.8 kph	7.0
+Ba Ria Vung Tau	27/09/2024	27.60 °C	77.0%	7.9 mm	19.4 kph	6.0
+Tien Giang	27/09/2024	27.50 °C	81.0%	0.8 mm	14.4 kph	7.0
+Tay Ninh	27/09/2024	27.70 °C	78.0%	5.7 mm	15.8 kph	7.0
+Binh Duong	27/09/2024	26.80 °C	83.0%	0.0 mm	15.5 kph	7.0
+Ho Chi Minh City	28/09/2024	27.70 °C	78.0%	0.3 mm	9.0 kph	7.0
+Binh Phuoc	28/09/2024	27.50 °C	80.0%	0.2 mm	9.7 kph	7.0
+Dong Nai	28/09/2024	28.00 °C	83.0%	0.5 mm	14.0 kph	7.0
+Ba Ria Vung Tau	28/09/2024	27.90 °C	77.0%	0.1 mm	14.4 kph	6.0
+Tien Giang	28/09/2024	28.40 °C	82.0%	2.4 mm	16.9 kph	7.0
+Tay Ninh	28/09/2024	28.60 °C	74.0%	0.1 mm	13.3 kph	7.0
+Binh Duong	28/09/2024	27.20 °C	84.0%	1.6 mm	13.0 kph	7.0
+Ho Chi Minh City	29/09/2024	28.70 °C	76.0%	0.3 mm	9.4 kph	7.0
+Binh Phuoc	29/09/2024	28.60 °C	76.0%	0.2 mm	9.7 kph	7.0
+Dong Nai	29/09/2024	28.80 °C	79.0%	0.8 mm	13.3 kph	7.0
+Ba Ria Vung Tau	29/09/2024	28.10 °C	81.0%	0.5 mm	19.1 kph	6.0
+Tien Giang	29/09/2024	28.00 °C	89.0%	20.3 mm	14.0 kph	7.0
+Tay Ninh	29/09/2024	30.00 °C	68.0%	0.0 mm	14.0 kph	7.0
+Binh Duong	29/09/2024	27.20 °C	83.0%	2.5 mm	11.9 kph	7.0
+Ho Chi Minh City	30/09/2024	28.80 °C	76.0%	0.7 mm	11.9 kph	7.0
+Binh Phuoc	30/09/2024	28.20 °C	79.0%	2.0 mm	9.7 kph	7.0
+Dong Nai	30/09/2024	28.50 °C	80.0%	3.3 mm	10.4 kph	7.0
+Ba Ria Vung Tau	30/09/2024	28.40 °C	79.0%	6.3 mm	18.0 kph	6.0
+Tien Giang	30/09/2024	28.20 °C	82.0%	24.3 mm	17.6 kph	7.0
+Tay Ninh	30/09/2024	29.70 °C	72.0%	0.5 mm	19.4 kph	7.0
+Binh Duong	30/09/2024	27.50 °C	85.0%	10.7 mm	14.8 kph	7.0
+Ho Chi Minh City	01/10/2024	28.40 °C	79.0%	9.3 mm	14.8 kph	7.0
+Binh Phuoc	01/10/2024	28.20 °C	81.0%	5.4 mm	14.8 kph	7.0
+Dong Nai	01/10/2024	27.00 °C	85.0%	35.5 mm	21.6 kph	7.0
+Ba Ria Vung Tau	01/10/2024	28.40 °C	80.0%	9.8 mm	19.8 kph	7.0
+Tien Giang	01/10/2024	25.70 °C	75.0%	7.4 mm	26.6 kph	6.0
+Tay Ninh	01/10/2024	29.20 °C	74.0%	9.4 mm	19.4 kph	7.0
+Binh Duong	01/10/2024	27.40 °C	83.0%	6.6 mm	13.0 kph	7.0
+Ho Chi Minh City	02/10/2024	28.30 °C	78.0%	3.9 mm	11.2 kph	7.0
+Binh Phuoc	02/10/2024	27.80 °C	82.0%	6.4 mm	9.0 kph	7.0
+Dong Nai	02/10/2024	23.30 °C	80.0%	3.2 mm	19.8 kph	5.0
+Ba Ria Vung Tau	02/10/2024	28.10 °C	80.0%	13.5 mm	14.4 kph	6.0
+Tien Giang	02/10/2024	24.40 °C	60.0%	0.0 mm	21.2 kph	7.0
+Tay Ninh	02/10/2024	29.30 °C	73.0%	8.3 mm	13.0 kph	7.0
+Binh Duong	02/10/2024	26.10 °C	86.0%	15.1 mm	19.8 kph	6.0
+Ho Chi Minh City	03/10/2024	26.80 °C	86.0%	27.1 mm	7.6 kph	6.0
+Binh Phuoc	03/10/2024	26.80 °C	86.0%	33.7 mm	7.6 kph	7.0
+Dong Nai	03/10/2024	23.30 °C	71.0%	0.0 mm	16.6 kph	6.0
+Ba Ria Vung Tau	03/10/2024	27.80 °C	78.0%	17.7 mm	11.9 kph	6.0
+Tien Giang	03/10/2024	23.60 °C	52.0%	0.0 mm	21.2 kph	7.0
+Tay Ninh	03/10/2024	27.80 °C	78.0%	15.9 mm	14.4 kph	7.0
+Binh Duong	03/10/2024	24.90 °C	83.0%	1.3 mm	19.4 kph	6.0
+Ho Chi Minh City	04/10/2024	27.20 °C	79.0%	2.8 mm	12.2 kph	7.0
+Binh Phuoc	04/10/2024	26.90 °C	82.0%	3.9 mm	10.8 kph	7.0
+Dong Nai	04/10/2024	24.10 °C	72.0%	0.5 mm	15.5 kph	6.0
+Ba Ria Vung Tau	04/10/2024	27.70 °C	78.0%	11.5 mm	19.4 kph	7.0
+Tien Giang	04/10/2024	24.20 °C	56.0%	0.0 mm	9.0 kph	7.0
+Tay Ninh	04/10/2024	27.00 °C	79.0%	3.0 mm	14.4 kph	7.0
+Binh Duong	04/10/2024	24.20 °C	86.0%	2.8 mm	10.8 kph	5.0
+Ho Chi Minh City	05/10/2024	27.60 °C	78.0%	5.0 mm	10.4 kph	7.0
+Binh Phuoc	05/10/2024	27.40 °C	81.0%	6.4 mm	11.9 kph	7.0
+Dong Nai	05/10/2024	24.00 °C	76.0%	0.2 mm	14.4 kph	6.0
+Ba Ria Vung Tau	05/10/2024	28.10 °C	78.0%	15.8 mm	18.0 kph	7.0
+Tien Giang	05/10/2024	25.10 °C	60.0%	0.0 mm	9.7 kph	7.0
+Tay Ninh	05/10/2024	28.60 °C	73.0%	9.4 mm	11.2 kph	7.0
+Binh Duong	05/10/2024	25.00 °C	84.0%	9.6 mm	11.2 kph	6.0
+Ho Chi Minh City	06/10/2024	26.00 °C	88.0%	19.4 mm	9.4 kph	6.0
+Binh Phuoc	06/10/2024	26.00 °C	89.0%	14.6 mm	10.8 kph	6.0
+Dong Nai	06/10/2024	24.40 °C	77.0%	0.3 mm	15.5 kph	6.0
+Ba Ria Vung Tau	06/10/2024	27.60 °C	78.0%	11.3 mm	18.7 kph	6.0
+Tien Giang	06/10/2024	26.10 °C	59.0%	0.0 mm	10.4 kph	8.0
+Tay Ninh	06/10/2024	26.90 °C	83.0%	8.5 mm	12.6 kph	6.0
+Binh Duong	06/10/2024	25.70 °C	84.0%	7.2 mm	15.8 kph	6.0
+Ho Chi Minh City	07/10/2024	27.00 °C	84.0%	16.6 mm	10.4 kph	7.0
+Binh Phuoc	07/10/2024	26.90 °C	84.0%	22.6 mm	14.4 kph	7.0
+Dong Nai	07/10/2024	24.20 °C	79.0%	0.1 mm	12.6 kph	6.0
+Ba Ria Vung Tau	07/10/2024	27.90 °C	78.0%	14.5 mm	24.1 kph	6.0
+Tien Giang	07/10/2024	27.60 °C	60.0%	0.0 mm	14.8 kph	8.0
+Tay Ninh	07/10/2024	27.90 °C	78.0%	11.6 mm	16.2 kph	7.0
+Binh Duong	07/10/2024	25.70 °C	84.0%	13.1 mm	17.6 kph	6.0
+Ho Chi Minh City	08/10/2024	27.00 °C	83.0%	9.1 mm	9.0 kph	7.0
+Binh Phuoc	08/10/2024	26.60 °C	85.0%	9.3 mm	7.9 kph	7.0
+Dong Nai	08/10/2024	25.00 °C	80.0%	3.6 mm	13.0 kph	6.0
+Ba Ria Vung Tau	08/10/2024	27.20 °C	81.0%	9.5 mm	12.6 kph	6.0
+Tien Giang	08/10/2024	27.90 °C	58.0%	0.0 mm	15.5 kph	8.0
+Tay Ninh	08/10/2024	28.20 °C	77.0%	3.0 mm	11.2 kph	7.0
+Binh Duong	08/10/2024	25.80 °C	83.0%	12.9 mm	16.6 kph	6.0
+Ho Chi Minh City	09/10/2024	26.00 °C	87.0%	3.5 mm	9.0 kph	6.0
+Binh Phuoc	09/10/2024	26.20 °C	86.0%	4.8 mm	13.0 kph	6.0
+Dong Nai	09/10/2024	25.50 °C	79.0%	3.8 mm	17.6 kph	6.0
+Ba Ria Vung Tau	09/10/2024	27.00 °C	80.0%	5.8 mm	13.0 kph	6.0
+Tien Giang	09/10/2024	27.80 °C	59.0%	0.0 mm	13.7 kph	8.0
+Tay Ninh	09/10/2024	27.30 °C	82.0%	26.4 mm	13.0 kph	7.0
+Binh Duong	09/10/2024	25.50 °C	83.0%	13.3 mm	14.8 kph	6.0
+Ho Chi Minh City	10/10/2024	27.20 °C	82.0%	6.1 mm	10.1 kph	7.0
+Binh Phuoc	10/10/2024	26.50 °C	87.0%	9.7 mm	10.1 kph	6.0
+Dong Nai	10/10/2024	25.10 °C	78.0%	0.2 mm	12.6 kph	6.0
+Ba Ria Vung Tau	10/10/2024	27.80 °C	79.0%	6.4 mm	22.7 kph	6.0
+Tien Giang	10/10/2024	27.40 °C	61.0%	0.0 mm	15.1 kph	8.0
+Tay Ninh	10/10/2024	28.50 °C	75.0%	6.9 mm	11.2 kph	7.0
+Binh Duong	10/10/2024	25.40 °C	80.0%	1.3 mm	12.6 kph	6.0
+Ho Chi Minh City	11/10/2024	27.80 °C	82.0%	7.1 mm	11.9 kph	7.0
+Binh Phuoc	11/10/2024	27.50 °C	83.0%	7.3 mm	13.0 kph	7.0
+Dong Nai	11/10/2024	25.00 °C	78.0%	0.0 mm	11.2 kph	6.0
+Ba Ria Vung Tau	11/10/2024	28.00 °C	81.0%	3.2 mm	24.1 kph	6.0
+Tien Giang	11/10/2024	27.00 °C	60.0%	0.0 mm	16.9 kph	8.0
+Tay Ninh	11/10/2024	28.50 °C	76.0%	11.8 mm	15.5 kph	7.0
+Binh Duong	11/10/2024	24.90 °C	87.0%	4.3 mm	10.8 kph	6.0
+Ho Chi Minh City	12/10/2024	27.70 °C	83.0%	10.8 mm	10.4 kph	7.0
+Binh Phuoc	12/10/2024	27.70 °C	83.0%	9.2 mm	15.1 kph	7.0
+Dong Nai	12/10/2024	25.40 °C	83.0%	3.3 mm	9.7 kph	6.0
+Ba Ria Vung Tau	12/10/2024	28.40 °C	80.0%	9.5 mm	25.2 kph	6.0
+Tien Giang	12/10/2024	26.30 °C	73.0%	1.4 mm	15.5 kph	7.0
+Tay Ninh	12/10/2024	28.40 °C	78.0%	24.3 mm	14.8 kph	7.0
+Binh Duong	12/10/2024	25.60 °C	85.0%	4.2 mm	10.8 kph	6.0
+Ho Chi Minh City	13/10/2024	27.70 °C	84.0%	10.4 mm	10.1 kph	7.0
+Binh Phuoc	13/10/2024	27.40 °C	86.0%	15.2 mm	9.7 kph	7.0
+Dong Nai	13/10/2024	25.90 °C	84.0%	5.2 mm	9.7 kph	6.0
+Ba Ria Vung Tau	13/10/2024	28.40 °C	80.0%	3.6 mm	26.3 kph	6.0
+Tien Giang	13/10/2024	26.90 °C	76.0%	4.1 mm	15.1 kph	7.0
+Tay Ninh	13/10/2024	28.60 °C	78.0%	14.8 mm	10.4 kph	7.0
+Binh Duong	13/10/2024	26.00 °C	83.0%	6.8 mm	13.0 kph	6.0
+Ho Chi Minh City	14/10/2024	27.80 °C	82.0%	15.5 mm	10.1 kph	7.0
+Binh Phuoc	14/10/2024	27.40 °C	84.0%	26.1 mm	8.6 kph	7.0
+Dong Nai	14/10/2024	26.40 °C	82.0%	0.6 mm	12.2 kph	6.0
+Ba Ria Vung Tau	14/10/2024	28.00 °C	79.0%	11.8 mm	19.4 kph	6.0
+Tien Giang	14/10/2024	27.20 °C	73.0%	0.4 mm	15.1 kph	7.0
+Tay Ninh	14/10/2024	28.40 °C	77.0%	7.3 mm	13.0 kph	7.0
+Binh Duong	14/10/2024	25.70 °C	86.0%	9.3 mm	15.8 kph	6.0
+Ho Chi Minh City	15/10/2024	27.50 °C	83.0%	19.8 mm	11.5 kph	7.0
+Binh Phuoc	15/10/2024	27.40 °C	83.0%	13.8 mm	10.4 kph	7.0
+Dong Nai	15/10/2024	26.50 °C	85.0%	4.3 mm	11.5 kph	6.0
+Ba Ria Vung Tau	15/10/2024	28.30 °C	78.0%	16.6 mm	18.0 kph	6.0
+Tien Giang	15/10/2024	27.60 °C	74.0%	4.2 mm	16.2 kph	7.0
+Tay Ninh	15/10/2024	28.80 °C	75.0%	12.3 mm	13.3 kph	7.0
+Binh Duong	15/10/2024	26.00 °C	86.0%	10.4 mm	14.0 kph	6.0
+Ho Chi Minh City	16/10/2024	26.80 °C	84.0%	6.3 mm	8.6 kph	7.0
+Binh Phuoc	16/10/2024	25.60 °C	89.0%	2.8 mm	10.1 kph	6.0
+Dong Nai	16/10/2024	25.90 °C	86.0%	12.7 mm	18.0 kph	6.0
+Ba Ria Vung Tau	16/10/2024	27.30 °C	80.0%	20.0 mm	15.1 kph	6.0
+Tien Giang	16/10/2024	27.40 °C	71.0%	0.3 mm	14.4 kph	7.0
+Tay Ninh	16/10/2024	27.00 °C	79.0%	1.4 mm	12.2 kph	7.0
+Binh Duong	16/10/2024	25.80 °C	84.0%	5.5 mm	11.9 kph	6.0
+Ho Chi Minh City	17/10/2024	26.60 °C	85.0%	9.9 mm	8.6 kph	7.0
+Binh Phuoc	17/10/2024	26.30 °C	85.0%	12.8 mm	8.6 kph	6.0
+Dong Nai	17/10/2024	26.00 °C	85.0%	2.1 mm	11.9 kph	6.0
+Ba Ria Vung Tau	17/10/2024	26.90 °C	82.0%	16.4 mm	12.6 kph	6.0
+Tien Giang	17/10/2024	28.00 °C	70.0%	0.2 mm	15.5 kph	7.0
+Tay Ninh	17/10/2024	27.20 °C	80.0%	13.3 mm	9.4 kph	7.0
+Binh Duong	17/10/2024	25.90 °C	84.0%	1.8 mm	10.4 kph	6.0
+Ho Chi Minh City	18/10/2024	26.00 °C	88.0%	18.8 mm	10.1 kph	6.0
+Binh Phuoc	18/10/2024	25.80 °C	87.0%	8.6 mm	11.2 kph	6.0
+Dong Nai	18/10/2024	26.50 °C	84.0%	3.4 mm	12.6 kph	6.0
+Ba Ria Vung Tau	18/10/2024	26.30 °C	82.0%	19.0 mm	14.0 kph	6.0
+Tien Giang	18/10/2024	28.00 °C	74.0%	2.8 mm	15.1 kph	7.0
+Tay Ninh	18/10/2024	26.10 °C	84.0%	11.1 mm	11.2 kph	6.0
+Binh Duong	18/10/2024	26.00 °C	85.0%	2.2 mm	11.9 kph	6.0
+Ho Chi Minh City	19/10/2024	25.30 °C	90.0%	10.9 mm	15.1 kph	6.0
+Binh Phuoc	19/10/2024	24.90 °C	92.0%	13.4 mm	10.8 kph	6.0
+Dong Nai	19/10/2024	26.60 °C	84.0%	4.0 mm	10.8 kph	6.0
+Ba Ria Vung Tau	19/10/2024	26.30 °C	85.0%	29.4 mm	19.1 kph	6.0
+Tien Giang	19/10/2024	27.60 °C	77.0%	17.0 mm	14.8 kph	7.0
+Tay Ninh	19/10/2024	26.30 °C	85.0%	16.4 mm	14.4 kph	6.0
+Binh Duong	19/10/2024	26.10 °C	84.0%	2.3 mm	12.2 kph	6.0
+Ho Chi Minh City	20/10/2024	26.10 °C	87.0%	21.2 mm	13.7 kph	7.0
+Binh Phuoc	20/10/2024	26.00 °C	87.0%	20.8 mm	14.8 kph	7.0
+Dong Nai	20/10/2024	26.20 °C	85.0%	12.0 mm	10.8 kph	6.0
+Ba Ria Vung Tau	20/10/2024	26.90 °C	79.0%	16.5 mm	24.1 kph	6.0
+Tien Giang	20/10/2024	27.70 °C	73.0%	12.6 mm	16.9 kph	7.0
+Tay Ninh	20/10/2024	26.90 °C	82.0%	16.5 mm	18.4 kph	7.0
+Binh Duong	20/10/2024	25.00 °C	89.0%	9.9 mm	12.2 kph	6.0
+Ho Chi Minh City	21/10/2024	26.30 °C	87.0%	6.3 mm	13.3 kph	7.0
+Binh Phuoc	21/10/2024	26.30 °C	87.0%	7.3 mm	14.4 kph	7.0
+Dong Nai	21/10/2024	25.70 °C	87.0%	12.4 mm	9.0 kph	6.0
+Ba Ria Vung Tau	21/10/2024	27.20 °C	82.0%	12.9 mm	20.5 kph	6.0
+Tien Giang	21/10/2024	25.50 °C	82.0%	6.9 mm	7.9 kph	6.0
+Tay Ninh	21/10/2024	27.10 °C	82.0%	6.2 mm	15.5 kph	7.0
+Binh Duong	21/10/2024	24.90 °C	91.0%	34.2 mm	10.8 kph	6.0
+Ho Chi Minh City	22/10/2024	24.40 °C	95.0%	27.7 mm	12.6 kph	6.0
+Binh Phuoc	22/10/2024	23.90 °C	96.0%	41.4 mm	11.5 kph	6.0
+Dong Nai	22/10/2024	25.50 °C	87.0%	12.8 mm	20.5 kph	6.0
+Ba Ria Vung Tau	22/10/2024	25.30 °C	91.0%	38.6 mm	26.6 kph	6.0
+Tien Giang	22/10/2024	27.90 °C	67.0%	1.5 mm	20.5 kph	7.0
+Tay Ninh	22/10/2024	25.00 °C	89.0%	27.3 mm	14.8 kph	6.0
+Binh Duong	22/10/2024	25.80 °C	87.0%	36.5 mm	17.6 kph	6.0
+Ho Chi Minh City	23/10/2024	25.00 °C	91.0%	9.1 mm	10.8 kph	6.0
+Binh Phuoc	23/10/2024	24.30 °C	93.0%	5.9 mm	10.4 kph	6.0
+Dong Nai	23/10/2024	24.60 °C	85.0%	14.4 mm	19.8 kph	6.0
+Ba Ria Vung Tau	23/10/2024	25.40 °C	85.0%	5.1 mm	13.3 kph	6.0
+Tien Giang	23/10/2024	27.60 °C	53.0%	0.0 mm	21.6 kph	8.0
+Tay Ninh	23/10/2024	26.90 °C	79.0%	7.2 mm	14.4 kph	7.0
+Binh Duong	23/10/2024	25.40 °C	83.0%	22.8 mm	18.4 kph	6.0
+Ho Chi Minh City	24/10/2024	26.80 °C	78.0%	0.5 mm	13.0 kph	7.0
+Binh Phuoc	24/10/2024	26.40 °C	80.0%	1.9 mm	13.0 kph	7.0
+Dong Nai	24/10/2024	24.30 °C	76.0%	0.5 mm	14.0 kph	6.0
+Ba Ria Vung Tau	24/10/2024	27.40 °C	76.0%	0.7 mm	17.6 kph	7.0
+Tien Giang	24/10/2024	26.60 °C	49.0%	0.0 mm	10.8 kph	8.0
+Tay Ninh	24/10/2024	28.20 °C	72.0%	0.3 mm	13.3 kph	7.0
+Binh Duong	24/10/2024	24.50 °C	81.0%	1.9 mm	20.2 kph	6.0
+Ho Chi Minh City	25/10/2024	27.30 °C	80.0%	2.4 mm	15.1 kph	7.0
+Binh Phuoc	25/10/2024	26.90 °C	82.0%	1.7 mm	12.6 kph	7.0
+Dong Nai	25/10/2024	23.70 °C	71.0%	0.0 mm	13.3 kph	7.0
+Ba Ria Vung Tau	25/10/2024	28.00 °C	78.0%	3.2 mm	21.2 kph	7.0
+Tien Giang	25/10/2024	26.40 °C	42.0%	0.0 mm	13.3 kph	8.0
+Tay Ninh	25/10/2024	28.30 °C	73.0%	0.6 mm	20.5 kph	7.0
+Binh Duong	25/10/2024	24.30 °C	75.0%	0.0 mm	19.1 kph	7.0
+Ho Chi Minh City	26/10/2024	26.50 °C	83.0%	1.9 mm	13.7 kph	6.0
+Binh Phuoc	26/10/2024	26.50 °C	85.0%	3.5 mm	12.2 kph	6.0
+Dong Nai	26/10/2024	22.30 °C	76.0%	64.8 mm	26.3 kph	6.0
+Ba Ria Vung Tau	26/10/2024	27.50 °C	81.0%	7.5 mm	22.0 kph	6.0
+Tien Giang	26/10/2024	26.60 °C	42.0%	0.8 mm	25.9 kph	7.0
+Tay Ninh	26/10/2024	28.00 °C	74.0%	0.2 mm	15.8 kph	7.0
+Binh Duong	26/10/2024	20.10 °C	88.0%	27.1 mm	32.4 kph	5.0
+Ho Chi Minh City	27/10/2024	25.70 °C	87.0%	4.3 mm	10.1 kph	6.0
+Binh Phuoc	27/10/2024	25.90 °C	89.0%	4.8 mm	13.0 kph	6.0
+Dong Nai	27/10/2024	20.50 °C	94.0%	97.9 mm	37.4 kph	5.0
+Ba Ria Vung Tau	27/10/2024	27.20 °C	83.0%	15.1 mm	23.4 kph	6.0
+Tien Giang	27/10/2024	19.80 °C	87.0%	31.8 mm	21.2 kph	5.0
+Tay Ninh	27/10/2024	26.00 °C	83.0%	6.1 mm	11.9 kph	6.0
+Binh Duong	27/10/2024	22.50 °C	80.0%	0.3 mm	22.7 kph	6.0
+Ho Chi Minh City	28/10/2024	23.20 °C	96.0%	23.5 mm	8.3 kph	5.0
+Binh Phuoc	28/10/2024	23.40 °C	97.0%	30.6 mm	9.4 kph	5.0
+Dong Nai	28/10/2024	20.60 °C	94.0%	68.9 mm	31.7 kph	5.0
+Ba Ria Vung Tau	28/10/2024	25.00 °C	91.0%	30.0 mm	28.4 kph	6.0
+Tien Giang	28/10/2024	20.10 °C	88.0%	4.1 mm	20.2 kph	5.0
+Tay Ninh	28/10/2024	23.20 °C	93.0%	9.8 mm	9.0 kph	5.0
+Binh Duong	28/10/2024	21.50 °C	86.0%	10.8 mm	10.8 kph	5.0
+Ho Chi Minh City	29/10/2024	25.20 °C	84.0%	2.4 mm	17.6 kph	6.0
+Binh Phuoc	29/10/2024	25.30 °C	86.0%	5.4 mm	15.1 kph	6.0
+Dong Nai	29/10/2024	20.50 °C	95.0%	28.5 mm	20.9 kph	5.0
+Ba Ria Vung Tau	29/10/2024	26.10 °C	83.0%	9.2 mm	17.3 kph	6.0
+Tien Giang	29/10/2024	20.30 °C	87.0%	3.9 mm	14.4 kph	5.0
+Tay Ninh	29/10/2024	25.80 °C	79.0%	1.4 mm	14.0 kph	7.0
+Binh Duong	29/10/2024	22.60 °C	87.0%	1.3 mm	8.6 kph	5.0
+Ho Chi Minh City	30/10/2024	26.40 °C	82.0%	1.9 mm	14.0 kph	7.0
+Binh Phuoc	30/10/2024	26.20 °C	84.0%	4.8 mm	13.3 kph	7.0
+Dong Nai	30/10/2024	21.70 °C	92.0%	20.9 mm	19.4 kph	5.0
+Ba Ria Vung Tau	30/10/2024	27.00 °C	82.0%	5.3 mm	20.5 kph	6.0
+Tien Giang	30/10/2024	24.20 °C	66.0%	0.0 mm	10.8 kph	6.0
+Tay Ninh	30/10/2024	27.20 °C	76.0%	1.1 mm	13.3 kph	7.0
+Binh Duong	30/10/2024	24.70 °C	88.0%	28.8 mm	15.5 kph	6.0
+Ho Chi Minh City	31/10/2024	26.70 °C	81.0%	1.2 mm	17.6 kph	7.0
+Binh Phuoc	31/10/2024	26.70 °C	83.0%	0.8 mm	17.6 kph	7.0
+Dong Nai	31/10/2024	23.90 °C	79.0%	0.0 mm	7.6 kph	7.0
+Ba Ria Vung Tau	31/10/2024	27.50 °C	81.0%	1.3 mm	21.2 kph	7.0
+Tien Giang	31/10/2024	26.90 °C	59.0%	0.0 mm	9.4 kph	8.0
+Tay Ninh	31/10/2024	27.50 °C	77.0%	2.8 mm	18.4 kph	7.0
+Binh Duong	31/10/2024	24.90 °C	89.0%	49.1 mm	19.1 kph	6.0
+Ho Chi Minh City	01/11/2024	26.10 °C	85.0%	5.0 mm	15.1 kph	7.0
+Binh Phuoc	01/11/2024	25.80 °C	87.0%	10.3 mm	12.2 kph	6.0
+Dong Nai	01/11/2024	24.70 °C	79.0%	0.0 mm	13.0 kph	6.0
+Ba Ria Vung Tau	01/11/2024	27.10 °C	82.0%	18.3 mm	20.2 kph	6.0
+Tien Giang	01/11/2024	27.50 °C	49.0%	0.0 mm	20.2 kph	8.0
+Tay Ninh	01/11/2024	26.40 °C	84.0%	17.9 mm	15.1 kph	7.0
+Binh Duong	01/11/2024	24.90 °C	77.0%	0.0 mm	18.7 kph	7.0
+Ho Chi Minh City	02/11/2024	24.50 °C	92.0%	6.5 mm	16.2 kph	6.0
+Binh Phuoc	02/11/2024	24.10 °C	93.0%	8.4 mm	17.3 kph	6.0
+Dong Nai	02/11/2024	23.20 °C	72.0%	0.1 mm	19.1 kph	6.0
+Ba Ria Vung Tau	02/11/2024	25.90 °C	85.0%	27.8 mm	27.4 kph	6.0
+Tien Giang	02/11/2024	26.00 °C	42.0%	0.0 mm	22.7 kph	8.0
+Tay Ninh	02/11/2024	24.90 °C	89.0%	8.9 mm	16.2 kph	6.0
+Binh Duong	02/11/2024	24.40 °C	76.0%	0.1 mm	21.6 kph	6.0
+Ho Chi Minh City	03/11/2024	25.70 °C	87.0%	8.4 mm	11.9 kph	7.0
+Binh Phuoc	03/11/2024	25.10 °C	90.0%	7.8 mm	12.6 kph	6.0
+Dong Nai	03/11/2024	22.30 °C	82.0%	21.0 mm	17.6 kph	5.0
+Ba Ria Vung Tau	03/11/2024	26.40 °C	83.0%	11.2 mm	18.7 kph	6.0
+Tien Giang	03/11/2024	25.40 °C	54.0%	0.0 mm	11.2 kph	8.0
+Tay Ninh	03/11/2024	26.60 °C	82.0%	4.0 mm	14.8 kph	6.0
+Binh Duong	03/11/2024	23.00 °C	93.0%	144.4 mm	19.4 kph	5.0
+Ho Chi Minh City	04/11/2024	26.50 °C	85.0%	15.4 mm	14.8 kph	7.0
+Binh Phuoc	04/11/2024	26.10 °C	87.0%	12.3 mm	17.3 kph	7.0
+Dong Nai	04/11/2024	22.30 °C	92.0%	69.1 mm	19.8 kph	5.0
+Ba Ria Vung Tau	04/11/2024	27.50 °C	80.0%	7.0 mm	30.6 kph	6.0
+Tien Giang	04/11/2024	25.10 °C	62.0%	0.0 mm	18.0 kph	6.0
+Tay Ninh	04/11/2024	26.80 °C	83.0%	18.2 mm	13.3 kph	7.0
+Binh Duong	04/11/2024	24.50 °C	88.0%	9.5 mm	14.4 kph	6.0
+Ho Chi Minh City	05/11/2024	26.70 °C	82.0%	14.3 mm	9.0 kph	7.0
+Binh Phuoc	05/11/2024	26.50 °C	83.0%	12.9 mm	10.1 kph	7.0
+Dong Nai	05/11/2024	21.90 °C	95.0%	134.4 mm	19.4 kph	5.0
+Ba Ria Vung Tau	05/11/2024	27.40 °C	79.0%	7.5 mm	23.4 kph	6.0
+Tien Giang	05/11/2024	20.90 °C	82.0%	5.3 mm	17.6 kph	5.0
+Tay Ninh	05/11/2024	27.10 °C	80.0%	16.9 mm	11.2 kph	7.0
+Binh Duong	05/11/2024	24.30 °C	91.0%	91.4 mm	22.7 kph	5.0
+Ho Chi Minh City	06/11/2024	26.60 °C	83.0%	9.9 mm	9.0 kph	7.0
+Binh Phuoc	06/11/2024	26.50 °C	83.0%	9.1 mm	8.6 kph	7.0
+Dong Nai	06/11/2024	20.80 °C	92.0%	36.7 mm	13.3 kph	5.0
+Ba Ria Vung Tau	06/11/2024	27.10 °C	78.0%	4.3 mm	19.1 kph	6.0
+Tien Giang	06/11/2024	23.10 °C	62.0%	0.3 mm	10.4 kph	6.0
+Tay Ninh	06/11/2024	27.00 °C	80.0%	3.6 mm	10.4 kph	7.0
+Binh Duong	06/11/2024	24.30 °C	87.0%	39.5 mm	24.1 kph	6.0
+Ho Chi Minh City	07/11/2024	26.20 °C	85.0%	13.0 mm	6.1 kph	7.0
+Binh Phuoc	07/11/2024	25.80 °C	87.0%	15.1 mm	6.1 kph	6.0
+Dong Nai	07/11/2024	21.10 °C	89.0%	13.9 mm	12.6 kph	5.0
+Ba Ria Vung Tau	07/11/2024	27.20 °C	77.0%	10.3 mm	20.5 kph	6.0
+Tien Giang	07/11/2024	24.40 °C	58.0%	0.0 mm	11.2 kph	6.0
+Tay Ninh	07/11/2024	26.60 °C	81.0%	8.8 mm	11.5 kph	7.0
+Binh Duong	07/11/2024	24.20 °C	85.0%	23.2 mm	23.8 kph	5.0
+Ho Chi Minh City	08/11/2024	25.30 °C	85.0%	0.7 mm	8.3 kph	6.0
+Binh Phuoc	08/11/2024	25.50 °C	86.0%	1.7 mm	8.6 kph	6.0
+Dong Nai	08/11/2024	22.20 °C	84.0%	4.8 mm	10.4 kph	5.0
+Ba Ria Vung Tau	08/11/2024	26.30 °C	80.0%	6.2 mm	13.0 kph	6.0
+Tien Giang	08/11/2024	25.10 °C	59.0%	0.0 mm	15.1 kph	7.0
+Tay Ninh	08/11/2024	26.00 °C	81.0%	0.3 mm	16.9 kph	6.0
+Binh Duong	08/11/2024	23.80 °C	81.0%	4.7 mm	20.5 kph	6.0
+Ho Chi Minh City	09/11/2024	25.70 °C	85.0%	6.8 mm	7.9 kph	6.0
+Binh Phuoc	09/11/2024	25.80 °C	87.0%	12.6 mm	7.2 kph	7.0
+Dong Nai	09/11/2024	21.40 °C	78.0%	0.0 mm	10.1 kph	7.0
+Ba Ria Vung Tau	09/11/2024	27.10 °C	80.0%	8.3 mm	28.8 kph	6.0
+Tien Giang	09/11/2024	24.90 °C	53.0%	0.0 mm	8.6 kph	8.0
+Tay Ninh	09/11/2024	26.40 °C	79.0%	5.1 mm	9.7 kph	6.0
+Binh Duong	09/11/2024	23.00 °C	79.0%	0.1 mm	18.4 kph	6.0
+Ho Chi Minh City	10/11/2024	26.20 °C	86.0%	14.5 mm	9.7 kph	7.0
+Binh Phuoc	10/11/2024	25.90 °C	87.0%	14.3 mm	11.2 kph	7.0
+Dong Nai	10/11/2024	22.20 °C	73.0%	0.0 mm	9.4 kph	7.0
+Ba Ria Vung Tau	10/11/2024	27.10 °C	79.0%	0.9 mm	28.1 kph	6.0
+Tien Giang	10/11/2024	25.90 °C	48.0%	0.0 mm	8.3 kph	8.0
+Tay Ninh	10/11/2024	27.30 °C	78.0%	10.9 mm	11.9 kph	7.0
+Binh Duong	10/11/2024	23.30 °C	78.0%	0.1 mm	18.0 kph	6.0
+Ho Chi Minh City	11/11/2024	25.90 °C	86.0%	3.1 mm	8.6 kph	6.0
+Binh Phuoc	11/11/2024	26.30 °C	86.0%	7.5 mm	10.4 kph	6.0
+Dong Nai	11/11/2024	23.00 °C	74.0%	0.0 mm	10.4 kph	6.0
+Ba Ria Vung Tau	11/11/2024	27.10 °C	80.0%	8.8 mm	20.5 kph	6.0
+Tien Giang	11/11/2024	26.40 °C	51.0%	0.0 mm	13.7 kph	8.0
+Tay Ninh	11/11/2024	27.50 °C	78.0%	0.8 mm	8.3 kph	7.0
+Binh Duong	11/11/2024	24.00 °C	82.0%	1.1 mm	21.2 kph	6.0
+Ho Chi Minh City	12/11/2024	27.10 °C	82.0%	7.6 mm	8.3 kph	7.0
+Binh Phuoc	12/11/2024	26.80 °C	84.0%	3.4 mm	8.3 kph	7.0
+Dong Nai	12/11/2024	23.90 °C	83.0%	0.2 mm	12.2 kph	6.0
+Ba Ria Vung Tau	12/11/2024	27.40 °C	80.0%	6.4 mm	13.7 kph	6.0
+Tien Giang	12/11/2024	26.90 °C	62.0%	0.0 mm	17.3 kph	8.0
+Tay Ninh	12/11/2024	28.30 °C	73.0%	2.2 mm	10.8 kph	7.0
+Binh Duong	12/11/2024	24.30 °C	90.0%	15.7 mm	14.4 kph	6.0
+Ho Chi Minh City	13/11/2024	26.80 °C	82.0%	4.1 mm	10.1 kph	7.0
+Binh Phuoc	13/11/2024	26.80 °C	83.0%	3.4 mm	10.4 kph	7.0
+Dong Nai	13/11/2024	24.40 °C	86.0%	0.3 mm	10.1 kph	6.0
+Ba Ria Vung Tau	13/11/2024	27.40 °C	78.0%	2.2 mm	17.6 kph	6.0
+Tien Giang	13/11/2024	26.60 °C	70.0%	0.2 mm	15.5 kph	7.0
+Tay Ninh	13/11/2024	27.90 °C	73.0%	0.7 mm	13.3 kph	7.0
+Binh Duong	13/11/2024	24.90 °C	88.0%	6.8 mm	15.5 kph	6.0
+Ho Chi Minh City	14/11/2024	26.90 °C	80.0%	0.5 mm	11.9 kph	7.0
+Binh Phuoc	14/11/2024	26.70 °C	82.0%	0.1 mm	13.0 kph	7.0
+Dong Nai	14/11/2024	24.90 °C	88.0%	0.2 mm	10.8 kph	6.0
+Ba Ria Vung Tau	14/11/2024	27.30 °C	80.0%	0.0 mm	24.8 kph	6.0
+Tien Giang	14/11/2024	27.20 °C	70.0%	0.0 mm	15.8 kph	7.0
+Tay Ninh	14/11/2024	27.80 °C	76.0%	0.0 mm	14.8 kph	8.0
+Binh Duong	14/11/2024	25.00 °C	87.0%	0.3 mm	10.4 kph	6.0
+Ho Chi Minh City	15/11/2024	26.90 °C	84.0%	3.6 mm	12.2 kph	7.0
+Binh Phuoc	15/11/2024	26.80 °C	85.0%	3.6 mm	11.9 kph	7.0
+Dong Nai	15/11/2024	25.20 °C	88.0%	0.1 mm	10.4 kph	6.0
+Ba Ria Vung Tau	15/11/2024	27.50 °C	81.0%	1.0 mm	22.0 kph	6.0
+Tien Giang	15/11/2024	27.80 °C	67.0%	0.0 mm	19.1 kph	8.0
+Tay Ninh	15/11/2024	27.80 °C	78.0%	3.3 mm	12.2 kph	7.0
+Binh Duong	15/11/2024	24.90 °C	87.0%	0.2 mm	13.3 kph	6.0
+Ho Chi Minh City	16/11/2024	26.60 °C	82.0%	0.7 mm	13.3 kph	7.0
+Binh Phuoc	16/11/2024	26.70 °C	83.0%	0.5 mm	13.0 kph	7.0
+Dong Nai	16/11/2024	25.50 °C	86.0%	1.3 mm	12.6 kph	6.0
+Ba Ria Vung Tau	16/11/2024	27.10 °C	79.0%	0.3 mm	24.1 kph	6.0
+Tien Giang	16/11/2024	27.50 °C	71.0%	0.3 mm	15.5 kph	7.0
+Tay Ninh	16/11/2024	27.90 °C	75.0%	0.2 mm	14.4 kph	7.0
+Binh Duong	16/11/2024	24.90 °C	83.0%	0.1 mm	11.2 kph	6.0
+Ho Chi Minh City	17/11/2024	26.50 °C	80.0%	0.2 mm	12.6 kph	7.0
+Binh Phuoc	17/11/2024	26.30 °C	82.0%	0.4 mm	13.7 kph	7.0
+Dong Nai	17/11/2024	25.40 °C	82.0%	1.5 mm	12.6 kph	6.0
+Ba Ria Vung Tau	17/11/2024	27.00 °C	79.0%	0.0 mm	28.1 kph	6.0
+Tien Giang	17/11/2024	28.20 °C	62.0%	1.1 mm	18.0 kph	7.0
+Tay Ninh	17/11/2024	27.60 °C	73.0%	0.0 mm	10.8 kph	8.0
+Binh Duong	17/11/2024	24.50 °C	82.0%	0.9 mm	10.1 kph	6.0
+Ho Chi Minh City	18/11/2024	27.00 °C	76.0%	0.0 mm	10.1 kph	8.0
+Binh Phuoc	18/11/2024	26.70 °C	79.0%	0.0 mm	10.8 kph	8.0
+Dong Nai	18/11/2024	24.70 °C	83.0%	15.8 mm	20.9 kph	6.0
+Ba Ria Vung Tau	18/11/2024	26.90 °C	78.0%	0.2 mm	25.2 kph	6.0
+Tien Giang	18/11/2024	26.20 °C	69.0%	13.4 mm	11.9 kph	6.0
+Tay Ninh	18/11/2024	27.60 °C	69.0%	0.0 mm	11.2 kph	8.0
+Binh Duong	18/11/2024	24.30 °C	84.0%	16.8 mm	15.8 kph	6.0
+Ho Chi Minh City	19/11/2024	27.10 °C	74.0%	0.0 mm	11.2 kph	7.0
+Binh Phuoc	19/11/2024	26.70 °C	79.0%	0.1 mm	9.7 kph	7.0
+Dong Nai	19/11/2024	24.20 °C	84.0%	17.5 mm	23.8 kph	6.0
+Ba Ria Vung Tau	19/11/2024	27.00 °C	78.0%	0.7 mm	28.4 kph	7.0
+Tien Giang	19/11/2024	25.30 °C	57.0%	0.0 mm	13.0 kph	6.0
+Tay Ninh	19/11/2024	27.60 °C	69.0%	0.0 mm	11.9 kph	8.0
+Binh Duong	19/11/2024	24.40 °C	86.0%	31.8 mm	22.0 kph	6.0
+Ho Chi Minh City	20/11/2024	27.00 °C	79.0%	3.3 mm	10.8 kph	7.0
+Binh Phuoc	20/11/2024	26.80 °C	82.0%	4.2 mm	11.5 kph	7.0
+Dong Nai	20/11/2024	22.10 °C	89.0%	13.9 mm	19.8 kph	5.0
+Ba Ria Vung Tau	20/11/2024	27.10 °C	80.0%	8.5 mm	38.5 kph	6.0
+Tien Giang	20/11/2024	24.60 °C	52.0%	0.0 mm	19.4 kph	7.0
+Tay Ninh	20/11/2024	27.90 °C	72.0%	3.4 mm	12.6 kph	7.0
+Binh Duong	20/11/2024	23.90 °C	86.0%	1.4 mm	19.8 kph	6.0
+Ho Chi Minh City	21/11/2024	27.20 °C	80.0%	0.8 mm	10.4 kph	7.0
+Binh Phuoc	21/11/2024	26.60 °C	83.0%	1.4 mm	10.1 kph	7.0
+Dong Nai	21/11/2024	21.30 °C	91.0%	16.2 mm	14.8 kph	5.0
+Ba Ria Vung Tau	21/11/2024	27.40 °C	78.0%	1.5 mm	27.4 kph	6.0
+Tien Giang	21/11/2024	23.40 °C	53.0%	0.0 mm	14.8 kph	7.0
+Tay Ninh	21/11/2024	27.70 °C	74.0%	2.3 mm	12.2 kph	7.0
+Binh Duong	21/11/2024	24.10 °C	90.0%	52.7 mm	21.2 kph	5.0
+Ho Chi Minh City	22/11/2024	27.40 °C	77.0%	0.2 mm	11.5 kph	7.0
+Binh Phuoc	22/11/2024	26.90 °C	80.0%	1.2 mm	11.2 kph	7.0
+Dong Nai	22/11/2024	20.80 °C	88.0%	12.3 mm	14.8 kph	5.0
+Ba Ria Vung Tau	22/11/2024	27.30 °C	79.0%	0.3 mm	33.5 kph	7.0
+Tien Giang	22/11/2024	23.20 °C	52.0%	0.0 mm	14.4 kph	7.0
+Tay Ninh	22/11/2024	27.90 °C	72.0%	0.0 mm	14.4 kph	8.0
+Binh Duong	22/11/2024	24.20 °C	87.0%	41.2 mm	24.1 kph	5.0
+Ho Chi Minh City	23/11/2024	27.10 °C	77.0%	0.2 mm	9.4 kph	7.0
+Binh Phuoc	23/11/2024	26.60 °C	81.0%	1.1 mm	7.6 kph	7.0
+Dong Nai	23/11/2024	21.00 °C	90.0%	7.3 mm	11.5 kph	5.0
+Ba Ria Vung Tau	23/11/2024	27.20 °C	78.0%	0.4 mm	24.8 kph	6.0
+Tien Giang	23/11/2024	24.30 °C	56.0%	0.0 mm	20.2 kph	6.0
+Tay Ninh	23/11/2024	27.70 °C	70.0%	0.0 mm	12.6 kph	8.0
+Binh Duong	23/11/2024	23.90 °C	90.0%	37.3 mm	22.0 kph	5.0
+Ho Chi Minh City	24/11/2024	27.60 °C	74.0%	0.1 mm	11.2 kph	7.0
+Binh Phuoc	24/11/2024	27.20 °C	77.0%	0.0 mm	14.0 kph	7.0
+Dong Nai	24/11/2024	22.10 °C	89.0%	1.1 mm	13.7 kph	5.0
+Ba Ria Vung Tau	24/11/2024	27.40 °C	78.0%	0.0 mm	34.9 kph	7.0
+Tien Giang	24/11/2024	21.70 °C	78.0%	0.8 mm	8.3 kph	5.0
+Tay Ninh	24/11/2024	27.70 °C	70.0%	1.2 mm	13.3 kph	8.0
+Binh Duong	24/11/2024	24.20 °C	91.0%	55.2 mm	19.8 kph	5.0
+Ho Chi Minh City	25/11/2024	27.80 °C	75.0%	0.4 mm	11.2 kph	7.0
+Binh Phuoc	25/11/2024	27.30 °C	77.0%	0.5 mm	13.0 kph	7.0
+Dong Nai	25/11/2024	22.80 °C	88.0%	0.5 mm	11.2 kph	5.0
+Ba Ria Vung Tau	25/11/2024	27.60 °C	78.0%	0.0 mm	33.8 kph	7.0
+Tien Giang	25/11/2024	23.00 °C	78.0%	1.2 mm	9.0 kph	6.0
+Tay Ninh	25/11/2024	28.10 °C	73.0%	0.2 mm	11.9 kph	7.0
+Binh Duong	25/11/2024	24.80 °C	86.0%	8.5 mm	9.0 kph	6.0
+Ho Chi Minh City	26/11/2024	27.60 °C	76.0%	0.9 mm	9.4 kph	7.0
+Binh Phuoc	26/11/2024	26.90 °C	80.0%	1.2 mm	8.6 kph	7.0
+Dong Nai	26/11/2024	20.40 °C	93.0%	27.2 mm	21.6 kph	5.0
+Ba Ria Vung Tau	26/11/2024	27.70 °C	76.0%	0.2 mm	30.6 kph	7.0
+Tien Giang	26/11/2024	17.70 °C	75.0%	7.1 mm	27.0 kph	5.0
+Tay Ninh	26/11/2024	28.00 °C	71.0%	0.0 mm	11.2 kph	8.0
+Binh Duong	26/11/2024	24.10 °C	88.0%	22.3 mm	20.2 kph	6.0
+Ho Chi Minh City	27/11/2024	26.30 °C	75.0%	0.0 mm	8.3 kph	6.0
+Binh Phuoc	27/11/2024	25.90 °C	80.0%	0.2 mm	8.3 kph	6.0
+Dong Nai	27/11/2024	18.30 °C	89.0%	13.2 mm	21.6 kph	4.0
+Ba Ria Vung Tau	27/11/2024	27.30 °C	77.0%	0.7 mm	28.1 kph	6.0
+Tien Giang	27/11/2024	18.70 °C	58.0%	0.1 mm	19.1 kph	4.0
+Tay Ninh	27/11/2024	26.70 °C	71.0%	0.0 mm	17.6 kph	8.0
+Binh Duong	27/11/2024	23.80 °C	88.0%	37.3 mm	31.3 kph	5.0
+Ho Chi Minh City	28/11/2024	26.40 °C	72.0%	0.3 mm	18.7 kph	7.0
+Binh Phuoc	28/11/2024	26.00 °C	77.0%	1.0 mm	13.3 kph	7.0
+Dong Nai	28/11/2024	18.60 °C	79.0%	1.7 mm	16.2 kph	4.0
+Ba Ria Vung Tau	28/11/2024	27.20 °C	76.0%	3.6 mm	33.1 kph	6.0
+Tien Giang	28/11/2024	20.70 °C	42.0%	0.0 mm	19.8 kph	7.0
+Tay Ninh	28/11/2024	27.10 °C	66.0%	0.0 mm	30.6 kph	7.0
+Binh Duong	28/11/2024	22.30 °C	82.0%	8.6 mm	29.2 kph	5.0
+Ho Chi Minh City	29/11/2024	25.30 °C	69.0%	0.0 mm	14.4 kph	7.0
+Binh Phuoc	29/11/2024	24.80 °C	73.0%	0.0 mm	13.0 kph	7.0
+Dong Nai	29/11/2024	19.70 °C	71.0%	0.2 mm	19.1 kph	5.0
+Ba Ria Vung Tau	29/11/2024	25.60 °C	74.0%	0.0 mm	16.2 kph	6.0
+Tien Giang	29/11/2024	20.70 °C	37.0%	0.0 mm	14.0 kph	7.0
+Tay Ninh	29/11/2024	26.30 °C	61.0%	0.0 mm	22.3 kph	8.0
+Binh Duong	29/11/2024	21.70 °C	74.0%	2.0 mm	20.2 kph	5.0
+Ho Chi Minh City	30/11/2024	25.40 °C	69.0%	0.0 mm	11.9 kph	7.0
+Binh Phuoc	30/11/2024	25.00 °C	73.0%	0.0 mm	12.2 kph	7.0
+Dong Nai	30/11/2024	18.80 °C	77.0%	0.0 mm	11.2 kph	5.0
+Ba Ria Vung Tau	30/11/2024	25.50 °C	74.0%	0.4 mm	15.8 kph	6.0
+Tien Giang	30/11/2024	21.40 °C	51.0%	0.0 mm	20.9 kph	7.0
+Tay Ninh	30/11/2024	25.90 °C	62.0%	0.0 mm	16.6 kph	8.0
+Binh Duong	30/11/2024	21.80 °C	80.0%	3.1 mm	14.0 kph	5.0
+Ho Chi Minh City	01/12/2024	25.70 °C	82.0%	3.4 mm	7.6 kph	6.0
+Binh Phuoc	01/12/2024	25.00 °C	88.0%	4.7 mm	7.9 kph	6.0
+Dong Nai	01/12/2024	20.20 °C	84.0%	0.0 mm	9.0 kph	5.0
+Ba Ria Vung Tau	01/12/2024	25.90 °C	83.0%	6.3 mm	16.6 kph	6.0
+Tien Giang	01/12/2024	21.70 °C	65.0%	0.1 mm	15.1 kph	6.0
+Tay Ninh	01/12/2024	26.50 °C	71.0%	2.1 mm	9.7 kph	6.0
+Binh Duong	01/12/2024	22.70 °C	84.0%	1.6 mm	10.4 kph	5.0
