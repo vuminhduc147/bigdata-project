@@ -1,6 +1,5 @@
 package org.example;
 
-import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
@@ -9,44 +8,39 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class TemperatureMapper extends Mapper<Object, Text, Text, DoubleWritable> {
+public class TemperatureMapper extends Mapper<Object, Text, Text, Text> {
 
     @Override
     protected void map(Object key, Text value, Context context) throws IOException, InterruptedException {
         String line = value.toString();
-        String[] fields = line.split("\\t"); // Tách các cột theo ký tự tab
+        String[] fields = line.split("\\t");
 
-        // Kiểm tra dòng input hợp lệ
-        if (fields.length != 3) {
-            System.err.println("Invalid input line: " + line);
-            return;
-        }
+        if (fields.length == 6) { // Đảm bảo dòng có đúng 6 cột: city, date, temperature, humidity, rainfall, windspeed
+            String city = fields[0]; // Lấy tên thành phố
+            String date = fields[1]; // Lấy ngày
+            String temperature = fields[2].replace("°C", "").trim(); // Lấy nhiệt độ và loại bỏ ký tự '°C'
+            String humidity = fields[3].replace("%", "").trim(); // Lấy độ ẩm và loại bỏ ký tự '%'
+            String rainfall = fields[4].replace(" mm", "").trim(); // Lấy lượng mưa và loại bỏ ký tự 'mm'
+            String windspeed = fields[5].replace(" kph", "").trim(); // Lấy tốc độ gió và loại bỏ ký tự 'kph'
 
-        String city = fields[0].trim(); // Lấy tên thành phố
-        String date = fields[1].trim(); // Lấy ngày
-        double temperature;
+            // Chuyển đổi date thành định dạng tháng-năm
+            SimpleDateFormat inputFormat = new SimpleDateFormat("dd/MM/yyyy");
+            SimpleDateFormat outputFormat = new SimpleDateFormat("MM/yyyy");
+            try {
+                Date parsedDate = inputFormat.parse(date);
+                String month = outputFormat.format(parsedDate);
 
-        // Xử lý lỗi nhiệt độ không hợp lệ
-        try {
-            temperature = Double.parseDouble(fields[2].replace("°C", "").trim());
-        } catch (NumberFormatException e) {
-            System.err.println("Invalid temperature: " + fields[2]);
-            return;
-        }
+                // Gộp city và month thành key
+                String cityMonthKey = city + "-" + month;
 
-        // Chuyển đổi date thành định dạng tháng
-        SimpleDateFormat inputFormat = new SimpleDateFormat("dd/MM/yyyy");
-        SimpleDateFormat outputFormat = new SimpleDateFormat("yyyy-MM");
-        try {
-            Date parsedDate = inputFormat.parse(date);
-            String month = outputFormat.format(parsedDate);
+                // Gộp các giá trị lại thành chuỗi để truyền cho Reducer
+                String combinedValues = temperature + "\t" + humidity + "\t" + rainfall + "\t" + windspeed;
 
-            // Gộp city và month thành key
-            String cityMonthKey = city + "\t" + month; // Sử dụng ký tự tab làm phân tách
-            context.write(new Text(cityMonthKey), new DoubleWritable(temperature));
-        } catch (ParseException e) {
-            System.err.println("Error parsing date: " + date);
-            e.printStackTrace();
+                context.write(new Text(cityMonthKey), new Text(combinedValues));
+            } catch (ParseException e) {
+                System.err.println("Error parsing date: " + date);
+                e.printStackTrace();
+            }
         }
     }
 }
