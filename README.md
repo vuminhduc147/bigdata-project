@@ -1,4 +1,4 @@
-# Weather Analysis and Forecasting
+## Weather Analysis and Forecasting
 
 This project aims to analyze and forecast weather conditions, focusing on temperature, humidity, rainfall, and wind speed in major cities of Vietnam. The project leverages Apache Hadoop for distributed data processing and machine learning models for weather prediction.
 
