@@ -74,11 +74,7 @@ Python 3.6 or later (for machine learning and data visualization)
 
 Python libraries: pandas, matplotlib, scikit-learn, keras, tensorflow
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
